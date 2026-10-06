@@ -1,0 +1,39 @@
+name: Update Videos
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install yt-dlp
+        run: |
+          python -m pip install --upgrade pip
+          pip install --upgrade yt-dlp
+
+      - name: Run Video Fetcher
+        run: python fetch_videos.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add categories
+          git diff --staged --quiet || git commit -m "Auto update video categories"
+          git push
