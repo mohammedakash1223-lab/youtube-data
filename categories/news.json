@@ -1,66 +1,10 @@
 [
   {
-    "id": "dcQ9Oneoj4A",
-    "title": "Republic TV LIVE: October 9, 2026 | India | Global News | Elon Musk Vs Indian Govt",
-    "channel": "Republic World",
-    "thumbnail": "https://i.ytimg.com/vi/dcQ9Oneoj4A/hqdefault.jpg",
-    "duration": 0,
-    "category": "news"
-  },
-  {
     "id": "e0523UpZxCw",
     "title": "By-Poll Result 2026 | Breaking News: Big update on by-elections for 5 assembly seats across 4 states",
     "channel": "ABP NEWS",
     "thumbnail": "https://i.ytimg.com/vi/e0523UpZxCw/hqdefault.jpg",
     "duration": 145,
-    "category": "news"
-  },
-  {
-    "id": "yp7_quEfKLU",
-    "title": "By-Poll Result 2026 | Breaking News: 6 सीटों पर उपचुनाव के आज आएंगे नतीजे, वोटो की गिनती शुरू!",
-    "channel": "ABP NEWS",
-    "thumbnail": "https://i.ytimg.com/vi/yp7_quEfKLU/hqdefault.jpg",
-    "duration": 65,
-    "category": "news"
-  },
-  {
-    "id": "8jW2Hp16JsI",
-    "title": "Exclusive: CJP Leaders Abhijeet Dipke, Saurav Das & Ashutosh Ranka At India Today Conclave Mumbai",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/8jW2Hp16JsI/hqdefault.jpg",
-    "duration": 307,
-    "category": "news"
-  },
-  {
-    "id": "WS6ravZTdx0",
-    "title": "Today's 12.30 PM Top Breaking News | 8 Oct 2026 | CEC | Kharge Lunch | Rahul | Priyanka | INDIA",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/WS6ravZTdx0/hqdefault.jpg",
-    "duration": 4711,
-    "category": "news"
-  },
-  {
-    "id": "IkUVpmy168g",
-    "title": "Today's Morning Top News Headlines | Oct 8, 2026 | CEC | Rahul | Priyanka | INDIA | Akhilesh",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/IkUVpmy168g/hqdefault.jpg",
-    "duration": 81,
-    "category": "news"
-  },
-  {
-    "id": "c3EweFTOm0s",
-    "title": "Top 100 News of the Day | News Shatak | 10/08/2026 | Rahul | Priyanka | PM Modi | CEC | CJP | INDIA",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/c3EweFTOm0s/hqdefault.jpg",
-    "duration": 936,
-    "category": "news"
-  },
-  {
-    "id": "CS9NnDz-W_w",
-    "title": "9 अक्टूबर 2026 | Aaj Ki 25 Sabse Badi Khabrein | Breaking News Today | Ravish Kumar Prime Time #news",
-    "channel": "UP News Today  and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/CS9NnDz-W_w/hqdefault.jpg",
-    "duration": 368,
     "category": "news"
   },
   {
@@ -72,147 +16,59 @@
     "category": "news"
   },
   {
+    "id": "c3EweFTOm0s",
+    "title": "Top 100 News of the Day | News Shatak | 10/08/2026 | Rahul | Priyanka | PM Modi | CEC | CJP | INDIA",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/c3EweFTOm0s/hqdefault.jpg",
+    "duration": 936,
+    "category": "news"
+  },
+  {
+    "id": "IkUVpmy168g",
+    "title": "Today's Morning Top News Headlines | Oct 8, 2026 | CEC | Rahul | Priyanka | INDIA | Akhilesh",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/IkUVpmy168g/hqdefault.jpg",
+    "duration": 81,
+    "category": "news"
+  },
+  {
+    "id": "8jW2Hp16JsI",
+    "title": "Exclusive: CJP Leaders Abhijeet Dipke, Saurav Das & Ashutosh Ranka At India Today Conclave Mumbai",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/8jW2Hp16JsI/hqdefault.jpg",
+    "duration": 307,
+    "category": "news"
+  },
+  {
+    "id": "DtkuQUfAMZ8",
+    "title": "October 10, 2026 | Top 50 Breaking News Today | Ravish Kumar Prime Time",
+    "channel": "Real News24",
+    "thumbnail": "https://i.ytimg.com/vi/DtkuQUfAMZ8/hqdefault.jpg",
+    "duration": 839,
+    "category": "news"
+  },
+  {
+    "id": "nIcQedDAqgs",
+    "title": "LIVE: CJP Protest At Jantar Mantar | 20,000 Security Personnel Deployed | Delhi On High Alert",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/nIcQedDAqgs/hqdefault.jpg",
+    "duration": 0,
+    "category": "news"
+  },
+  {
+    "id": "CS9NnDz-W_w",
+    "title": "10 अक्टूबर 2026 | Aaj Ki 25 Sabse Badi Khabrein | Breaking News Today | Ravish Kumar Prime Time",
+    "channel": "UP News Today  and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/CS9NnDz-W_w/hqdefault.jpg",
+    "duration": 368,
+    "category": "news"
+  },
+  {
     "id": "yPSpwstEw6E",
     "title": "Today's Morning Top News Headlines | Oct 7, 2026 | CEC | Rahul | Priyanka | INDIA | Akhilesh",
     "channel": "News 24",
     "thumbnail": "https://i.ytimg.com/vi/yPSpwstEw6E/hqdefault.jpg",
     "duration": 82,
-    "category": "news"
-  },
-  {
-    "id": "_HPkszYgAcA",
-    "title": "Amazon's Brutal Layoffs Hits India Amid 'Great Indian Festival' Sale | Vantage on Firstpost",
-    "channel": "Firstpost",
-    "thumbnail": "https://i.ytimg.com/vi/_HPkszYgAcA/hqdefault.jpg",
-    "duration": 406,
-    "category": "news"
-  },
-  {
-    "id": "qSB0_Fd5aHg",
-    "title": "Today's Morning Top News Headlines | Oct 6, 2026 | SC | CEC | Rahul | CJP | INDIA March | Akhilesh",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/qSB0_Fd5aHg/hqdefault.jpg",
-    "duration": 82,
-    "category": "news"
-  },
-  {
-    "id": "m2uzFcWP22U",
-    "title": "Today's Morning Top News Headlines | 5 Oct 2026 | CEC | Rahul | CJP | INDIA | Jantar Mantar",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/m2uzFcWP22U/hqdefault.jpg",
-    "duration": 80,
-    "category": "news"
-  },
-  {
-    "id": "mdblgZuw7hU",
-    "title": "9 PM | ETV Telugu News | 7th October \"2026",
-    "channel": "ETV Andhra Pradesh and ETV Telangana",
-    "thumbnail": "https://i.ytimg.com/vi/mdblgZuw7hU/hqdefault.jpg",
-    "duration": 1399,
-    "category": "news"
-  },
-  {
-    "id": "NinU96gxAdg",
-    "title": "Sun Seithigal | சன் காலை செய்திகள் | 09-10-2026 | Morning News | Sun News",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/NinU96gxAdg/hqdefault.jpg",
-    "duration": 1124,
-    "category": "news"
-  },
-  {
-    "id": "1IsLxx819q0",
-    "title": "Sun Seithigal | சன் மாலை செய்திகள் | 08-10-2026 | Evening News | Sun News",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/1IsLxx819q0/hqdefault.jpg",
-    "duration": 1103,
-    "category": "news"
-  },
-  {
-    "id": "YxIcghZuwQE",
-    "title": "Sun Seithigal | சன் மாலை செய்திகள் | 09-10-2026 | Evening News | Sun News",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/YxIcghZuwQE/hqdefault.jpg",
-    "duration": 990,
-    "category": "news"
-  },
-  {
-    "id": "jx-w8M-hW20",
-    "title": "Today's Morning Top News Headlines | 4 Oct 2026 | CEC | Rahul | CJP | INDIA | Jantar Mantar",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/jx-w8M-hW20/hqdefault.jpg",
-    "duration": 67,
-    "category": "news"
-  },
-  {
-    "id": "NlKdACaifXI",
-    "title": "Live: India vs West Indies, 2ND T20I Live Match Today 2026 Series Cricket Commentary Score 2nd Inn",
-    "channel": "CricTalks",
-    "thumbnail": "https://i.ytimg.com/vi/NlKdACaifXI/hqdefault.jpg",
-    "duration": 7803,
-    "category": "news"
-  },
-  {
-    "id": "StS6EM43OK8",
-    "title": "Live: India Vs West Indies, 2ND T20I, 2026 Series | Live Match Today Score Commentary | CricTalks",
-    "channel": "CricTalks",
-    "thumbnail": "https://i.ytimg.com/vi/StS6EM43OK8/hqdefault.jpg",
-    "duration": 20901,
-    "category": "news"
-  },
-  {
-    "id": "MoGyyMn3BWQ",
-    "title": "Bihar news live aaj ka taaja samachar news of 8th October 2026.Bihar schools,Bihar gaudhan yojana.",
-    "channel": "Bihari news",
-    "thumbnail": "https://i.ytimg.com/vi/MoGyyMn3BWQ/hqdefault.jpg",
-    "duration": 1461,
-    "category": "news"
-  },
-  {
-    "id": "VzOLheVu7_o",
-    "title": "din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive",
-    "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/VzOLheVu7_o/hqdefault.jpg",
-    "duration": 1129,
-    "category": "news"
-  },
-  {
-    "id": "eTfHTYUMrPA",
-    "title": "9 PM | ETV Telugu News | 5th October \"2026",
-    "channel": "ETV Andhra Pradesh and ETV Telangana",
-    "thumbnail": "https://i.ytimg.com/vi/eTfHTYUMrPA/hqdefault.jpg",
-    "duration": 1378,
-    "category": "news"
-  },
-  {
-    "id": "1JZNT3OSlJQ",
-    "title": "🔴 Live: IND vs WI, 2ND T20I Live Cricket Today, 2026 Series, Live Match Commentary, 1st Inn",
-    "channel": "CricTalks Live",
-    "thumbnail": "https://i.ytimg.com/vi/1JZNT3OSlJQ/hqdefault.jpg",
-    "duration": 15161,
-    "category": "news"
-  },
-  {
-    "id": "a3DXPcgJ4kw",
-    "title": "Ind vs Wi 2nd T20 Match 2026 | India vs Westindies Live Cricket Score & Fan Commentary🎤",
-    "channel": "Sports khabar ",
-    "thumbnail": "https://i.ytimg.com/vi/a3DXPcgJ4kw/hqdefault.jpg",
-    "duration": 16044,
-    "category": "news"
-  },
-  {
-    "id": "ZFj8h1DM4DI",
-    "title": "IT WORKERS = SERVANTS? MODI OUT? US Bans H1B Green Card PERM, Musk-Rahul Starlink Row | Kinjal",
-    "channel": "World Affairs by Unacademy",
-    "thumbnail": "https://i.ytimg.com/vi/ZFj8h1DM4DI/hqdefault.jpg",
-    "duration": 856,
-    "category": "news"
-  },
-  {
-    "id": "jMOIagAvksU",
-    "title": "July 23, 2026 | Today's 25 Biggest News Stories | Breaking News Today | Ravish Kumar Prime Time",
-    "channel": "News Vistar ",
-    "thumbnail": "https://i.ytimg.com/vi/jMOIagAvksU/hqdefault.jpg",
-    "duration": 499,
     "category": "news"
   },
   {
@@ -224,19 +80,27 @@
     "category": "news"
   },
   {
-    "id": "tAXv_RDsws4",
-    "title": "Pakistan vs India Gold Medal Final | Asian Games 2026 | 9AM Headlines Geo News (3 Oct 2026)",
-    "channel": "Geo News",
-    "thumbnail": "https://i.ytimg.com/vi/tAXv_RDsws4/hqdefault.jpg",
-    "duration": 523,
+    "id": "qSB0_Fd5aHg",
+    "title": "Today's Morning Top News Headlines | Oct 6, 2026 | SC | CEC | Rahul | CJP | INDIA March | Akhilesh",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/qSB0_Fd5aHg/hqdefault.jpg",
+    "duration": 82,
     "category": "news"
   },
   {
-    "id": "ICfiTyAzdEA",
-    "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
-    "channel": "KRAFTON INDIA ESPORTS",
-    "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/hqdefault.jpg",
-    "duration": 21440,
+    "id": "lLAPOkRrWls",
+    "title": "Today's Morning Top News Headlines | 9 Oct 2026 | CEC | Rahul | Priyanka | INDIA | Akhilesh | CJP",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/lLAPOkRrWls/hqdefault.jpg",
+    "duration": 69,
+    "category": "news"
+  },
+  {
+    "id": "m2uzFcWP22U",
+    "title": "Today's Morning Top News Headlines | 5 Oct 2026 | CEC | Rahul | CJP | INDIA | Jantar Mantar",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/m2uzFcWP22U/hqdefault.jpg",
+    "duration": 80,
     "category": "news"
   },
   {
@@ -248,14 +112,6 @@
     "category": "news"
   },
   {
-    "id": "zuiCfl-Pmr0",
-    "title": "Headlines Now | 6 AM | 09-10-2026 | Sun News | Tamil News Today | Latest News",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/zuiCfl-Pmr0/hqdefault.jpg",
-    "duration": 796,
-    "category": "news"
-  },
-  {
     "id": "SnZj0yGThFU",
     "title": "October 9, 2026 | Today's 25 Biggest Stories | Breaking News Today | Ravish Kumar Prime Time #news",
     "channel": "News Dhamaka and News Info NK",
@@ -264,555 +120,115 @@
     "category": "news"
   },
   {
-    "id": "-4rHYAO_ZIU",
-    "title": "Morning 50 | Today's Top News | 5 Oct 2026 | CEC | EC | SIR | BJP | Rahul | Gyanesh | Modi",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/-4rHYAO_ZIU/hqdefault.jpg",
-    "duration": 857,
+    "id": "1IsLxx819q0",
+    "title": "Sun Seithigal | சன் மாலை செய்திகள் | 08-10-2026 | Evening News | Sun News",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/1IsLxx819q0/hqdefault.jpg",
+    "duration": 1103,
     "category": "news"
   },
   {
-    "id": "3HYvm_8DFgM",
-    "title": "Bihar news live samachar aaj ka taaja news of 9th October 2026.Bullet Train Bihar,Khushi Avatar App",
+    "id": "MoGyyMn3BWQ",
+    "title": "Bihar news live aaj ka taaja samachar news of 8th October 2026.Bihar schools,Bihar gaudhan yojana.",
     "channel": "Bihari news",
-    "thumbnail": "https://i.ytimg.com/vi/3HYvm_8DFgM/hqdefault.jpg",
-    "duration": 1511,
+    "thumbnail": "https://i.ytimg.com/vi/MoGyyMn3BWQ/hqdefault.jpg",
+    "duration": 1461,
     "category": "news"
   },
   {
-    "id": "OCkF_x7aQOQ",
-    "title": "Headlines Now | 5 PM | 09-10-2026 | Sun News | Tamil News Today | Latest News",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/OCkF_x7aQOQ/hqdefault.jpg",
-    "duration": 428,
-    "category": "news"
-  },
-  {
-    "id": "EQUh3J9yq9w",
-    "title": "Bihar news live aaj ka taaja samachar news of 6th October 2026.Ranji team trails,Bihar mlc election.",
-    "channel": "Bihari news",
-    "thumbnail": "https://i.ytimg.com/vi/EQUh3J9yq9w/hqdefault.jpg",
-    "duration": 1477,
-    "category": "news"
-  },
-  {
-    "id": "19OYbpD4QZ8",
-    "title": "04 October 2026 | अब तक की बड़ी ख़बरें | Top 10 News | Breaking news | Latest news in hindi #dblive",
-    "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/19OYbpD4QZ8/hqdefault.jpg",
-    "duration": 213,
-    "category": "news"
-  },
-  {
-    "id": "c4gQDkgBIxs",
-    "title": "Nandigram Bypolls Results LIVE: नंदीग्राम चुनाव नतीजों पर सामने आए आंकड़े! | Suvendu Adhikari",
+    "id": "Pv4N6qGluXA",
+    "title": "Aaj Ki Taja Khabar LIVE: सुबह की 100 बड़ी खबरें | Headlines Today | Top News | 10 October News",
     "channel": "ABP NEWS",
-    "thumbnail": "https://i.ytimg.com/vi/c4gQDkgBIxs/hqdefault.jpg",
-    "duration": 20209,
-    "category": "news"
-  },
-  {
-    "id": "pldZ7snVIJE",
-    "title": "Indian-Origin Navi Pillay Wins Nobel Peace Prize 2026 | Ankit Agrawal Study IQ",
-    "channel": "StudyIQ IAS",
-    "thumbnail": "https://i.ytimg.com/vi/pldZ7snVIJE/hqdefault.jpg",
-    "duration": 716,
-    "category": "news"
-  },
-  {
-    "id": "1G_QYjJmgsg",
-    "title": "9 October 2026 Haryana News || हरियाणा की ताजा खबरें || Haryana Live News || CWB Hindi News",
-    "channel": "CWB Hindi News",
-    "thumbnail": "https://i.ytimg.com/vi/1G_QYjJmgsg/hqdefault.jpg",
-    "duration": 1151,
-    "category": "news"
-  },
-  {
-    "id": "tG_Sv-VA3z8",
-    "title": "Sun Seithigal | சன் காலை செய்திகள் | 05-10-2026 | Morning News | Sun News",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/tG_Sv-VA3z8/hqdefault.jpg",
-    "duration": 1376,
-    "category": "news"
-  },
-  {
-    "id": "PmZOpJ5r3gg",
-    "title": "Today Breaking News ! आज 08 अक्टूबर 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, UP, Bihar, Delhi, SBI",
-    "channel": "DLS News",
-    "thumbnail": "https://i.ytimg.com/vi/PmZOpJ5r3gg/hqdefault.jpg",
-    "duration": 2404,
-    "category": "news"
-  },
-  {
-    "id": "pxIkLb3oqAg",
-    "title": "Today's Morning Top News Headlines | May 4, 2026 | Modi | Rahul | Bengal Election Result 2026",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/pxIkLb3oqAg/hqdefault.jpg",
-    "duration": 91,
-    "category": "news"
-  },
-  {
-    "id": "SxeiYYJO8DE",
-    "title": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/SxeiYYJO8DE/hqdefault.jpg",
-    "duration": 273,
-    "category": "news"
-  },
-  {
-    "id": "5h0Urh4jlKA",
-    "title": "Sun Seithigal | சன் காலை செய்திகள் | 04-10-2026 | Morning News | Sun News",
-    "channel": "Sun News",
-    "thumbnail": "https://i.ytimg.com/vi/5h0Urh4jlKA/hqdefault.jpg",
-    "duration": 1170,
-    "category": "news"
-  },
-  {
-    "id": "GhqMCAqDoFY",
-    "title": "October 09, 2026 | Top 50 Headlines of the Day | Breaking News Today | Ravish Kumar Prime Time",
-    "channel": "EDL News",
-    "thumbnail": "https://i.ytimg.com/vi/GhqMCAqDoFY/hqdefault.jpg",
-    "duration": 449,
-    "category": "news"
-  },
-  {
-    "id": "OMLE7Ve1VPQ",
-    "title": "Today Breaking News ! आज 09 अक्टूबर 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, UP, Bihar, Delhi, SBI",
-    "channel": "DLS News",
-    "thumbnail": "https://i.ytimg.com/vi/OMLE7Ve1VPQ/hqdefault.jpg",
-    "duration": 1906,
-    "category": "news"
-  },
-  {
-    "id": "zuDSAVD1QHs",
-    "title": "Today Breaking News ! आज 07 अक्टूबर 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, UP, Bihar, Delhi, SBI",
-    "channel": "DLS News",
-    "thumbnail": "https://i.ytimg.com/vi/zuDSAVD1QHs/hqdefault.jpg",
-    "duration": 2169,
-    "category": "news"
-  },
-  {
-    "id": "Wh2TRaZbjbE",
-    "title": "Top 100 News of the Day | News Shatak | May 19, 2026 | Trump | Petrol Price | BJP | Rahul | Modi",
-    "channel": "News 24",
-    "thumbnail": "https://i.ytimg.com/vi/Wh2TRaZbjbE/hqdefault.jpg",
-    "duration": 1074,
-    "category": "news"
-  },
-  {
-    "id": "wX32PHKOsi8",
-    "title": "SIR Storm In Delhi LIVE: Oppn MPs Meet Prez Murmu Over CEC Gyanesh Kumar, Speak To Media After Meet",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/wX32PHKOsi8/hqdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/Pv4N6qGluXA/hqdefault.jpg",
     "duration": 0,
     "category": "news"
   },
   {
-    "id": "G8uQlz4A-F4",
-    "title": "India Today TV LIVE: Opposition Protest | Rahul Gandhi | US News | PM Modi | US News | Elon Musk",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/G8uQlz4A-F4/hqdefault.jpg",
-    "duration": 0,
+    "id": "A12OfrRDtbY",
+    "title": "Jio Airtel vs Starlink Lafda😮, Infinix GT 50 Pro India launch😍, iQOO 16 & OnePlus 16R Coming & More",
+    "channel": "Technology Gyan",
+    "thumbnail": "https://i.ytimg.com/vi/A12OfrRDtbY/hqdefault.jpg",
+    "duration": 594,
     "category": "news"
   },
   {
-    "id": "eyVo6ehJTQs",
-    "title": "LIVE: Delhi Locked Down Ahead Of CJP Protest Against CEC Gyanesh | No metros, No trains, No traffic",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/eyVo6ehJTQs/hqdefault.jpg",
-    "duration": 0,
+    "id": "NlKdACaifXI",
+    "title": "Live: India vs West Indies, 2ND T20I Live Match Today 2026 Series Cricket Commentary Score 2nd Inn",
+    "channel": "CricTalks",
+    "thumbnail": "https://i.ytimg.com/vi/NlKdACaifXI/hqdefault.jpg",
+    "duration": 7803,
     "category": "news"
   },
   {
-    "id": "4pBzyrxcl5I",
-    "title": "Operation Sindoor: Did India Just Destroy OIC Credibility?, India Pakistan, Indian News",
-    "channel": "Inconnect News",
-    "thumbnail": "https://i.ytimg.com/vi/4pBzyrxcl5I/hqdefault.jpg",
-    "duration": 601,
-    "category": "news"
-  },
-  {
-    "id": "tLP51nH767c",
-    "title": "H1B Visas Row: India Calls US Remarks Deeply Offensive, Defends Indian Techies | India Today",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/tLP51nH767c/hqdefault.jpg",
-    "duration": 271,
-    "category": "news"
-  },
-  {
-    "id": "sramds0Z-20",
-    "title": "India Hits Back at JD Vance Over PERM Remarks | MEA Defends Indian Professionals | News18",
-    "channel": "CNN-News18",
-    "thumbnail": "https://i.ytimg.com/vi/sramds0Z-20/hqdefault.jpg",
-    "duration": 599,
-    "category": "news"
-  },
-  {
-    "id": "bHldFTiTysI",
-    "title": "India Slams JD Vance's 'Indentured' Labour Remark | WION Breaking News",
-    "channel": "WION",
-    "thumbnail": "https://i.ytimg.com/vi/bHldFTiTysI/hqdefault.jpg",
-    "duration": 210,
-    "category": "news"
-  },
-  {
-    "id": "XkGtULzhz4s",
-    "title": "Congress Protest | Congress Seeks Explanations After More Than 40 MPs Skip INDIA Bloc Protest",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/XkGtULzhz4s/hqdefault.jpg",
-    "duration": 184,
-    "category": "news"
-  },
-  {
-    "id": "1MgZOIn_hTA",
-    "title": "Trump’s Immigration Crackdown: Indian IT Firms Face PERM Suspension, OPT Fee Proposal",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/1MgZOIn_hTA/hqdefault.jpg",
-    "duration": 356,
-    "category": "news"
-  },
-  {
-    "id": "GiwPtbQb5Gg",
-    "title": "US Suspends PERM Access For Infosys, TCS, Microsoft, Adobe | Trump News | India Today",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/GiwPtbQb5Gg/hqdefault.jpg",
-    "duration": 542,
-    "category": "news"
-  },
-  {
-    "id": "UeZeptEMFxs",
-    "title": "INDIA Protests: Delhi Braces For Protests As Trains Cancelled, 57 Metro Stations Face Restrictions",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/UeZeptEMFxs/hqdefault.jpg",
-    "duration": 415,
-    "category": "news"
-  },
-  {
-    "id": "0RA8_ugr2Ds",
-    "title": "Millions of voter names deleted: Why is India protesting? | Explained | BBC News India",
-    "channel": "BBC News India",
-    "thumbnail": "https://i.ytimg.com/vi/0RA8_ugr2Ds/hqdefault.jpg",
-    "duration": 433,
-    "category": "news"
-  },
-  {
-    "id": "Zp_x8uGS-1U",
-    "title": "Breaking News: INDIA Bloc MPs March To Rashtrapati Bhavan, Seek Resignation Of CEC Gyanesh Kumar",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/Zp_x8uGS-1U/hqdefault.jpg",
-    "duration": 271,
-    "category": "news"
-  },
-  {
-    "id": "Pe-zL1STnWA",
-    "title": "Rahul Gandhi, Elon Musk Spar Over India's Oligarchs | Starlink | BJP | World News | India Today",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/Pe-zL1STnWA/hqdefault.jpg",
-    "duration": 140,
-    "category": "news"
-  },
-  {
-    "id": "7r9V3rON-nE",
-    "title": "Musk Attacks India's Policies! Why Did Rahul Gandhi Agree? The Chanakya Dialogues। Major Gaurav Arya",
-    "channel": "THE CHANAKYA DIALOGUES HINDI",
-    "thumbnail": "https://i.ytimg.com/vi/7r9V3rON-nE/hqdefault.jpg",
-    "duration": 1275,
-    "category": "news"
-  },
-  {
-    "id": "PMv4_FWXv-8",
-    "title": "CEC Row Live: From Delhi To Bengaluru, Oppn Protests Over CEC Gyanesh Kumar | CJP | Rahul Gandhi",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/PMv4_FWXv-8/hqdefault.jpg",
-    "duration": 42898,
-    "category": "news"
-  },
-  {
-    "id": "l22R23BTlUo",
-    "title": "Protest Against CEC Gyanesh LIVE: Day 3 Of Congress-Led Protest In Delhi | Rahul & Priyanka",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/l22R23BTlUo/hqdefault.jpg",
-    "duration": 35850,
-    "category": "news"
-  },
-  {
-    "id": "9_0CG2tk7J0",
-    "title": "Bengal By Polls LIVE:  BJP Takes Huge Lead As Congress Alleges Vote Theft | Mamata | Suvendu | TMC",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/9_0CG2tk7J0/hqdefault.jpg",
-    "duration": 18851,
-    "category": "news"
-  },
-  {
-    "id": "CYVjyFWvtN8",
-    "title": "'Is Ambani the Boss of India?' Why Elon Musk Says Starlink Is Being Blocked | Indian Express Special",
-    "channel": "The Indian Express",
-    "thumbnail": "https://i.ytimg.com/vi/CYVjyFWvtN8/hqdefault.jpg",
-    "duration": 797,
-    "category": "news"
-  },
-  {
-    "id": "5vUSjYgfYRY",
-    "title": "US Immigration Crackdown: Indian Students, Families and Economy at Risk? | Green Card | News18",
-    "channel": "CNN-News18",
-    "thumbnail": "https://i.ytimg.com/vi/5vUSjYgfYRY/hqdefault.jpg",
-    "duration": 299,
-    "category": "news"
-  },
-  {
-    "id": "dk-2M769Hrs",
-    "title": "Did India Just Walk Away from the US Trade Deal? | India US Trade Talks | Latest News",
-    "channel": "Inconnect News",
-    "thumbnail": "https://i.ytimg.com/vi/dk-2M769Hrs/hqdefault.jpg",
-    "duration": 567,
-    "category": "news"
-  },
-  {
-    "id": "VIySqFc4XVA",
-    "title": "‘FOREIGN INDENTURED SERVANTS’, Trump Administration Targets Indian IT Giants | Breaking News | N18G",
-    "channel": "moneycontrol",
-    "thumbnail": "https://i.ytimg.com/vi/VIySqFc4XVA/hqdefault.jpg",
-    "duration": 866,
-    "category": "news"
-  },
-  {
-    "id": "JSJ3IjNh5cs",
-    "title": "Breaking News: Trump Admin Suspends Indian IT Giants & Tech Firms From US Green Card Programme",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/JSJ3IjNh5cs/hqdefault.jpg",
-    "duration": 180,
-    "category": "news"
-  },
-  {
-    "id": "Ld7YQq3V6VQ",
-    "title": "Rahul Gandhi News | Congress-Delhi Police Showdown Escalates: FIR Against Rahul, Priyanka",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/Ld7YQq3V6VQ/hqdefault.jpg",
-    "duration": 215,
-    "category": "news"
-  },
-  {
-    "id": "7VLu5SanMG0",
-    "title": "LIVE: Pakistan on Edge as Imran Khan Supporters March Towards Islamabad | PTI | India Global Review",
-    "channel": "India Global Review",
-    "thumbnail": "https://i.ytimg.com/vi/7VLu5SanMG0/hqdefault.jpg",
-    "duration": 19542,
-    "category": "news"
-  },
-  {
-    "id": "x-EmmyIxIJA",
-    "title": "India's Next Move? The Truth About POK & Balochistan | POK News | Inconnect News",
-    "channel": "Inconnect News",
-    "thumbnail": "https://i.ytimg.com/vi/x-EmmyIxIJA/hqdefault.jpg",
-    "duration": 666,
-    "category": "news"
-  },
-  {
-    "id": "lghjLqbD8AQ",
-    "title": "Lockdown in Delhi News LIVE: कल दिल्ली बंद? | CJP Protest | Delhi Metro | Delhi Police | Breaking",
-    "channel": "ABP NEWS",
-    "thumbnail": "https://i.ytimg.com/vi/lghjLqbD8AQ/hqdefault.jpg",
-    "duration": 0,
-    "category": "news"
-  },
-  {
-    "id": "dWnAeGxlhZs",
-    "title": "Elon Musk vs Govt of India: Satcom Spectrum Dispute & Reliance Jio IPO Connection",
-    "channel": "Zee Business",
-    "thumbnail": "https://i.ytimg.com/vi/dWnAeGxlhZs/hqdefault.jpg",
-    "duration": 356,
-    "category": "news"
-  },
-  {
-    "id": "UuCQk16D8eI",
-    "title": "$70,000 to Work in US? Indian Students Hit As Trump Proposes New Fee | Firstpost America",
-    "channel": "Firstpost",
-    "thumbnail": "https://i.ytimg.com/vi/UuCQk16D8eI/hqdefault.jpg",
-    "duration": 342,
-    "category": "news"
-  },
-  {
-    "id": "UpYJNHuflbs",
-    "title": "Nana Patekar Funeral LIVE Updates: Nana Patekar News Today | Veteran Actor Nana Patekar Dies At 75",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/UpYJNHuflbs/hqdefault.jpg",
-    "duration": 507,
-    "category": "news"
-  },
-  {
-    "id": "rEMs7fTmEp8",
-    "title": "CEC Row LIVE: Rahul Gandhi, Kharge & Oppn MPs At Raj Ghat | Day 3 Of Protest | Gyanesh Kumar",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/rEMs7fTmEp8/hqdefault.jpg",
-    "duration": 11957,
-    "category": "news"
-  },
-  {
-    "id": "6vUHWkXOKSA",
-    "title": "How Will US Green Card Suspension Impact Indian H-1B Workers? Explained",
-    "channel": "NDTV Profit",
-    "thumbnail": "https://i.ytimg.com/vi/6vUHWkXOKSA/hqdefault.jpg",
-    "duration": 227,
-    "category": "news"
-  },
-  {
-    "id": "M1rln-W7O8o",
-    "title": "CJP Protest News LIVE: आज रात से दिल्ली बंद? | Delhi Bandh | Gyanesh Kumar | Delhi Police | Breaking",
-    "channel": "ABP NEWS",
-    "thumbnail": "https://i.ytimg.com/vi/M1rln-W7O8o/hqdefault.jpg",
-    "duration": 0,
-    "category": "news"
-  },
-  {
-    "id": "XLxHsGTdoxg",
-    "title": "'Russia Stood By Us...': India's Jaishankar Hammers Trump's 'Lonely' America | Vantage",
-    "channel": "Firstpost",
-    "thumbnail": "https://i.ytimg.com/vi/XLxHsGTdoxg/hqdefault.jpg",
-    "duration": 484,
-    "category": "news"
-  },
-  {
-    "id": "0B9vSl1urN8",
-    "title": "Nana Patekar News LIVE: From Bollywood Stars To Political Leaders, Tributes Pour In For Nana Patekar",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/0B9vSl1urN8/hqdefault.jpg",
-    "duration": 20160,
-    "category": "news"
-  },
-  {
-    "id": "uYXSGST81ys",
-    "title": "Debate With Arnab LIVE: CJP's Threat A France Like Anarchy Plot In India?",
-    "channel": "Republic World",
-    "thumbnail": "https://i.ytimg.com/vi/uYXSGST81ys/hqdefault.jpg",
-    "duration": 3522,
-    "category": "news"
-  },
-  {
-    "id": "HsWMR8_VgU8",
-    "title": "Nana Patekar News Today | Nana Patekar Dies at 75: Veteran Actor Suffers Cardiac Arrest at Goa Home",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/HsWMR8_VgU8/hqdefault.jpg",
-    "duration": 198,
-    "category": "news"
-  },
-  {
-    "id": "O8S6oU71MHE",
-    "title": "India Alliance Protest News LIVE: राहुल गांधी संग ममता, तेजस्वी और AAP का दिल्ली में उठेगा तूफान?",
-    "channel": "ABP NEWS",
-    "thumbnail": "https://i.ytimg.com/vi/O8S6oU71MHE/hqdefault.jpg",
-    "duration": 6385,
-    "category": "news"
-  },
-  {
-    "id": "LGaPANqhyic",
-    "title": "Nana Patekar Death | Son Reaches Hospital | State Funeral | Nana Patekar's Final Hours | India Today",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/LGaPANqhyic/hqdefault.jpg",
-    "duration": 242,
-    "category": "news"
-  },
-  {
-    "id": "sYZtOFzM78M",
-    "title": "India Today TV LIVE: Rahul Gandhi | INDIA Bloc Protest | Gyanesh Kumar | Trump | Flydubai",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg",
-    "duration": 0,
-    "category": "news"
-  },
-  {
-    "id": "Kch0mswUVRQ",
+    "id": "VzOLheVu7_o",
     "title": "din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive",
     "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/Kch0mswUVRQ/hqdefault.jpg",
-    "duration": 1208,
+    "thumbnail": "https://i.ytimg.com/vi/VzOLheVu7_o/hqdefault.jpg",
+    "duration": 1129,
     "category": "news"
   },
   {
-    "id": "jE-ed23ovNw",
-    "title": "Nana Patekar News Today | Nana Patekar's Final Moments Captured In Cam | Last Video Of Nana Patekar",
-    "channel": "NDTV",
-    "thumbnail": "https://i.ytimg.com/vi/jE-ed23ovNw/hqdefault.jpg",
-    "duration": 131,
+    "id": "JjI-jDuizk8",
+    "title": "India Vs West Indies , T20 Highlights : Shai Hope | Rutherford | Gambhir | Shreyas | Kuldeep",
+    "channel": "News24 Sports and News 24",
+    "thumbnail": "https://i.ytimg.com/vi/JjI-jDuizk8/hqdefault.jpg",
+    "duration": 248,
     "category": "news"
   },
   {
-    "id": "zPwT72Y-_KQ",
-    "title": "din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive",
-    "channel": "DB Live",
-    "thumbnail": "https://i.ytimg.com/vi/zPwT72Y-_KQ/hqdefault.jpg",
-    "duration": 1281,
+    "id": "StS6EM43OK8",
+    "title": "Live: India Vs West Indies, 2ND T20I, 2026 Series | Live Match Today Score Commentary | CricTalks",
+    "channel": "CricTalks",
+    "thumbnail": "https://i.ytimg.com/vi/StS6EM43OK8/hqdefault.jpg",
+    "duration": 20901,
     "category": "news"
   },
   {
-    "id": "EVT8py7o3No",
-    "title": "Flydubai Hijacking: 3 Unanswered Questions | The Palki Sharma Show | IGR | India Global Review",
-    "channel": "India Global Review",
-    "thumbnail": "https://i.ytimg.com/vi/EVT8py7o3No/hqdefault.jpg",
-    "duration": 608,
+    "id": "NinU96gxAdg",
+    "title": "Sun Seithigal | சன் காலை செய்திகள் | 09-10-2026 | Morning News | Sun News",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/NinU96gxAdg/hqdefault.jpg",
+    "duration": 1124,
     "category": "news"
   },
   {
-    "id": "y4BqJLt7hR4",
-    "title": "100 News of the Day LIVE: 100 Latest Breaking News Right Now | Headlines Today | Top News | Octob...",
+    "id": "a3DXPcgJ4kw",
+    "title": "Ind vs Wi 2nd T20 Match 2026 | India vs Westindies Live Cricket Score & Fan Commentary🎤",
+    "channel": "Sports khabar ",
+    "thumbnail": "https://i.ytimg.com/vi/a3DXPcgJ4kw/hqdefault.jpg",
+    "duration": 16044,
+    "category": "news"
+  },
+  {
+    "id": "YxIcghZuwQE",
+    "title": "Sun Seithigal | சன் மாலை செய்திகள் | 09-10-2026 | Evening News | Sun News",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/YxIcghZuwQE/hqdefault.jpg",
+    "duration": 990,
+    "category": "news"
+  },
+  {
+    "id": "ryvo9ov2Fo4",
+    "title": "INDIA Alliance Protest News LIVE: राष्ट्रपति से मिलने के बाद विपक्षी नेता LIVE | Rahul Gandhi",
     "channel": "ABP NEWS",
-    "thumbnail": "https://i.ytimg.com/vi/y4BqJLt7hR4/hqdefault.jpg",
-    "duration": 2470,
+    "thumbnail": "https://i.ytimg.com/vi/ryvo9ov2Fo4/hqdefault.jpg",
+    "duration": 36379,
     "category": "news"
   },
   {
-    "id": "Nq71zw8a5zU",
-    "title": "Breaking News: Supreme Court Questions Delhi Police Curbs On Metro Stations Ahead Of Protests",
-    "channel": "India Today",
-    "thumbnail": "https://i.ytimg.com/vi/Nq71zw8a5zU/hqdefault.jpg",
-    "duration": 512,
+    "id": "jMOIagAvksU",
+    "title": "July 23, 2026 | Today's 25 Biggest News Stories | Breaking News Today | Ravish Kumar Prime Time",
+    "channel": "News Vistar ",
+    "thumbnail": "https://i.ytimg.com/vi/jMOIagAvksU/hqdefault.jpg",
+    "duration": 499,
     "category": "news"
   },
   {
-    "id": "Io-G_aiF8HA",
-    "title": "🔴 News18 India LIVE: 25 The Modi Era | EC | Rahul Gandhi | Priyanka Gandhi | Congress Protest | ECI",
-    "channel": "News18 India",
-    "thumbnail": "https://i.ytimg.com/vi/Io-G_aiF8HA/hqdefault.jpg",
-    "duration": 0,
-    "category": "news"
-  },
-  {
-    "id": "w3IeBnLRofU",
-    "title": "FlyDubai Scare: 'WHAT A HERO'! Grateful Israelis Shower Tributes On Indian Pilot Who Saved 170 Lives",
-    "channel": "Times Now",
-    "thumbnail": "https://i.ytimg.com/vi/w3IeBnLRofU/hqdefault.jpg",
-    "duration": 528,
-    "category": "news"
-  },
-  {
-    "id": "BM9QEqyqM5c",
-    "title": "Today's Headlines | 09 OCT 2026 |காலை தலைப்புச் செய்திகள்| Morning 6AM Headlines|Tamil News|CM vijay",
-    "channel": "Sathiyam News",
-    "thumbnail": "https://i.ytimg.com/vi/BM9QEqyqM5c/hqdefault.jpg",
-    "duration": 582,
-    "category": "news"
-  },
-  {
-    "id": "pjuYe72jnf4",
-    "title": "Breaking News | Bollywood Veteran Nana Patekar Dies at 75 | Express News",
-    "channel": "Express News",
-    "thumbnail": "https://i.ytimg.com/vi/pjuYe72jnf4/hqdefault.jpg",
-    "duration": 32,
-    "category": "news"
-  },
-  {
-    "id": "fkmLbLyLjFs",
-    "title": "Veteran Indian Actor Nana Patekar Dies at 75 | Breaking News",
-    "channel": "ARY News",
-    "thumbnail": "https://i.ytimg.com/vi/fkmLbLyLjFs/hqdefault.jpg",
-    "duration": 101,
-    "category": "news"
-  },
-  {
-    "id": "fQJ4vx5q7n8",
-    "title": "Nana Patekar Final Hours | What Happened on His Last Night? | Latest Details - Aaj News",
-    "channel": "Aaj News",
-    "thumbnail": "https://i.ytimg.com/vi/fQJ4vx5q7n8/hqdefault.jpg",
-    "duration": 169,
+    "id": "1JZNT3OSlJQ",
+    "title": "🔴 Live: IND vs WI, 2ND T20I Live Cricket Today, 2026 Series, Live Match Commentary, 1st Inn",
+    "channel": "CricTalks Live",
+    "thumbnail": "https://i.ytimg.com/vi/1JZNT3OSlJQ/hqdefault.jpg",
+    "duration": 15161,
     "category": "news"
   },
   {
@@ -832,6 +248,374 @@
     "category": "news"
   },
   {
+    "id": "eTfHTYUMrPA",
+    "title": "9 PM | ETV Telugu News | 5th October \"2026",
+    "channel": "ETV Andhra Pradesh and ETV Telangana",
+    "thumbnail": "https://i.ytimg.com/vi/eTfHTYUMrPA/hqdefault.jpg",
+    "duration": 1378,
+    "category": "news"
+  },
+  {
+    "id": "M1rln-W7O8o",
+    "title": "CJP Protest News LIVE: आज रात से दिल्ली बंद? | Delhi Bandh | Gyanesh Kumar | Delhi Police | Breaking",
+    "channel": "ABP NEWS",
+    "thumbnail": "https://i.ytimg.com/vi/M1rln-W7O8o/hqdefault.jpg",
+    "duration": 0,
+    "category": "news"
+  },
+  {
+    "id": "ICfiTyAzdEA",
+    "title": "[HINDI] BMSD 2026 | Semi-Finals | Day 2 #BGMILIVE",
+    "channel": "KRAFTON INDIA ESPORTS",
+    "thumbnail": "https://i.ytimg.com/vi/ICfiTyAzdEA/hqdefault.jpg",
+    "duration": 21440,
+    "category": "news"
+  },
+  {
+    "id": "3HYvm_8DFgM",
+    "title": "Bihar news live samachar aaj ka taaja news of 9th October 2026.Bullet Train Bihar,Khushi Avatar App",
+    "channel": "Bihari news",
+    "thumbnail": "https://i.ytimg.com/vi/3HYvm_8DFgM/hqdefault.jpg",
+    "duration": 1511,
+    "category": "news"
+  },
+  {
+    "id": "zuiCfl-Pmr0",
+    "title": "Headlines Now | 6 AM | 09-10-2026 | Sun News | Tamil News Today | Latest News",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/zuiCfl-Pmr0/hqdefault.jpg",
+    "duration": 796,
+    "category": "news"
+  },
+  {
+    "id": "EQUh3J9yq9w",
+    "title": "Bihar news live aaj ka taaja samachar news of 6th October 2026.Ranji team trails,Bihar mlc election.",
+    "channel": "Bihari news",
+    "thumbnail": "https://i.ytimg.com/vi/EQUh3J9yq9w/hqdefault.jpg",
+    "duration": 1477,
+    "category": "news"
+  },
+  {
+    "id": "WVVX51XIgiU",
+    "title": "Bengal Nandigram By-Poll Results LIVE: शाम होते ही बंगाल उपचुनाव पर नतीजे साफ? | BJP | TMC | INC",
+    "channel": "ABP NEWS",
+    "thumbnail": "https://i.ytimg.com/vi/WVVX51XIgiU/hqdefault.jpg",
+    "duration": 27961,
+    "category": "news"
+  },
+  {
+    "id": "9dCwFGZdHwM",
+    "title": "October 10, 2026 | Today's Top 20 News | Breaking News Today | Ravish Kumar Prime Time",
+    "channel": "Dailyscoop_withPurtika",
+    "thumbnail": "https://i.ytimg.com/vi/9dCwFGZdHwM/hqdefault.jpg",
+    "duration": 577,
+    "category": "news"
+  },
+  {
+    "id": "aWpT7noV4Lg",
+    "title": "🔴LIVE: தேர்தல் தலைப்பு செய்திகள் பரபரப்பு அப்டேட் | Headlines Today | Vijay | TVK | MK Stalin | DMK",
+    "channel": "PuthiyathalaimuraiTV",
+    "thumbnail": "https://i.ytimg.com/vi/aWpT7noV4Lg/hqdefault.jpg",
+    "duration": 16115,
+    "category": "news"
+  },
+  {
+    "id": "OCkF_x7aQOQ",
+    "title": "Headlines Now | 5 PM | 09-10-2026 | Sun News | Tamil News Today | Latest News",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/OCkF_x7aQOQ/hqdefault.jpg",
+    "duration": 428,
+    "category": "news"
+  },
+  {
+    "id": "-4rHYAO_ZIU",
+    "title": "Morning 50 | Today's Top News | 5 Oct 2026 | CEC | EC | SIR | BJP | Rahul | Gyanesh | Modi",
+    "channel": "News 24",
+    "thumbnail": "https://i.ytimg.com/vi/-4rHYAO_ZIU/hqdefault.jpg",
+    "duration": 857,
+    "category": "news"
+  },
+  {
+    "id": "fQJ4vx5q7n8",
+    "title": "Nana Patekar Final Hours | What Happened on His Last Night? | Latest Details - Aaj News",
+    "channel": "Aaj News",
+    "thumbnail": "https://i.ytimg.com/vi/fQJ4vx5q7n8/hqdefault.jpg",
+    "duration": 169,
+    "category": "news"
+  },
+  {
+    "id": "MZ7sgl9zrkY",
+    "title": "Today Breaking News ! आज 10 अक्टूबर 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, UP, Bihar, Delhi, SBI",
+    "channel": "DLS News",
+    "thumbnail": "https://i.ytimg.com/vi/MZ7sgl9zrkY/hqdefault.jpg",
+    "duration": 2176,
+    "category": "news"
+  },
+  {
+    "id": "1G_QYjJmgsg",
+    "title": "9 October 2026 Haryana News || हरियाणा की ताजा खबरें || Haryana Live News || CWB Hindi News",
+    "channel": "CWB Hindi News",
+    "thumbnail": "https://i.ytimg.com/vi/1G_QYjJmgsg/hqdefault.jpg",
+    "duration": 1151,
+    "category": "news"
+  },
+  {
+    "id": "lghjLqbD8AQ",
+    "title": "Lockdown in Delhi News LIVE: कल दिल्ली बंद? | CJP Protest | Delhi Metro | Delhi Police | Breaking",
+    "channel": "ABP NEWS",
+    "thumbnail": "https://i.ytimg.com/vi/lghjLqbD8AQ/hqdefault.jpg",
+    "duration": 42898,
+    "category": "news"
+  },
+  {
+    "id": "tG_Sv-VA3z8",
+    "title": "Sun Seithigal | சன் காலை செய்திகள் | 05-10-2026 | Morning News | Sun News",
+    "channel": "Sun News",
+    "thumbnail": "https://i.ytimg.com/vi/tG_Sv-VA3z8/hqdefault.jpg",
+    "duration": 1376,
+    "category": "news"
+  },
+  {
+    "id": "GhqMCAqDoFY",
+    "title": "October 09, 2026 | Top 50 Headlines of the Day | Breaking News Today | Ravish Kumar Prime Time",
+    "channel": "EDL News",
+    "thumbnail": "https://i.ytimg.com/vi/GhqMCAqDoFY/hqdefault.jpg",
+    "duration": 449,
+    "category": "news"
+  },
+  {
+    "id": "ZM3sqxoPExE",
+    "title": "KSR Paper Analysis: Today News Papers Top Headlines | 10-10-2026 | KSR Live Show  @SakshiTV",
+    "channel": "Sakshi TV",
+    "thumbnail": "https://i.ytimg.com/vi/ZM3sqxoPExE/hqdefault.jpg",
+    "duration": 454,
+    "category": "news"
+  },
+  {
+    "id": "PmZOpJ5r3gg",
+    "title": "Today Breaking News ! आज 08 अक्टूबर 2026 के मुख्य समाचार बड़ी खबरें, PM Modi, UP, Bihar, Delhi, SBI",
+    "channel": "DLS News",
+    "thumbnail": "https://i.ytimg.com/vi/PmZOpJ5r3gg/hqdefault.jpg",
+    "duration": 2404,
+    "category": "news"
+  },
+  {
+    "id": "H16FAiTH1L0",
+    "title": "News Today Debate Delhi CJP Stir: Right To Protest Curbed? | Pressure Piling On CEC Gyanesh Kumar?",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/H16FAiTH1L0/hqdefault.jpg",
+    "duration": 747,
+    "category": "news"
+  },
+  {
+    "id": "cMWq6tyqBzA",
+    "title": "India Slams US Green Card Crackdown, Calls JD Vance’s ‘Indentured Servants’ Remark Deeply Offensive",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/cMWq6tyqBzA/hqdefault.jpg",
+    "duration": 858,
+    "category": "news"
+  },
+  {
+    "id": "tLP51nH767c",
+    "title": "H1B Visas Row: India Calls US Remarks Deeply Offensive, Defends Indian Techies | India Today",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/tLP51nH767c/hqdefault.jpg",
+    "duration": 271,
+    "category": "news"
+  },
+  {
+    "id": "7r9V3rON-nE",
+    "title": "Musk Attacks India's Policies! Why Did Rahul Gandhi Agree? The Chanakya Dialogues। Major Gaurav Arya",
+    "channel": "THE CHANAKYA DIALOGUES HINDI",
+    "thumbnail": "https://i.ytimg.com/vi/7r9V3rON-nE/hqdefault.jpg",
+    "duration": 1275,
+    "category": "news"
+  },
+  {
+    "id": "5vUSjYgfYRY",
+    "title": "US Immigration Crackdown: Indian Students, Families and Economy at Risk? | Green Card | News18",
+    "channel": "CNN-News18",
+    "thumbnail": "https://i.ytimg.com/vi/5vUSjYgfYRY/hqdefault.jpg",
+    "duration": 299,
+    "category": "news"
+  },
+  {
+    "id": "ZFj8h1DM4DI",
+    "title": "IT WORKERS = SERVANTS? MODI OUT? US Bans H1B Green Card PERM, Musk-Rahul Starlink Row | Kinjal",
+    "channel": "World Affairs by Unacademy",
+    "thumbnail": "https://i.ytimg.com/vi/ZFj8h1DM4DI/hqdefault.jpg",
+    "duration": 856,
+    "category": "news"
+  },
+  {
+    "id": "JSJ3IjNh5cs",
+    "title": "Breaking News: Trump Admin Suspends Indian IT Giants & Tech Firms From US Green Card Programme",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/JSJ3IjNh5cs/hqdefault.jpg",
+    "duration": 180,
+    "category": "news"
+  },
+  {
+    "id": "HZxaTEGOS0E",
+    "title": "US Visa News | US Bars Indian Tech Companies From Green Card Filing. What It Means For Indians",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/HZxaTEGOS0E/hqdefault.jpg",
+    "duration": 261,
+    "category": "news"
+  },
+  {
+    "id": "0RA8_ugr2Ds",
+    "title": "Why is India's election chief facing calls to resign? | Explained | BBC News India",
+    "channel": "BBC News India",
+    "thumbnail": "https://i.ytimg.com/vi/0RA8_ugr2Ds/hqdefault.jpg",
+    "duration": 433,
+    "category": "news"
+  },
+  {
+    "id": "_oZFl_xEEwo",
+    "title": "LIVE: Delhi On High Alert Ahead Of CJP Protest Against CEC Gyanesh; Right To protest Curbed?",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/_oZFl_xEEwo/hqdefault.jpg",
+    "duration": 32476,
+    "category": "news"
+  },
+  {
+    "id": "EShNXaQgo_g",
+    "title": "News Today: INDIA Bloc-President Meet | Delhi Fortress Ahead Of CJP Protest | CEC Gyanesh Under Fire",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/EShNXaQgo_g/hqdefault.jpg",
+    "duration": 1592,
+    "category": "news"
+  },
+  {
+    "id": "wX32PHKOsi8",
+    "title": "SIR Storm In Delhi LIVE: Oppn MPs Meet Prez Murmu Over CEC Gyanesh Kumar, Speak To Media After Meet",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/wX32PHKOsi8/hqdefault.jpg",
+    "duration": 42900,
+    "category": "news"
+  },
+  {
+    "id": "dWnAeGxlhZs",
+    "title": "Elon Musk vs Govt of India: Satcom Spectrum Dispute & Reliance Jio IPO Connection",
+    "channel": "Zee Business",
+    "thumbnail": "https://i.ytimg.com/vi/dWnAeGxlhZs/hqdefault.jpg",
+    "duration": 356,
+    "category": "news"
+  },
+  {
+    "id": "MDwpQOvG2MY",
+    "title": "\"Unwarranted\": India Slams Vance's \"Indentured Servants\" Remark On H-1B Hiring",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/MDwpQOvG2MY/hqdefault.jpg",
+    "duration": 253,
+    "category": "news"
+  },
+  {
+    "id": "mpiRRGQFRuM",
+    "title": "Indian IT Firms Suspended From US Programme Sponsoring Workers For Green Card",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/mpiRRGQFRuM/hqdefault.jpg",
+    "duration": 681,
+    "category": "news"
+  },
+  {
+    "id": "uYXSGST81ys",
+    "title": "Debate With Arnab LIVE: CJP's Threat A France Like Anarchy Plot In India?",
+    "channel": "Republic World",
+    "thumbnail": "https://i.ytimg.com/vi/uYXSGST81ys/hqdefault.jpg",
+    "duration": 3522,
+    "category": "news"
+  },
+  {
+    "id": "1MgZOIn_hTA",
+    "title": "Trump’s Immigration Crackdown: Indian IT Firms Face PERM Suspension, OPT Fee Proposal",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/1MgZOIn_hTA/hqdefault.jpg",
+    "duration": 356,
+    "category": "news"
+  },
+  {
+    "id": "NDZ8ZftqjMA",
+    "title": "CJP Bengaluru Protest: Dhruv Rathee Raises Questions Over SIR & Voter Deletions",
+    "channel": "The Indian Express",
+    "thumbnail": "https://i.ytimg.com/vi/NDZ8ZftqjMA/hqdefault.jpg",
+    "duration": 519,
+    "category": "news"
+  },
+  {
+    "id": "nj7okWuMuNE",
+    "title": "বাংলাদেশের পথে হাটছে ভারত? বিজেপির চাঞ্চল্যকর দাবি | Student Protest | Bangladesh-India | ATN News",
+    "channel": "ATN News and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/nj7okWuMuNE/hqdefault.jpg",
+    "duration": 205,
+    "category": "news"
+  },
+  {
+    "id": "eyVo6ehJTQs",
+    "title": "LIVE: Delhi Locked Down Ahead Of CJP Protest Against CEC Gyanesh | No metros, No trains, No traffic",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/eyVo6ehJTQs/hqdefault.jpg",
+    "duration": 35964,
+    "category": "news"
+  },
+  {
+    "id": "XLxHsGTdoxg",
+    "title": "'Russia Stood By Us...': India's Jaishankar Hammers Trump's 'Lonely' America | Vantage",
+    "channel": "Firstpost",
+    "thumbnail": "https://i.ytimg.com/vi/XLxHsGTdoxg/hqdefault.jpg",
+    "duration": 484,
+    "category": "news"
+  },
+  {
+    "id": "8XBZHhny0dg",
+    "title": "Live: CJP 2.0 Protest Against CEC Gyanesh Kumar | Latest Visuals From Delhi's Jantar Mantar | GenZ",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/8XBZHhny0dg/hqdefault.jpg",
+    "duration": 0,
+    "category": "news"
+  },
+  {
+    "id": "bHldFTiTysI",
+    "title": "India Slams JD Vance's 'Indentured' Labour Remark | WION Breaking News",
+    "channel": "WION",
+    "thumbnail": "https://i.ytimg.com/vi/bHldFTiTysI/hqdefault.jpg",
+    "duration": 210,
+    "category": "news"
+  },
+  {
+    "id": "7AXrtzFinoY",
+    "title": "നിലവിളി തുടങ്ങി| News Update | NEWS INDIA MALAYALAM",
+    "channel": "NEWS INDIA MALAYALAM",
+    "thumbnail": "https://i.ytimg.com/vi/7AXrtzFinoY/hqdefault.jpg",
+    "duration": 191,
+    "category": "news"
+  },
+  {
+    "id": "Vd9P1RV-3Ro",
+    "title": "India's Modi government under growing pressure as 'cockroach' protests intensify | BBC News",
+    "channel": "BBC News",
+    "thumbnail": "https://i.ytimg.com/vi/Vd9P1RV-3Ro/hqdefault.jpg",
+    "duration": 226,
+    "category": "news"
+  },
+  {
+    "id": "sYZtOFzM78M",
+    "title": "India Today TV LIVE: Rahul Gandhi | INDIA Bloc Protest | Gyanesh Kumar | Trump | Flydubai",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/sYZtOFzM78M/hqdefault.jpg",
+    "duration": 0,
+    "category": "news"
+  },
+  {
+    "id": "0enkTRU1xJ8",
+    "title": "India Bangladesh Tension: Why Modi’s New Move Matters | Ganga Treaty | Inconnect News",
+    "channel": "Inconnect News",
+    "thumbnail": "https://i.ytimg.com/vi/0enkTRU1xJ8/hqdefault.jpg",
+    "duration": 559,
+    "category": "news"
+  },
+  {
     "id": "mrIdCbaBr6I",
     "title": "Bhagwant Mann Full Interview | Punjab Polls | BJP | Drugs | CBI | Raghav Chadha | India Today",
     "channel": "India Today",
@@ -840,11 +624,99 @@
     "category": "news"
   },
   {
-    "id": "OFJ540P_a7U",
-    "title": "പുതിയ യുദ്ധമുഖം I world news update I NEWS INDIA MALAYALAM",
-    "channel": "NEWS INDIA MALAYALAM",
-    "thumbnail": "https://i.ytimg.com/vi/OFJ540P_a7U/hqdefault.jpg",
-    "duration": 217,
+    "id": "cYbt3WpLLYY",
+    "title": "US Market Update | Indian Stock Market Latest News | Share Bazaar News |Stocks In News| Morning Call",
+    "channel": "CNBC Awaaz.",
+    "thumbnail": "https://i.ytimg.com/vi/cYbt3WpLLYY/hqdefault.jpg",
+    "duration": 1512,
+    "category": "news"
+  },
+  {
+    "id": "_HPkszYgAcA",
+    "title": "Amazon's Brutal Layoffs Hits India Amid 'Great Indian Festival' Sale | Vantage on Firstpost",
+    "channel": "Firstpost",
+    "thumbnail": "https://i.ytimg.com/vi/_HPkszYgAcA/hqdefault.jpg",
+    "duration": 406,
+    "category": "news"
+  },
+  {
+    "id": "Kch0mswUVRQ",
+    "title": "din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive",
+    "channel": "DB Live",
+    "thumbnail": "https://i.ytimg.com/vi/Kch0mswUVRQ/hqdefault.jpg",
+    "duration": 1208,
+    "category": "news"
+  },
+  {
+    "id": "GiwPtbQb5Gg",
+    "title": "US Suspends PERM Access For Infosys, TCS, Microsoft, Adobe | Trump News | India Today",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/GiwPtbQb5Gg/hqdefault.jpg",
+    "duration": 542,
+    "category": "news"
+  },
+  {
+    "id": "l22R23BTlUo",
+    "title": "Protest Against CEC Gyanesh LIVE: Day 3 Of Congress-Led Protest In Delhi | Rahul & Priyanka",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/l22R23BTlUo/hqdefault.jpg",
+    "duration": 35850,
+    "category": "news"
+  },
+  {
+    "id": "46XS807xHYA",
+    "title": "Elon Musk Claims 'Oligarchs' Blocking Starlink in India | The Palki Sharma Show |India Global Review",
+    "channel": "India Global Review",
+    "thumbnail": "https://i.ytimg.com/vi/46XS807xHYA/hqdefault.jpg",
+    "duration": 431,
+    "category": "news"
+  },
+  {
+    "id": "5cCJ-sXLeVg",
+    "title": "No More Travel To India For Visa Stamps? Inside The New Domestic H-1B Renewal Bill| Indians In U.S.",
+    "channel": "TimesXP",
+    "thumbnail": "https://i.ytimg.com/vi/5cCJ-sXLeVg/hqdefault.jpg",
+    "duration": 264,
+    "category": "news"
+  },
+  {
+    "id": "8EJ1f6RJ45I",
+    "title": "BREAKING: India Summons Meta Over Removal Of PM Modi's Facebook Post, Meta Sites Tech Glitch",
+    "channel": "Republic World",
+    "thumbnail": "https://i.ytimg.com/vi/8EJ1f6RJ45I/hqdefault.jpg",
+    "duration": 183,
+    "category": "news"
+  },
+  {
+    "id": "3uxPZ4rPKkA",
+    "title": "দিল্লিতে বড় ধামাকা? মোদির জন্য কী অপেক্ষা করছে কাল? | India SIR Protest | Channel 24",
+    "channel": "Channel 24",
+    "thumbnail": "https://i.ytimg.com/vi/3uxPZ4rPKkA/hqdefault.jpg",
+    "duration": 265,
+    "category": "news"
+  },
+  {
+    "id": "bMvs4ITiWMI",
+    "title": "Breaking News: PM Modi Welcomes Bypoll Results In Bengal, Assam, Puducherry; Praises BJP Workers",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/bMvs4ITiWMI/hqdefault.jpg",
+    "duration": 50,
+    "category": "news"
+  },
+  {
+    "id": "CYVjyFWvtN8",
+    "title": "'Is Ambani the Boss of India?' Why Elon Musk Says Starlink Is Being Blocked | Indian Express Special",
+    "channel": "The Indian Express",
+    "thumbnail": "https://i.ytimg.com/vi/CYVjyFWvtN8/hqdefault.jpg",
+    "duration": 797,
+    "category": "news"
+  },
+  {
+    "id": "zPwT72Y-_KQ",
+    "title": "din bhar ki khabar |news of the day, hindi news india | top | NEET | rahul gandhi | protest #dblive",
+    "channel": "DB Live",
+    "thumbnail": "https://i.ytimg.com/vi/zPwT72Y-_KQ/hqdefault.jpg",
+    "duration": 1281,
     "category": "news"
   },
   {
@@ -856,11 +728,99 @@
     "category": "news"
   },
   {
-    "id": "Pv13cFP4JYA",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 8, 2026",
+    "id": "n8z5GP6VL7I",
+    "title": "Today Big Breaking News LIVE: अभी की 100 बड़ी खबरें | INDIAlliance | By-Election Results | PM Modi",
+    "channel": "Zee News",
+    "thumbnail": "https://i.ytimg.com/vi/n8z5GP6VL7I/hqdefault.jpg",
+    "duration": 65,
+    "category": "news"
+  },
+  {
+    "id": "sWMKYIZjojM",
+    "title": "Famous Bollywood Actor Nana Patekar Breaking News || What happened with him in GOA Flat || Bollywood",
+    "channel": "Salman Mirza Official",
+    "thumbnail": "https://i.ytimg.com/vi/sWMKYIZjojM/hqdefault.jpg",
+    "duration": 507,
+    "category": "news"
+  },
+  {
+    "id": "Zp_x8uGS-1U",
+    "title": "Breaking News: INDIA Bloc MPs March To Rashtrapati Bhavan, Seek Resignation Of CEC Gyanesh Kumar",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/Zp_x8uGS-1U/hqdefault.jpg",
+    "duration": 271,
+    "category": "news"
+  },
+  {
+    "id": "y4BqJLt7hR4",
+    "title": "100 News of the Day LIVE: 100 Latest Breaking News Right Now | Headlines Today | Top News | Octob...",
+    "channel": "ABP NEWS",
+    "thumbnail": "https://i.ytimg.com/vi/y4BqJLt7hR4/hqdefault.jpg",
+    "duration": 2470,
+    "category": "news"
+  },
+  {
+    "id": "Ec0akkc8N48",
+    "title": "Breaking News: 200 Arrested In Pan-India Crackdown On Pak ISI Sleeper Cells | India-Pak ISI Op",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/Ec0akkc8N48/hqdefault.jpg",
+    "duration": 134,
+    "category": "news"
+  },
+  {
+    "id": "k33bHgVTNQ8",
+    "title": "Today Big Breaking News Live: अभी की सबसे बड़ी खबरें LIVE | India Win Gold In Asian Games | PM Modi",
+    "channel": "Zee News",
+    "thumbnail": "https://i.ytimg.com/vi/k33bHgVTNQ8/hqdefault.jpg",
+    "duration": 77,
+    "category": "news"
+  },
+  {
+    "id": "Nq71zw8a5zU",
+    "title": "Breaking News: Supreme Court Questions Delhi Police Curbs On Metro Stations Ahead Of Protests",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/Nq71zw8a5zU/hqdefault.jpg",
+    "duration": 512,
+    "category": "news"
+  },
+  {
+    "id": "33XkSggmQKw",
+    "title": "Youth Protests Intensify Across India | Modi's Govt in Big Trouble | ARY News",
+    "channel": "ARY News",
+    "thumbnail": "https://i.ytimg.com/vi/33XkSggmQKw/hqdefault.jpg",
+    "duration": 142,
+    "category": "news"
+  },
+  {
+    "id": "c9zNV5ljW40",
+    "title": "Delhi News: Police Drag Fasting Wangchuk to Safdarjung as Protests Explode | India Today",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/c9zNV5ljW40/hqdefault.jpg",
+    "duration": 444,
+    "category": "news"
+  },
+  {
+    "id": "owzh--RnzLk",
+    "title": "Sonam Wangchuk New Video: 'Pradhan's Resignation Never My Main Demand'| Top Headlines: July 25, 2026",
+    "channel": "NDTV",
+    "thumbnail": "https://i.ytimg.com/vi/owzh--RnzLk/hqdefault.jpg",
+    "duration": 127,
+    "category": "news"
+  },
+  {
+    "id": "4Mdvv4jYQaM",
+    "title": "BREAKING NEWS: Supreme Court Notice To EC On SIR PIL, Form 6 Modifications And EC Act Violation | EC",
+    "channel": "India Today",
+    "thumbnail": "https://i.ytimg.com/vi/4Mdvv4jYQaM/hqdefault.jpg",
+    "duration": 366,
+    "category": "news"
+  },
+  {
+    "id": "YfhRRTMOctY",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 9, 2026",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/Pv13cFP4JYA/hqdefault.jpg",
-    "duration": 1237,
+    "thumbnail": "https://i.ytimg.com/vi/YfhRRTMOctY/hqdefault.jpg",
+    "duration": 1226,
     "category": "news"
   },
   {
@@ -872,11 +832,19 @@
     "category": "news"
   },
   {
-    "id": "GSFx9Bff_rU",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 6, 2026",
+    "id": "k3K4yajKsUQ",
+    "title": "Good Morning America Full Broadcast - Friday, October 9, 2026",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/GSFx9Bff_rU/hqdefault.jpg",
-    "duration": 1228,
+    "thumbnail": "https://i.ytimg.com/vi/k3K4yajKsUQ/hqdefault.jpg",
+    "duration": 3991,
+    "category": "news"
+  },
+  {
+    "id": "Pv13cFP4JYA",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 8, 2026",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/Pv13cFP4JYA/hqdefault.jpg",
+    "duration": 1237,
     "category": "news"
   },
   {
@@ -888,11 +856,35 @@
     "category": "news"
   },
   {
-    "id": "ZB_dK2Qzmn4",
-    "title": "Top U.S. & World Headlines — October 7, 2026",
+    "id": "GSFx9Bff_rU",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 6, 2026",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/GSFx9Bff_rU/hqdefault.jpg",
+    "duration": 1228,
+    "category": "news"
+  },
+  {
+    "id": "BR7qabHnbjQ",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 9, 2026",
+    "channel": "MF Records Plus",
+    "thumbnail": "https://i.ytimg.com/vi/BR7qabHnbjQ/hqdefault.jpg",
+    "duration": 1126,
+    "category": "news"
+  },
+  {
+    "id": "6FWtGD-Zi30",
+    "title": "Top U.S. & World Headlines — October 8, 2026",
     "channel": "Democracy Now!",
-    "thumbnail": "https://i.ytimg.com/vi/ZB_dK2Qzmn4/hqdefault.jpg",
-    "duration": 774,
+    "thumbnail": "https://i.ytimg.com/vi/6FWtGD-Zi30/hqdefault.jpg",
+    "duration": 772,
+    "category": "news"
+  },
+  {
+    "id": "VVx3hQ_CLGk",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 4, 2026",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/VVx3hQ_CLGk/hqdefault.jpg",
+    "duration": 1255,
     "category": "news"
   },
   {
@@ -904,11 +896,27 @@
     "category": "news"
   },
   {
-    "id": "VVx3hQ_CLGk",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Oct. 4, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/VVx3hQ_CLGk/hqdefault.jpg",
-    "duration": 1255,
+    "id": "ZB_dK2Qzmn4",
+    "title": "Top U.S. & World Headlines — October 7, 2026",
+    "channel": "Democracy Now!",
+    "thumbnail": "https://i.ytimg.com/vi/ZB_dK2Qzmn4/hqdefault.jpg",
+    "duration": 774,
+    "category": "news"
+  },
+  {
+    "id": "xoXVcyFU7qQ",
+    "title": "ABC World News Tonight With David Muir | October 9, 2026 | ABC News Today",
+    "channel": "CONGRESS NEWS TV",
+    "thumbnail": "https://i.ytimg.com/vi/xoXVcyFU7qQ/hqdefault.jpg",
+    "duration": 1365,
+    "category": "news"
+  },
+  {
+    "id": "hWWoyb3ey9U",
+    "title": "ABC World News Tonight With David Muir – Full Episode October 9, 2026",
+    "channel": "HS STUDIO",
+    "thumbnail": "https://i.ytimg.com/vi/hWWoyb3ey9U/hqdefault.jpg",
+    "duration": 1126,
     "category": "news"
   },
   {
@@ -928,38 +936,6 @@
     "category": "news"
   },
   {
-    "id": "Wj-mKgh5v6s",
-    "title": "CBS Evening News Full Broadcast | October 7, 2026",
-    "channel": "CBS Evening News",
-    "thumbnail": "https://i.ytimg.com/vi/Wj-mKgh5v6s/hqdefault.jpg",
-    "duration": 1198,
-    "category": "news"
-  },
-  {
-    "id": "dC1RnZ0bwCw",
-    "title": "ABC News Live Prime: October 5, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/dC1RnZ0bwCw/hqdefault.jpg",
-    "duration": 2803,
-    "category": "news"
-  },
-  {
-    "id": "-rxBbQfRwWM",
-    "title": "ABC News Live Prime: Oct. 6, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/-rxBbQfRwWM/hqdefault.jpg",
-    "duration": 2763,
-    "category": "news"
-  },
-  {
-    "id": "xmRgk4K73w8",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 11, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/xmRgk4K73w8/hqdefault.jpg",
-    "duration": 1212,
-    "category": "news"
-  },
-  {
     "id": "sHXSIfC1YP4",
     "title": "Top U.S. & World Headlines — October 5, 2026",
     "channel": "Democracy Now!",
@@ -968,11 +944,27 @@
     "category": "news"
   },
   {
-    "id": "2XBC8GoVbcw",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 28, 2026",
+    "id": "Wj-mKgh5v6s",
+    "title": "CBS Evening News Full Broadcast | October 7, 2026",
+    "channel": "CBS Evening News",
+    "thumbnail": "https://i.ytimg.com/vi/Wj-mKgh5v6s/hqdefault.jpg",
+    "duration": 1198,
+    "category": "news"
+  },
+  {
+    "id": "sb2GWTAqN9c",
+    "title": "Good Morning America Full Broadcast - Wednesday, October 7, 2026",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/2XBC8GoVbcw/hqdefault.jpg",
-    "duration": 1213,
+    "thumbnail": "https://i.ytimg.com/vi/sb2GWTAqN9c/hqdefault.jpg",
+    "duration": 3906,
+    "category": "news"
+  },
+  {
+    "id": "-rxBbQfRwWM",
+    "title": "ABC News Live Prime: Oct. 6, 2026",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/-rxBbQfRwWM/hqdefault.jpg",
+    "duration": 2763,
     "category": "news"
   },
   {
@@ -992,11 +984,11 @@
     "category": "news"
   },
   {
-    "id": "Dar8u39qY8I",
-    "title": "ABC World News Tonight With David Muir | October 8, 2026 | ABC News Today",
-    "channel": "CONGRESS NEWS TV",
-    "thumbnail": "https://i.ytimg.com/vi/Dar8u39qY8I/hqdefault.jpg",
-    "duration": 1290,
+    "id": "iltEqrwt2CU",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 29, 2026",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/iltEqrwt2CU/hqdefault.jpg",
+    "duration": 1219,
     "category": "news"
   },
   {
@@ -1008,35 +1000,11 @@
     "category": "news"
   },
   {
-    "id": "dKtMkeqDVLs",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 18, 2026",
+    "id": "QBrXhAfYbyc",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 15, 2026",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/dKtMkeqDVLs/hqdefault.jpg",
-    "duration": 1182,
-    "category": "news"
-  },
-  {
-    "id": "6mt2Vyv6Dc0",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 20, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/6mt2Vyv6Dc0/hqdefault.jpg",
-    "duration": 1217,
-    "category": "news"
-  },
-  {
-    "id": "sb2GWTAqN9c",
-    "title": "Good Morning America Full Broadcast - Wednesday, October 7, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/sb2GWTAqN9c/hqdefault.jpg",
-    "duration": 3906,
-    "category": "news"
-  },
-  {
-    "id": "k3K4yajKsUQ",
-    "title": "Good Morning America Full Broadcast - Friday, October 9, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/k3K4yajKsUQ/hqdefault.jpg",
-    "duration": 3991,
+    "thumbnail": "https://i.ytimg.com/vi/QBrXhAfYbyc/hqdefault.jpg",
+    "duration": 1207,
     "category": "news"
   },
   {
@@ -1048,43 +1016,11 @@
     "category": "news"
   },
   {
-    "id": "295j-inFZ68",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Aug. 9,2026",
+    "id": "t5w41CEgS_g",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - June 1, 2026",
     "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/295j-inFZ68/hqdefault.jpg",
-    "duration": 1195,
-    "category": "news"
-  },
-  {
-    "id": "iltEqrwt2CU",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 29, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/iltEqrwt2CU/hqdefault.jpg",
-    "duration": 1219,
-    "category": "news"
-  },
-  {
-    "id": "UMSo1IbmnFw",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - July 21, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/UMSo1IbmnFw/hqdefault.jpg",
-    "duration": 1195,
-    "category": "news"
-  },
-  {
-    "id": "5tjIZuHk3lg",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - May 7, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/5tjIZuHk3lg/hqdefault.jpg",
-    "duration": 1220,
-    "category": "news"
-  },
-  {
-    "id": "YRCM6hw6ZLQ",
-    "title": "ABC World News Tonight with David Muir Full Broadcast - July 19th, 2026",
-    "channel": "ABC News",
-    "thumbnail": "https://i.ytimg.com/vi/YRCM6hw6ZLQ/hqdefault.jpg",
-    "duration": 1197,
+    "thumbnail": "https://i.ytimg.com/vi/t5w41CEgS_g/hqdefault.jpg",
+    "duration": 1205,
     "category": "news"
   },
   {
@@ -1096,27 +1032,35 @@
     "category": "news"
   },
   {
+    "id": "xmRgk4K73w8",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Sept. 11, 2026",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/xmRgk4K73w8/hqdefault.jpg",
+    "duration": 1212,
+    "category": "news"
+  },
+  {
+    "id": "1x7ZEPvJP6Y",
+    "title": "Good Morning America Full Broadcast —  Monday, October 5, 2026",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/1x7ZEPvJP6Y/hqdefault.jpg",
+    "duration": 4175,
+    "category": "news"
+  },
+  {
+    "id": "295j-inFZ68",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Aug. 9,2026",
+    "channel": "ABC News",
+    "thumbnail": "https://i.ytimg.com/vi/295j-inFZ68/hqdefault.jpg",
+    "duration": 1195,
+    "category": "news"
+  },
+  {
     "id": "cbe84W30GM8",
     "title": "Top 17 New Technology Trends That Will Define 2026",
     "channel": "TechTrends",
     "thumbnail": "https://i.ytimg.com/vi/cbe84W30GM8/hqdefault.jpg",
     "duration": 1060,
-    "category": "news"
-  },
-  {
-    "id": "fuiJ-3CdU3Q",
-    "title": "Coolest New Technologies of 2026",
-    "channel": "YouFact Tech",
-    "thumbnail": "https://i.ytimg.com/vi/fuiJ-3CdU3Q/hqdefault.jpg",
-    "duration": 1087,
-    "category": "news"
-  },
-  {
-    "id": "hw7lczdv6jg",
-    "title": "Gadgets of the future? | BBC News",
-    "channel": "BBC News",
-    "thumbnail": "https://i.ytimg.com/vi/hw7lczdv6jg/hqdefault.jpg",
-    "duration": 345,
     "category": "news"
   },
   {
@@ -1128,11 +1072,19 @@
     "category": "news"
   },
   {
-    "id": "83TiUbFY6fY",
-    "title": "21 Coolest Tech at CES 2026",
-    "channel": "Cybernews",
-    "thumbnail": "https://i.ytimg.com/vi/83TiUbFY6fY/hqdefault.jpg",
-    "duration": 1715,
+    "id": "hw7lczdv6jg",
+    "title": "Gadgets of the future? | BBC News",
+    "channel": "BBC News",
+    "thumbnail": "https://i.ytimg.com/vi/hw7lczdv6jg/hqdefault.jpg",
+    "duration": 345,
+    "category": "news"
+  },
+  {
+    "id": "fuiJ-3CdU3Q",
+    "title": "Coolest New Technologies of 2026",
+    "channel": "YouFact Tech",
+    "thumbnail": "https://i.ytimg.com/vi/fuiJ-3CdU3Q/hqdefault.jpg",
+    "duration": 1087,
     "category": "news"
   },
   {
@@ -1144,35 +1096,19 @@
     "category": "news"
   },
   {
+    "id": "83TiUbFY6fY",
+    "title": "21 Coolest Tech at CES 2026",
+    "channel": "Cybernews",
+    "thumbnail": "https://i.ytimg.com/vi/83TiUbFY6fY/hqdefault.jpg",
+    "duration": 1715,
+    "category": "news"
+  },
+  {
     "id": "EKOU3JWDNLI",
     "title": "The unhinged world of tech in 2026...",
     "channel": "Fireship",
     "thumbnail": "https://i.ytimg.com/vi/EKOU3JWDNLI/hqdefault.jpg",
     "duration": 551,
-    "category": "news"
-  },
-  {
-    "id": "mgHgAMTSYK0",
-    "title": "18 Cool Gadgets You’ll Want in 2026",
-    "channel": "YouFact Tech",
-    "thumbnail": "https://i.ytimg.com/vi/mgHgAMTSYK0/hqdefault.jpg",
-    "duration": 1173,
-    "category": "news"
-  },
-  {
-    "id": "mTyqIsaQECY",
-    "title": "Coolest New Technologies of 2026",
-    "channel": "TechTrends",
-    "thumbnail": "https://i.ytimg.com/vi/mTyqIsaQECY/hqdefault.jpg",
-    "duration": 957,
-    "category": "news"
-  },
-  {
-    "id": "zt0JA5rxdfM",
-    "title": "AI Trends 2026: Quantum, Agentic AI & Smarter Automation",
-    "channel": "IBM Technology",
-    "thumbnail": "https://i.ytimg.com/vi/zt0JA5rxdfM/hqdefault.jpg",
-    "duration": 699,
     "category": "news"
   },
   {
@@ -1184,11 +1120,35 @@
     "category": "news"
   },
   {
-    "id": "AtWS6AH56pM",
-    "title": "BREAKING: 13 New Apple Products CONFIRMED!",
-    "channel": "Max Tech",
-    "thumbnail": "https://i.ytimg.com/vi/AtWS6AH56pM/hqdefault.jpg",
-    "duration": 573,
+    "id": "GyJAdLtVxn8",
+    "title": "NEW Inventions of 2026 You Must See to Believe",
+    "channel": "TechTrends",
+    "thumbnail": "https://i.ytimg.com/vi/GyJAdLtVxn8/hqdefault.jpg",
+    "duration": 1205,
+    "category": "news"
+  },
+  {
+    "id": "zt0JA5rxdfM",
+    "title": "AI Trends 2026: Quantum, Agentic AI & Smarter Automation",
+    "channel": "IBM Technology",
+    "thumbnail": "https://i.ytimg.com/vi/zt0JA5rxdfM/hqdefault.jpg",
+    "duration": 699,
+    "category": "news"
+  },
+  {
+    "id": "WoMitMc895A",
+    "title": "Top 15 New AI and Quantum Computing Breakthroughs of 2026",
+    "channel": "AI Uncovered",
+    "thumbnail": "https://i.ytimg.com/vi/WoMitMc895A/hqdefault.jpg",
+    "duration": 1022,
+    "category": "news"
+  },
+  {
+    "id": "mTyqIsaQECY",
+    "title": "Coolest New Technologies of 2026",
+    "channel": "TechTrends",
+    "thumbnail": "https://i.ytimg.com/vi/mTyqIsaQECY/hqdefault.jpg",
+    "duration": 957,
     "category": "news"
   },
   {
@@ -1208,38 +1168,6 @@
     "category": "news"
   },
   {
-    "id": "GyJAdLtVxn8",
-    "title": "NEW Inventions of 2026 You Must See to Believe",
-    "channel": "TechTrends",
-    "thumbnail": "https://i.ytimg.com/vi/GyJAdLtVxn8/hqdefault.jpg",
-    "duration": 1205,
-    "category": "news"
-  },
-  {
-    "id": "WoMitMc895A",
-    "title": "Top 15 New AI and Quantum Computing Breakthroughs of 2026",
-    "channel": "AI Uncovered",
-    "thumbnail": "https://i.ytimg.com/vi/WoMitMc895A/hqdefault.jpg",
-    "duration": 1022,
-    "category": "news"
-  },
-  {
-    "id": "jZ9gzzrbq5A",
-    "title": "AI in Banking: Risk and Reward | Bloomberg Tech: Europe 10/9/2026",
-    "channel": "Bloomberg Tech",
-    "thumbnail": "https://i.ytimg.com/vi/jZ9gzzrbq5A/hqdefault.jpg",
-    "duration": 1443,
-    "category": "news"
-  },
-  {
-    "id": "B23W1gRT9eY",
-    "title": "Top 6 AI Trends That Will Define 2026 (backed by data)",
-    "channel": "Jeff Su",
-    "thumbnail": "https://i.ytimg.com/vi/B23W1gRT9eY/hqdefault.jpg",
-    "duration": 793,
-    "category": "news"
-  },
-  {
     "id": "9ZmZleUvRoE",
     "title": "13 Awesome New Tech Gadgets Coming in 2026",
     "channel": "Trends Place",
@@ -1253,6 +1181,38 @@
     "channel": "Cybernews and Wareable",
     "thumbnail": "https://i.ytimg.com/vi/pAMD7gtE33s/hqdefault.jpg",
     "duration": 1576,
+    "category": "news"
+  },
+  {
+    "id": "m9mCqZ7tmUg",
+    "title": "CES 2026: 20 Best Tech You’ll Actually Want!",
+    "channel": "HowToMen",
+    "thumbnail": "https://i.ytimg.com/vi/m9mCqZ7tmUg/hqdefault.jpg",
+    "duration": 1794,
+    "category": "news"
+  },
+  {
+    "id": "B23W1gRT9eY",
+    "title": "Top 6 AI Trends That Will Define 2026 (backed by data)",
+    "channel": "Jeff Su",
+    "thumbnail": "https://i.ytimg.com/vi/B23W1gRT9eY/hqdefault.jpg",
+    "duration": 793,
+    "category": "news"
+  },
+  {
+    "id": "mgHgAMTSYK0",
+    "title": "18 Cool Gadgets You’ll Want in 2026",
+    "channel": "YouFact Tech",
+    "thumbnail": "https://i.ytimg.com/vi/mgHgAMTSYK0/hqdefault.jpg",
+    "duration": 1173,
+    "category": "news"
+  },
+  {
+    "id": "wjJG8ga63lQ",
+    "title": "Top 15 New Breakthrough Technologies of 2026 (According to MIT)",
+    "channel": "AI Uncovered",
+    "thumbnail": "https://i.ytimg.com/vi/wjJG8ga63lQ/hqdefault.jpg",
+    "duration": 869,
     "category": "news"
   }
 ]
