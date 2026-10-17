@@ -1,5 +1,13 @@
 [
   {
+    "id": "-I-19GMBEkE",
+    "title": "New Song 2026 | New Hindi Song | Dil Maane Na | Shahrukh Khan | Kriti Sanon | New Song",
+    "channel": "Gaurav Mali",
+    "thumbnail": "https://i.ytimg.com/vi/-I-19GMBEkE/hqdefault.jpg",
+    "duration": 289,
+    "category": "indian_pop_music"
+  },
+  {
     "id": "oLTe_ZXIEdE",
     "title": "GURU RANDHAWA - PAN INDIA - MV - BHUSHAN KUMAR",
     "channel": "T-Series",
@@ -16,35 +24,11 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "6BYIKEH0RCQ",
-    "title": "Ritviz - Liggi [Official Music Video]",
-    "channel": "RITVIZ",
-    "thumbnail": "https://i.ytimg.com/vi/6BYIKEH0RCQ/hqdefault.jpg",
-    "duration": 192,
-    "category": "indian_pop_music"
-  },
-  {
     "id": "7TL3NNpQxZM",
     "title": "Bollywood Party Mix 2026 | Dance Songs | Non Stop Party Songs | Party Songs Playlist | Hindi Songs",
     "channel": "Tips Official",
     "thumbnail": "https://i.ytimg.com/vi/7TL3NNpQxZM/hqdefault.jpg",
     "duration": 4908,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "QHdajZktFEU",
-    "title": "Bangles (Official #Video) Sanju Rathod Ft. Isha Malviya | G-Spark | #Marathi Pop 2026 | बांगडी",
-    "channel": "Sanju Rathod SR",
-    "thumbnail": "https://i.ytimg.com/vi/QHdajZktFEU/hqdefault.jpg",
-    "duration": 244,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "5XB2sLGZVZQ",
-    "title": "New Songs 2026 | Tu Meri Zaroorat | New Hindi Song | Emraan Hashmi | Rashmika | Latest Romantic Song",
-    "channel": "Vatsal Bhoya",
-    "thumbnail": "https://i.ytimg.com/vi/5XB2sLGZVZQ/hqdefault.jpg",
-    "duration": 249,
     "category": "indian_pop_music"
   },
   {
@@ -56,43 +40,11 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "-I-19GMBEkE",
-    "title": "New Song 2026 | New Hindi Song | Dil Maane Na | Shahrukh Khan | Kriti Sanon | New Song",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/-I-19GMBEkE/hqdefault.jpg",
-    "duration": 289,
-    "category": "indian_pop_music"
-  },
-  {
     "id": "gPpQNzQP6gE",
     "title": "Akshath - Nadaaniyan (Official Video) Aisha Ahmed",
     "channel": "Akshath ",
     "thumbnail": "https://i.ytimg.com/vi/gPpQNzQP6gE/hqdefault.jpg",
     "duration": 170,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "GHEJVXsjxu0",
-    "title": "Goriya - Nishant Mukta | New Bhojpuri Pop Song | New Bhojpuri Afrotrap Song | I Popstar Show 2026",
-    "channel": "Beatboy Music",
-    "thumbnail": "https://i.ytimg.com/vi/GHEJVXsjxu0/hqdefault.jpg",
-    "duration": 182,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "i9ZBe2jMj8E",
-    "title": "WANG - SUKHA | TANU GREWAL | MANNI SANDHU (OFFICIAL VIDEO)",
-    "channel": "Collab Creations and SUKHA",
-    "thumbnail": "https://i.ytimg.com/vi/i9ZBe2jMj8E/hqdefault.jpg",
-    "duration": 143,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "u0Y3EHuMktE",
-    "title": "Ghana Kasoota |@raftaarmusic | Surbhi Jyoti | @RashmeetKaur | Avvy Sra | Latest Hit Dance Song 2021",
-    "channel": "Sony Music India",
-    "thumbnail": "https://i.ytimg.com/vi/u0Y3EHuMktE/hqdefault.jpg",
-    "duration": 173,
     "category": "indian_pop_music"
   },
   {
@@ -112,6 +64,70 @@
     "category": "indian_pop_music"
   },
   {
+    "id": "QHdajZktFEU",
+    "title": "Bangles (Official #Video) Sanju Rathod Ft. Isha Malviya | G-Spark | #Marathi Pop 2026 | बांगडी",
+    "channel": "Sanju Rathod SR",
+    "thumbnail": "https://i.ytimg.com/vi/QHdajZktFEU/hqdefault.jpg",
+    "duration": 244,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "u0Y3EHuMktE",
+    "title": "Ghana Kasoota |@raftaarmusic | Surbhi Jyoti | @RashmeetKaur | Avvy Sra | Latest Hit Dance Song 2021",
+    "channel": "Sony Music India",
+    "thumbnail": "https://i.ytimg.com/vi/u0Y3EHuMktE/hqdefault.jpg",
+    "duration": 173,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "GHEJVXsjxu0",
+    "title": "Goriya - Nishant Mukta | New Bhojpuri Pop Song | New Bhojpuri Afrotrap Song | I Popstar Show 2026",
+    "channel": "Beatboy Music",
+    "thumbnail": "https://i.ytimg.com/vi/GHEJVXsjxu0/hqdefault.jpg",
+    "duration": 182,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "i9ZBe2jMj8E",
+    "title": "WANG - SUKHA | TANU GREWAL | MANNI SANDHU (OFFICIAL VIDEO)",
+    "channel": "Collab Creations and SUKHA",
+    "thumbnail": "https://i.ytimg.com/vi/i9ZBe2jMj8E/hqdefault.jpg",
+    "duration": 143,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "orYf6VDtj_k",
+    "title": "Raataan Lambiyan - Lyric Video | Shershaah | Sidharth, Kiara | Tanishk B. | Jubin | Asees",
+    "channel": "Sony Music India",
+    "thumbnail": "https://i.ytimg.com/vi/orYf6VDtj_k/hqdefault.jpg",
+    "duration": 234,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "Xi8Fabcb_MA",
+    "title": "Chaand Baaliyan - Aditya A. (Official Video)",
+    "channel": "Aditya A",
+    "thumbnail": "https://i.ytimg.com/vi/Xi8Fabcb_MA/hqdefault.jpg",
+    "duration": 104,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "7c3-Gei5j4w",
+    "title": "Chaand Baaliyan – Aditya A. | Trending Song | Official Video",
+    "channel": "Sony Music India",
+    "thumbnail": "https://i.ytimg.com/vi/7c3-Gei5j4w/hqdefault.jpg",
+    "duration": 122,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "SZisWzyBdHI",
+    "title": "Piche Tere (Official Video) | Kunwarr | Punjabi Song 2026 | New Punjabi Pop Song | Punjabi Music",
+    "channel": "Times Music",
+    "thumbnail": "https://i.ytimg.com/vi/SZisWzyBdHI/hqdefault.jpg",
+    "duration": 126,
+    "category": "indian_pop_music"
+  },
+  {
     "id": "tRt85b6t_T0",
     "title": "Varinder Brar- LEVEL (OFFICIAL MUSIC VIDEO) | Latest Punjabi Songs 2026 | New punjabi Songs 2026",
     "channel": "Varinder Brar",
@@ -120,11 +136,19 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "FDCc2beB77I",
-    "title": "Ninna Notavu (Lyric Video) | @TanmayGururaj | Kannada Indie Pop | Sony Music | 2026 Kannada Pop",
-    "channel": "Sony Music South and Tanmay Gururaj",
-    "thumbnail": "https://i.ytimg.com/vi/FDCc2beB77I/hqdefault.jpg",
-    "duration": 164,
+    "id": "ptwUYrguUI8",
+    "title": "Pesamale - Official Music Video Song | Siri Xander | Arra Aria Khayal |Tamil Indie Pop",
+    "channel": "Sony Music South",
+    "thumbnail": "https://i.ytimg.com/vi/ptwUYrguUI8/hqdefault.jpg",
+    "duration": 207,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "yM5APO87aNU",
+    "title": "Jackpot (Official Video) Cheema Y | Gur Sidhu",
+    "channel": "Brown Town Music",
+    "thumbnail": "https://i.ytimg.com/vi/yM5APO87aNU/hqdefault.jpg",
+    "duration": 192,
     "category": "indian_pop_music"
   },
   {
@@ -136,10 +160,18 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "9HMVeCg2Z6U",
-    "title": "New Songs 2026 | Tu Hi Meri Dua | New Hindi Song | Ariyan Khan | Rashmika | Latest Romantic Song",
+    "id": "5XB2sLGZVZQ",
+    "title": "New Songs 2026 | Tu Meri Zaroorat | New Hindi Song | Emraan Hashmi | Rashmika | Latest Romantic Song",
     "channel": "Vatsal Bhoya",
-    "thumbnail": "https://i.ytimg.com/vi/9HMVeCg2Z6U/hqdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/5XB2sLGZVZQ/hqdefault.jpg",
+    "duration": 249,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "7EUTa7GjX7o",
+    "title": "New Song 2026 | New Hindi Song | Dil Ki  Pukar | Tiger Shroff | Sonam Bajwa | New Song ",
+    "channel": "Prakash Jojawar",
+    "thumbnail": "https://i.ytimg.com/vi/7EUTa7GjX7o/hqdefault.jpg",
     "duration": 282,
     "category": "indian_pop_music"
   },
@@ -152,195 +184,11 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "bOL3vqJ1IH0",
-    "title": "Woh Chali Woh Chali (Official Video) Bombay Vikings  | Superhit Pop Song",
-    "channel": "Universal Music India",
-    "thumbnail": "https://i.ytimg.com/vi/bOL3vqJ1IH0/hqdefault.jpg",
-    "duration": 212,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "Xi8Fabcb_MA",
-    "title": "Chaand Baaliyan - Aditya A. (Official Video)",
-    "channel": "Aditya A",
-    "thumbnail": "https://i.ytimg.com/vi/Xi8Fabcb_MA/hqdefault.jpg",
-    "duration": 104,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "zJqhUYJT8lc",
-    "title": "Bairan Chori (Official Video) - Sara Gurpal | New Haryanvi Song 2026 | Real Music",
-    "channel": "Real Music",
-    "thumbnail": "https://i.ytimg.com/vi/zJqhUYJT8lc/hqdefault.jpg",
-    "duration": 150,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "orYf6VDtj_k",
-    "title": "Raataan Lambiyan - Lyric Video | Shershaah | Sidharth, Kiara | Tanishk B. | Jubin | Asees",
-    "channel": "Sony Music India",
-    "thumbnail": "https://i.ytimg.com/vi/orYf6VDtj_k/hqdefault.jpg",
-    "duration": 234,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "7c3-Gei5j4w",
-    "title": "Chaand Baaliyan – Aditya A. | Trending Song | Official Video",
-    "channel": "Sony Music India",
-    "thumbnail": "https://i.ytimg.com/vi/7c3-Gei5j4w/hqdefault.jpg",
-    "duration": 122,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "U0Btvigtd2w",
-    "title": "Aastha Gill - Saara India | Priyank Sharma | Mixsingh | Arvindr Khaira | Nikk",
-    "channel": "Sony Music India",
-    "thumbnail": "https://i.ytimg.com/vi/U0Btvigtd2w/hqdefault.jpg",
-    "duration": 170,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "SxeiYYJO8DE",
-    "title": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/SxeiYYJO8DE/hqdefault.jpg",
-    "duration": 273,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "SZisWzyBdHI",
-    "title": "Piche Tere (Official Video) | Kunwarr | Punjabi Song 2026 | New Punjabi Pop Song | Punjabi Music",
-    "channel": "Times Music",
-    "thumbnail": "https://i.ytimg.com/vi/SZisWzyBdHI/hqdefault.jpg",
-    "duration": 126,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "ptwUYrguUI8",
-    "title": "Pesamale - Official Music Video Song | Siri Xander | Arra Aria Khayal |Tamil Indie Pop",
-    "channel": "Sony Music South",
-    "thumbnail": "https://i.ytimg.com/vi/ptwUYrguUI8/hqdefault.jpg",
-    "duration": 207,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "Fe6taWlyOE0",
-    "title": "New Hindi Song 2026 | Non-Stop Playlist | Best of Arijit Singh, Jubin Nautiyal,Atif Aslam 💖",
-    "channel": "New Song 2026",
-    "thumbnail": "https://i.ytimg.com/vi/Fe6taWlyOE0/hqdefault.jpg",
-    "duration": 5099,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "kiS9GMjwFWU",
-    "title": "Reel (Official Video ) R Nait | Deepak Dhillon | Prabh Grewal | Mix It Up | New Punjabi Songs 2026",
-    "channel": "R Nait",
-    "thumbnail": "https://i.ytimg.com/vi/kiS9GMjwFWU/hqdefault.jpg",
-    "duration": 288,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "eBI23_Sjfeo",
-    "title": "Official Music Video | Imaginary | Imran Khan | Pop-Rap | #PopSong",
-    "channel": "imrankhanworld",
-    "thumbnail": "https://i.ytimg.com/vi/eBI23_Sjfeo/hqdefault.jpg",
-    "duration": 200,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "7nlhwqoSBNA",
-    "title": "WITH YOU (Song): REHAMM | New Pop Song 2026 | T-Series",
-    "channel": "Pop Chartbusters",
-    "thumbnail": "https://i.ytimg.com/vi/7nlhwqoSBNA/hqdefault.jpg",
-    "duration": 168,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "zAiIgYOH4Ys",
-    "title": "KALYANI (Remix)",
-    "channel": "ARJN",
-    "thumbnail": "https://i.ytimg.com/vi/zAiIgYOH4Ys/hqdefault.jpg",
-    "duration": 270,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "Faz9JxpdHp4",
-    "title": "P Pop Culture (MUSIC VIDEO) KARAN AUJLA | Ikky | Latest Punjabi Songs 2025",
-    "channel": "Karan Aujla",
-    "thumbnail": "https://i.ytimg.com/vi/Faz9JxpdHp4/hqdefault.jpg",
-    "duration": 212,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "3sdyudSY7aA",
-    "title": "Hamesha | Bollywood Pop x Hypnotic Downtempo x First Love | Singularity ✦",
-    "channel": "Singularity Beats",
-    "thumbnail": "https://i.ytimg.com/vi/3sdyudSY7aA/hqdefault.jpg",
-    "duration": 455,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "yM5APO87aNU",
-    "title": "Jackpot (Official Video) Cheema Y | Gur Sidhu",
-    "channel": "Brown Town Music",
-    "thumbnail": "https://i.ytimg.com/vi/yM5APO87aNU/hqdefault.jpg",
-    "duration": 192,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "pmY2-uRHhEU",
-    "title": "CHEETAH (Official Music Video) | Chani Nattan | Inderpal Moga | Byg Byrd | New Punjabi Song 2026",
-    "channel": "Chani Nattan and Byg Byrd",
-    "thumbnail": "https://i.ytimg.com/vi/pmY2-uRHhEU/hqdefault.jpg",
-    "duration": 144,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "pLGRaZpNO5Y",
-    "title": "BRABUS (Official Music Video) Parmish Verma - Harman Brar Ft. Kiran Bajwa | VICTORY LAP",
-    "channel": "Parmish Verma",
-    "thumbnail": "https://i.ytimg.com/vi/pLGRaZpNO5Y/hqdefault.jpg",
-    "duration": 260,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "kxr7kFroBXM",
-    "title": "Tere Naal - Official Music Video|Asees Kaur - Savi Kahlon | New Romantic song 2026 | Punjabi Song",
-    "channel": "Ishtar Punjabi and Ishtar Music",
-    "thumbnail": "https://i.ytimg.com/vi/kxr7kFroBXM/hqdefault.jpg",
-    "duration": 197,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "1CConFR0074",
-    "title": "New Song 2026 | New Hindi Song | Rehnuma | Kaagazi Naina | Emraan Hashmi | Rashmika | New Song",
-    "channel": "Sagar Bairagi  and Ishqify",
-    "thumbnail": "https://i.ytimg.com/vi/1CConFR0074/hqdefault.jpg",
-    "duration": 391,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "4t3CO6zGtA0",
-    "title": "KULBIR JHINJER: KALLA KALLA TAARA | Deep Jandu | Geet Goraya | Punjabi Song 2026",
-    "channel": "White Hill Music",
-    "thumbnail": "https://i.ytimg.com/vi/4t3CO6zGtA0/hqdefault.jpg",
-    "duration": 199,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "znxqvAEkpMQ",
-    "title": "AZUL",
-    "channel": "Guru Randhawa",
-    "thumbnail": "https://i.ytimg.com/vi/znxqvAEkpMQ/hqdefault.jpg",
-    "duration": 139,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "VHumwnuUno4",
-    "title": "New Song 2026 | New Hindi Song | Adhura Ishq Tera | Ariyan Khan | Rashmika Mandana | New Song ",
-    "channel": "Prakash Jojawar and Rawat Super Star Music",
-    "thumbnail": "https://i.ytimg.com/vi/VHumwnuUno4/hqdefault.jpg",
-    "duration": 335,
+    "id": "4r9r6Fhm9I0",
+    "title": "Pesamale -  Official Lyric Video | Siri Xander | Arra Aria Khayal |Tamil Indie Pop |Sony Music Indie",
+    "channel": "Sony Music South and Siri Xander",
+    "thumbnail": "https://i.ytimg.com/vi/4r9r6Fhm9I0/hqdefault.jpg",
+    "duration": 179,
     "category": "indian_pop_music"
   },
   {
@@ -352,27 +200,35 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "rm9SzLA4irA",
-    "title": "MADIRA | Hardik Bhardwaj ( Official Audio ) - Indie pop ",
-    "channel": "Hardik Bhardwaj Official",
-    "thumbnail": "https://i.ytimg.com/vi/rm9SzLA4irA/hqdefault.jpg",
-    "duration": 164,
+    "id": "bOL3vqJ1IH0",
+    "title": "Woh Chali Woh Chali (Official Video) Bombay Vikings  | Superhit Pop Song",
+    "channel": "Universal Music India",
+    "thumbnail": "https://i.ytimg.com/vi/bOL3vqJ1IH0/hqdefault.jpg",
+    "duration": 212,
     "category": "indian_pop_music"
   },
   {
-    "id": "KZs8iBGJs1c",
-    "title": "New Punjabi Songs 2026 | Sorry (Official Video) Manjit Sahota Ft Baaghi | Latest Punjabi Songs 2026",
-    "channel": "Baaghi",
-    "thumbnail": "https://i.ytimg.com/vi/KZs8iBGJs1c/hqdefault.jpg",
-    "duration": 169,
+    "id": "pLGRaZpNO5Y",
+    "title": "BRABUS (Official Video) Parmish Verma - Harman Brar Ft. Kiran Bajwa | VICTORY LAP",
+    "channel": "Parmish Verma",
+    "thumbnail": "https://i.ytimg.com/vi/pLGRaZpNO5Y/hqdefault.jpg",
+    "duration": 260,
     "category": "indian_pop_music"
   },
   {
-    "id": "i0RJTOFwcgk",
-    "title": "Cartel (Official Music Video) Cheema Y | Gur Sidhu",
-    "channel": "Brown Town Music",
-    "thumbnail": "https://i.ytimg.com/vi/i0RJTOFwcgk/hqdefault.jpg",
-    "duration": 171,
+    "id": "TRa9IMvccjg",
+    "title": "DILBAR Full Song | Satyameva Jayate | John Abraham Nora Fatehi | Tanishk B Neha Kakkar Ikka Dhvani",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/TRa9IMvccjg/hqdefault.jpg",
+    "duration": 177,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "3sdyudSY7aA",
+    "title": "Hamesha | Bollywood Pop x Hypnotic Downtempo x First Love | Singularity ✦",
+    "channel": "Singularity Beats",
+    "thumbnail": "https://i.ytimg.com/vi/3sdyudSY7aA/hqdefault.jpg",
+    "duration": 455,
     "category": "indian_pop_music"
   },
   {
@@ -384,27 +240,11 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "i6KEx7MFDZs",
-    "title": "NEE - English Malayalam Rag-Pop Fusion Song | Nabzy Nabuhan Original",
-    "channel": "Nabzy Nabuhan",
-    "thumbnail": "https://i.ytimg.com/vi/i6KEx7MFDZs/hqdefault.jpg",
-    "duration": 337,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "G0Hx6uN2AJE",
-    "title": "Harrdy Sandhu - Kya Baat Ay | Jaani | B Praak | Arvindr Khaira | Official Music Video",
+    "id": "U0Btvigtd2w",
+    "title": "Aastha Gill - Saara India | Priyank Sharma | Mixsingh | Arvindr Khaira | Nikk",
     "channel": "Sony Music India",
-    "thumbnail": "https://i.ytimg.com/vi/G0Hx6uN2AJE/hqdefault.jpg",
-    "duration": 191,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "COUSCnFazzc",
-    "title": "SAJAN RE (Official Music Video): NORA FATEHI | BADSHAH | SANJOY | BHUSHAN KUMAR",
-    "channel": "T-Series and Nora Fatehi",
-    "thumbnail": "https://i.ytimg.com/vi/COUSCnFazzc/hqdefault.jpg",
-    "duration": 184,
+    "thumbnail": "https://i.ytimg.com/vi/U0Btvigtd2w/hqdefault.jpg",
+    "duration": 170,
     "category": "indian_pop_music"
   },
   {
@@ -416,99 +256,67 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "BhCHtJSjIA0",
-    "title": "Letest Romantic Songs 2026 ♥️ New Hindi Love Songs | Top Playlist Love Songs 2026 | New Love Songs",
-    "channel": "Sony Wave",
-    "thumbnail": "https://i.ytimg.com/vi/BhCHtJSjIA0/hqdefault.jpg",
-    "duration": 3441,
+    "id": "4t3CO6zGtA0",
+    "title": "KULBIR JHINJER: KALLA KALLA TAARA | Deep Jandu | Geet Goraya | Punjabi Song 2026",
+    "channel": "White Hill Music",
+    "thumbnail": "https://i.ytimg.com/vi/4t3CO6zGtA0/hqdefault.jpg",
+    "duration": 199,
     "category": "indian_pop_music"
   },
   {
-    "id": "bWCddDYGL_c",
-    "title": "New Song 2026 | New Hindi Song | Kaisi Ye Bekhudi Hai Sanam | Emran Hashmi | Kriti Sanon| New Song",
-    "channel": "Prakash Jojawar and Rawat Super Star Music",
-    "thumbnail": "https://i.ytimg.com/vi/bWCddDYGL_c/hqdefault.jpg",
-    "duration": 333,
+    "id": "V1aGtu68hC4",
+    "title": "TOP FELLA (MUSIC VIDEO) KARAN AUJLA | MXRCI | Latest Punjabi Songs 2026",
+    "channel": "Karan Aujla",
+    "thumbnail": "https://i.ytimg.com/vi/V1aGtu68hC4/hqdefault.jpg",
+    "duration": 199,
     "category": "indian_pop_music"
   },
   {
-    "id": "VPFNzzwPY5M",
-    "title": "Dil Mein Tere - Romantic Song | Latest Hindi Song | New Version Song Hindi | Ashwani Machal",
-    "channel": "Ashwani Machal",
-    "thumbnail": "https://i.ytimg.com/vi/VPFNzzwPY5M/hqdefault.jpg",
-    "duration": 187,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "yQqNC8HC8R8",
-    "title": "New Song 2026 | New Hindi Song | Rok Lena Dil | Emraan Hashmi | Genelia D'Souza | New Song",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/yQqNC8HC8R8/hqdefault.jpg",
+    "id": "zAiIgYOH4Ys",
+    "title": "KALYANI (Remix)",
+    "channel": "ARJN",
+    "thumbnail": "https://i.ytimg.com/vi/zAiIgYOH4Ys/hqdefault.jpg",
     "duration": 270,
     "category": "indian_pop_music"
   },
   {
-    "id": "DB4t5bT5PKo",
-    "title": "Top 15 Best Love Song 2026 ❤️ | Best Bollywood Hindi Romantic Song 2026 | Trending Love Songs 2026",
-    "channel": "I - SERIES · 4.9M views · 1 hours ago\n\n\n\n...",
-    "thumbnail": "https://i.ytimg.com/vi/DB4t5bT5PKo/hqdefault.jpg",
-    "duration": 2830,
+    "id": "_NGP0mVcd4k",
+    "title": "KI LAGDA TERA? (Official Video) Khushi Pandher | Savi Nain | Punjabi Song 2026",
+    "channel": "White Hill Music",
+    "thumbnail": "https://i.ytimg.com/vi/_NGP0mVcd4k/hqdefault.jpg",
+    "duration": 164,
     "category": "indian_pop_music"
   },
   {
-    "id": "cAjIkoUO2mQ",
-    "title": "Mahiya | Yasser Desai, Ahsii | Ashique Elahi | Hindi Music Video | The LSD Music | New Hindi Song",
-    "channel": "The LSD Music  and Yasser Desai",
-    "thumbnail": "https://i.ytimg.com/vi/cAjIkoUO2mQ/hqdefault.jpg",
-    "duration": 194,
+    "id": "FDCc2beB77I",
+    "title": "Ninna Notavu (Lyric Video) | @TanmayGururaj | Kannada Indie Pop | Sony Music | 2026 Kannada Pop",
+    "channel": "Sony Music South and Tanmay Gururaj",
+    "thumbnail": "https://i.ytimg.com/vi/FDCc2beB77I/hqdefault.jpg",
+    "duration": 164,
     "category": "indian_pop_music"
   },
   {
-    "id": "XLUBmRYEEz8",
-    "title": "Fast Bollywood Garba Nonstop 2026 | Gujrati, Hindi | Nonstop Garba Dj Song 2026 | Dj Umi",
-    "channel": "DJ UMI",
-    "thumbnail": "https://i.ytimg.com/vi/XLUBmRYEEz8/hqdefault.jpg",
-    "duration": 984,
+    "id": "elOiqYSrmX4",
+    "title": "Bijli | Gargi | I-Popstar Hindi Vol.2 | EP 6 | Alright TV | Netflix",
+    "channel": "Saregama Music",
+    "thumbnail": "https://i.ytimg.com/vi/elOiqYSrmX4/hqdefault.jpg",
+    "duration": 176,
     "category": "indian_pop_music"
   },
   {
-    "id": "7EUTa7GjX7o",
-    "title": "New Song 2026 | New Hindi Song | Dil Ki  Pukar | Tiger Shroff | Sonam Bajwa | New Song ",
-    "channel": "Prakash Jojawar",
-    "thumbnail": "https://i.ytimg.com/vi/7EUTa7GjX7o/hqdefault.jpg",
-    "duration": 282,
+    "id": "KuuX09mVvHE",
+    "title": "Paagal पागल | McDonald's Bhoomi 2026 | Salim Sulaiman | Sonu Nigam | Shraddha Pandit",
+    "channel": "Salim Sulaiman Music and Sonu Nigam",
+    "thumbnail": "https://i.ytimg.com/vi/KuuX09mVvHE/hqdefault.jpg",
+    "duration": 193,
     "category": "indian_pop_music"
   },
   {
-    "id": "IJJX39HRvlc",
-    "title": "New Songs 2026 | Mere Humdum | New Hindi Song | Emraan Hashmi | Rashmika | Latest Romantic Song",
+    "id": "9HMVeCg2Z6U",
+    "title": "New Songs 2026 | Tu Hi Meri Dua | New Hindi Song | Ariyan Khan | Rashmika | Latest Romantic Song",
     "channel": "Vatsal Bhoya",
-    "thumbnail": "https://i.ytimg.com/vi/IJJX39HRvlc/hqdefault.jpg",
-    "duration": 254,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "sTBPC5Af4WI",
-    "title": "New Song 2026 | New Hindi Song | Dil Ki Khataa | Tiger Shroff | Kriti Sanon | New Song New Song",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/sTBPC5Af4WI/hqdefault.jpg",
-    "duration": 274,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "knm9gWPZwgA",
-    "title": "Koi Aur Na Mile – Aarzoo Khaan | Song | Sad Song | New Sad Song 2026 | Arijit Singh Vibe",
-    "channel": "Aarzoo Khaan",
-    "thumbnail": "https://i.ytimg.com/vi/knm9gWPZwgA/hqdefault.jpg",
-    "duration": 314,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "Ce_5eR6nbGw",
-    "title": "New Hindi Song 2026 | Non-Stop Playlist | Best of Arijit Singh, Jubin Nautiyal,Atif Aslam 💖",
-    "channel": "New Song 2026",
-    "thumbnail": "https://i.ytimg.com/vi/Ce_5eR6nbGw/hqdefault.jpg",
-    "duration": 5880,
+    "thumbnail": "https://i.ytimg.com/vi/9HMVeCg2Z6U/hqdefault.jpg",
+    "duration": 282,
     "category": "indian_pop_music"
   },
   {
@@ -520,27 +328,67 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "mZtf2jCU4PM",
-    "title": "Chal Pada | Markio Tanaldo | I-Popstar Hindi Vol.2 | EP 1 | Alright TV | Netflix",
-    "channel": "Saregama Music and 3 more",
-    "thumbnail": "https://i.ytimg.com/vi/mZtf2jCU4PM/hqdefault.jpg",
-    "duration": 173,
+    "id": "kxr7kFroBXM",
+    "title": "Tere Naal - Official Music Video|Asees Kaur - Savi Kahlon | New Romantic song 2026 | Punjabi Song",
+    "channel": "Ishtar Punjabi and Ishtar Music",
+    "thumbnail": "https://i.ytimg.com/vi/kxr7kFroBXM/hqdefault.jpg",
+    "duration": 197,
     "category": "indian_pop_music"
   },
   {
-    "id": "IssysxAisfo",
-    "title": "Hardy Sandhu: HORNN BLOW Video Song | Jaani | B Praak | New Song 2016 | T-Series",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/IssysxAisfo/hqdefault.jpg",
-    "duration": 166,
+    "id": "wTViEbQGngY",
+    "title": "Clear No (Official Video) - Filmy ft. Akaisha Vats | Haryanvi Song | Real Music",
+    "channel": "Real Music and Filmy",
+    "thumbnail": "https://i.ytimg.com/vi/wTViEbQGngY/hqdefault.jpg",
+    "duration": 208,
     "category": "indian_pop_music"
   },
   {
-    "id": "mc9vNDe6kGI",
-    "title": "New Song 2026 | New Hindi Song | Deedar Tera Karke | Emraan Hashmi | Kiara Advani | New Song",
-    "channel": "Gaurav Mali",
-    "thumbnail": "https://i.ytimg.com/vi/mc9vNDe6kGI/hqdefault.jpg",
-    "duration": 294,
+    "id": "EKl6WlfT_qE",
+    "title": "Fitness (Official Video) Ajay Hooda | Shweta Mahara | Bali Sharma | New Haryanvi Song 2026",
+    "channel": "T-SERIES HARYANVI",
+    "thumbnail": "https://i.ytimg.com/vi/EKl6WlfT_qE/hqdefault.jpg",
+    "duration": 180,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "i0RJTOFwcgk",
+    "title": "Cartel (Official Music Video) Cheema Y | Gur Sidhu",
+    "channel": "Brown Town Music",
+    "thumbnail": "https://i.ytimg.com/vi/i0RJTOFwcgk/hqdefault.jpg",
+    "duration": 171,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "iMdH_G4N9nY",
+    "title": "Wakhra Swag | Official Video | Badshah | Navv Inder | Best Punjabi Dance Song | Punjabi Song 2026",
+    "channel": "Times Music",
+    "thumbnail": "https://i.ytimg.com/vi/iMdH_G4N9nY/hqdefault.jpg",
+    "duration": 220,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "-mHCIcFsyjI",
+    "title": "Indie/Pop/Folk Compilation • September 2026 🧦 (new discoveries | 2.5-hour playlist)",
+    "channel": "alexrainbirdMusic",
+    "thumbnail": "https://i.ytimg.com/vi/-mHCIcFsyjI/hqdefault.jpg",
+    "duration": 8823,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "Fe6taWlyOE0",
+    "title": "New Hindi Song 2026 | Non-Stop Playlist | Best of Arijit Singh, Jubin Nautiyal,Atif Aslam 💖",
+    "channel": "New Song 2026",
+    "thumbnail": "https://i.ytimg.com/vi/Fe6taWlyOE0/hqdefault.jpg",
+    "duration": 5099,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "YrFqAuzrlX0",
+    "title": "Gurgaon (Official Video) - Filmy | AMOR EP | New Haryanvi Song 2026 | Real Music",
+    "channel": "Real Music and Filmy",
+    "thumbnail": "https://i.ytimg.com/vi/YrFqAuzrlX0/hqdefault.jpg",
+    "duration": 190,
     "category": "indian_pop_music"
   },
   {
@@ -552,19 +400,27 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "NlRejy2QNx4",
-    "title": "New Songs 2026 | Mere Sanam | New Hindi Song | Vijay Deverakonda | Rashmika | Latest Romantic Song",
-    "channel": "Vatsal Bhoya",
-    "thumbnail": "https://i.ytimg.com/vi/NlRejy2QNx4/hqdefault.jpg",
-    "duration": 253,
+    "id": "ts3e_7rjI_k",
+    "title": "Instagram Viral Love Mashup | Non-Stop Jukebox | Best Viral Hindi Songs 2026 | Amit Vedwal",
+    "channel": "Amit Vedwal",
+    "thumbnail": "https://i.ytimg.com/vi/ts3e_7rjI_k/hqdefault.jpg",
+    "duration": 3274,
     "category": "indian_pop_music"
   },
   {
-    "id": "-BJt4fCAtZE",
-    "title": "Arz Kiya Hai | Coke Studio Bharat",
-    "channel": "Anuv Jain",
-    "thumbnail": "https://i.ytimg.com/vi/-BJt4fCAtZE/hqdefault.jpg",
-    "duration": 295,
+    "id": "cAjIkoUO2mQ",
+    "title": "Mahiya | Yasser Desai, Ahsii | Ashique Elahi | Hindi Music Video | The LSD Music | New Hindi Song",
+    "channel": "The LSD Music  and Yasser Desai",
+    "thumbnail": "https://i.ytimg.com/vi/cAjIkoUO2mQ/hqdefault.jpg",
+    "duration": 194,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "DB4t5bT5PKo",
+    "title": "Top 15 Best Love Song 2026 ❤️ | Best Bollywood Hindi Romantic Song 2026 | Trending Love Songs 2026",
+    "channel": "I - SERIES · 4.9M views · 1 hours ago\n\n\n\n...",
+    "thumbnail": "https://i.ytimg.com/vi/DB4t5bT5PKo/hqdefault.jpg",
+    "duration": 2830,
     "category": "indian_pop_music"
   },
   {
@@ -576,6 +432,158 @@
     "category": "indian_pop_music"
   },
   {
+    "id": "cTokGAQAaK4",
+    "title": "CHILLGUM (Official Video): YO YO HONEY SINGH | MALAIKA ARORA | 51 GLORIOUS DAYS | BHUSHAN KUMAR",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/cTokGAQAaK4/hqdefault.jpg",
+    "duration": 185,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "rqODKtPX5rk",
+    "title": "Nigaah (Official Music Video) | Pragati Nagpal | Showkidd | Diljan",
+    "channel": "Saregama Music and Pragati Nagpal",
+    "thumbnail": "https://i.ytimg.com/vi/rqODKtPX5rk/hqdefault.jpg",
+    "duration": 198,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "zJqhUYJT8lc",
+    "title": "Bairan Chori (Official Video) - Sara Gurpal | New Haryanvi Song 2026 | Real Music",
+    "channel": "Real Music",
+    "thumbnail": "https://i.ytimg.com/vi/zJqhUYJT8lc/hqdefault.jpg",
+    "duration": 150,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "3CDOd4GdcUQ",
+    "title": "Ucha Lamba Kad Forever | Welcome to the Jungle | Akshay Kumar | Disha Patani | Vikram Montrose",
+    "channel": "Times Music and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/3CDOd4GdcUQ/hqdefault.jpg",
+    "duration": 227,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "mZtf2jCU4PM",
+    "title": "Chal Pada | Markio Tanaldo | I-Popstar Hindi Vol.2 | EP 1 | Alright TV | Netflix",
+    "channel": "Saregama Music and 3 more",
+    "thumbnail": "https://i.ytimg.com/vi/mZtf2jCU4PM/hqdefault.jpg",
+    "duration": 173,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "E07c4pBa_SI",
+    "title": "🎶 Trending Exclusive Hindi Pop & Rap Songs 2026 🔥 | Best Hindi Hits | Ultimate Collection",
+    "channel": "Wave Of Music",
+    "thumbnail": "https://i.ytimg.com/vi/E07c4pBa_SI/hqdefault.jpg",
+    "duration": 3062,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "bWCddDYGL_c",
+    "title": "New Song 2026 | New Hindi Song | Kaisi Ye Bekhudi Hai Sanam | Emran Hashmi | Kriti Sanon| New Song",
+    "channel": "Prakash Jojawar and Rawat Super Star Music",
+    "thumbnail": "https://i.ytimg.com/vi/bWCddDYGL_c/hqdefault.jpg",
+    "duration": 333,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "wq36sOy1O40",
+    "title": "Badshah - Gone Girl (लड़की ख़राब) | 8K/4K Music Video | Payal Dev | Sakshi Vaidya | Party Song 2025",
+    "channel": "Universal Music India",
+    "thumbnail": "https://i.ytimg.com/vi/wq36sOy1O40/hqdefault.jpg",
+    "duration": 187,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "VHumwnuUno4",
+    "title": "New Song 2026 | New Hindi Song | Adhura Ishq Tera | Ariyan Khan | Rashmika Mandana | New Song ",
+    "channel": "Prakash Jojawar and Rawat Super Star Music",
+    "thumbnail": "https://i.ytimg.com/vi/VHumwnuUno4/hqdefault.jpg",
+    "duration": 335,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "uP4QR-aLWuE",
+    "title": "Trending Instagram Love Mashup 2026 🔥| LucyxMusic | Instagram Jukebox | Trending Love Songs |",
+    "channel": "LucyXMusic",
+    "thumbnail": "https://i.ytimg.com/vi/uP4QR-aLWuE/hqdefault.jpg",
+    "duration": 1550,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "1ZntFlgJPDA",
+    "title": "Boohe Baarian (Official Video) - @adityarikhari | Rochak Kohli | Roshni Walia | Bhushan Kumar",
+    "channel": "T-Series and Aditya Rikhari",
+    "thumbnail": "https://i.ytimg.com/vi/1ZntFlgJPDA/hqdefault.jpg",
+    "duration": 192,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "6pYTpTMwREA",
+    "title": "Faasle | Himesh Reshammiya | Emraan Hashmi | New Hindi Song 2026 | Gunmaster g9 | Emraan hashmi New",
+    "channel": "Jazz Grik",
+    "thumbnail": "https://i.ytimg.com/vi/6pYTpTMwREA/hqdefault.jpg",
+    "duration": 150,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "DxxW6hyNkOM",
+    "title": "Casa Tupka Anthemo",
+    "channel": "Yo Yo Honey Singh",
+    "thumbnail": "https://i.ytimg.com/vi/DxxW6hyNkOM/hqdefault.jpg",
+    "duration": 184,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "BhCHtJSjIA0",
+    "title": "Letest Romantic Songs 2026 ♥️ New Hindi Love Songs | Top Playlist Love Songs 2026 | New Love Songs",
+    "channel": "Sony Wave",
+    "thumbnail": "https://i.ytimg.com/vi/BhCHtJSjIA0/hqdefault.jpg",
+    "duration": 3441,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "dqz9Uloc8K0",
+    "title": "KANGNA (Official Video) – Mamta Sharma, Sambhavna Seth | Punjabi Song 2026",
+    "channel": "One Music Originals",
+    "thumbnail": "https://i.ytimg.com/vi/dqz9Uloc8K0/hqdefault.jpg",
+    "duration": 221,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "WRcIwPwlxbw",
+    "title": "Hun Ishq Main - Atif Aslam ft. Yumna Zaidi | When Love Hurts The Most - Official Video",
+    "channel": "Atif Aslam",
+    "thumbnail": "https://i.ytimg.com/vi/WRcIwPwlxbw/hqdefault.jpg",
+    "duration": 203,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "969IJvpttA8",
+    "title": "New Song 2026 | New Hindi Song | Dil Jaaniya | Emraan Hashmi | Genelia Deshmukh | Nagesh Biswal",
+    "channel": "Nagesh Biswal",
+    "thumbnail": "https://i.ytimg.com/vi/969IJvpttA8/hqdefault.jpg",
+    "duration": 350,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "O3QNTjH_EJA",
+    "title": "New Hindi Song 2026💜Arijit Singh,Jubin Nautiyal,Atif Aslam,Neha Kakkar,Armaan Malik,Shreya Ghoshal",
+    "channel": "New Song 2026",
+    "thumbnail": "https://i.ytimg.com/vi/O3QNTjH_EJA/hqdefault.jpg",
+    "duration": 5333,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "IJJX39HRvlc",
+    "title": "New Songs 2026 | Mere Humdum | New Hindi Song | Emraan Hashmi | Rashmika | Latest Romantic Song",
+    "channel": "Vatsal Bhoya",
+    "thumbnail": "https://i.ytimg.com/vi/IJJX39HRvlc/hqdefault.jpg",
+    "duration": 254,
+    "category": "indian_pop_music"
+  },
+  {
     "id": "pQhMV8J7EH0",
     "title": "New Song 2026 | New Hindi Song | Aakhri Mohabbat | Ayushmann Khurrana | Sonam Bajwa | New Song",
     "channel": "HQ Studio Music",
@@ -584,19 +592,19 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "i1o1p_DD6TU",
-    "title": "Gehra Hua (From \"Dhurandhar\")",
-    "channel": "Shashwat Sachdev",
-    "thumbnail": "https://i.ytimg.com/vi/i1o1p_DD6TU/hqdefault.jpg",
-    "duration": 363,
+    "id": "SxeiYYJO8DE",
+    "title": "New Song 2026 | New Hindi Song | Mohabbat Juda Ho Jaaye | Aryan Khan | Kriti Sanon | New Song",
+    "channel": "Gaurav Mali",
+    "thumbnail": "https://i.ytimg.com/vi/SxeiYYJO8DE/hqdefault.jpg",
+    "duration": 273,
     "category": "indian_pop_music"
   },
   {
-    "id": "ncOt_x_ILCY",
-    "title": "TOP 50 MOST VIEWED SONGS REACTION 2025 & 2026 🇮🇳 ❤️‍🔥",
-    "channel": "Darin Reaction",
-    "thumbnail": "https://i.ytimg.com/vi/ncOt_x_ILCY/hqdefault.jpg",
-    "duration": 739,
+    "id": "NlRejy2QNx4",
+    "title": "New Songs 2026 | Mere Sanam | New Hindi Song | Vijay Deverakonda | Rashmika | Latest Romantic Song",
+    "channel": "Vatsal Bhoya",
+    "thumbnail": "https://i.ytimg.com/vi/NlRejy2QNx4/hqdefault.jpg",
+    "duration": 253,
     "category": "indian_pop_music"
   },
   {
@@ -616,35 +624,11 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "vwbz94JwexM",
-    "title": "Diwali Dhamaka Dance Hits 2025 | Bole Chudiyan | Maahi Ve | Saturday Saturday | Diwali Party Songs",
-    "channel": "Sony Music India",
-    "thumbnail": "https://i.ytimg.com/vi/vwbz94JwexM/hqdefault.jpg",
-    "duration": 5090,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "LcBgWC9aAuI",
-    "title": "Best of 90s Indian Hindi Pop Songs | Superhit 90s Hindi Pop Songs |  All-time Hindi Pop | Jukebox",
-    "channel": "Indian Music",
-    "thumbnail": "https://i.ytimg.com/vi/LcBgWC9aAuI/hqdefault.jpg",
-    "duration": 5325,
-    "category": "indian_pop_music"
-  },
-  {
     "id": "yIIGQB6EMAM",
     "title": "Bom Diggy Diggy  (VIDEO) | Zack Knight | Jasmin Walia | Sonu Ke Titu Ki Sweety",
     "channel": "T-Series",
     "thumbnail": "https://i.ytimg.com/vi/yIIGQB6EMAM/hqdefault.jpg",
     "duration": 202,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "vh9GWgJZiQA",
-    "title": "Hindi Pop Songs l Best 90s Hindi Hits album Music Old is Gold l Best Hindi Album l@djadityanr",
-    "channel": "DJ ADITYA NR & DJ SHELIN ",
-    "thumbnail": "https://i.ytimg.com/vi/vh9GWgJZiQA/hqdefault.jpg",
-    "duration": 3387,
     "category": "indian_pop_music"
   },
   {
@@ -656,6 +640,86 @@
     "category": "indian_pop_music"
   },
   {
+    "id": "k4yXQkG2s1E",
+    "title": "𝐊𝐚𝐥𝐚 𝐂𝐡𝐚𝐬𝐡𝐦𝐚 🕶️ | Baar Baar Dekho | Sidharth M & Katrina Kaif | Badshah, Neha Kakkar, Prem & Hardeep",
+    "channel": "Zee Music Company",
+    "thumbnail": "https://i.ytimg.com/vi/k4yXQkG2s1E/hqdefault.jpg",
+    "duration": 174,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "LcBgWC9aAuI",
+    "title": "Best of 90s Indian Hindi Pop Songs | Superhit 90s Hindi Pop Songs |  All-time Hindi Pop | Jukebox",
+    "channel": "Indian Music",
+    "thumbnail": "https://i.ytimg.com/vi/LcBgWC9aAuI/hqdefault.jpg",
+    "duration": 5325,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "jFTOYcT1vEw",
+    "title": "W.i.S.H. - Boom Boom | Official Music Video",
+    "channel": "W.i.S.H.",
+    "thumbnail": "https://i.ytimg.com/vi/jFTOYcT1vEw/hqdefault.jpg",
+    "duration": 182,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "vwbz94JwexM",
+    "title": "Diwali Dhamaka Dance Hits 2025 | Bole Chudiyan | Maahi Ve | Saturday Saturday | Diwali Party Songs",
+    "channel": "Sony Music India",
+    "thumbnail": "https://i.ytimg.com/vi/vwbz94JwexM/hqdefault.jpg",
+    "duration": 5090,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "SD4Z8dlZPd8",
+    "title": "Badshah – Genda Phool | Jacqueline Fernandez | Payal Dev | Hit Anthem of the Year 2021",
+    "channel": "Sony Music India",
+    "thumbnail": "https://i.ytimg.com/vi/SD4Z8dlZPd8/hqdefault.jpg",
+    "duration": 174,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "vh9GWgJZiQA",
+    "title": "Hindi Pop Songs l Best 90s Hindi Hits album Music Old is Gold l Best Hindi Album l@djadityanr",
+    "channel": "DJ ADITYA NR & DJ SHELIN ",
+    "thumbnail": "https://i.ytimg.com/vi/vh9GWgJZiQA/hqdefault.jpg",
+    "duration": 3387,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "e_vl5aFXB4Q",
+    "title": "Full Video: Akh Lad Jaave | Loveyatri | Aayush S|Warina H |Badshah, Tanishk Bagchi,Jubin N, ,Asees K",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/e_vl5aFXB4Q/hqdefault.jpg",
+    "duration": 181,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "BBAyRBTfsOU",
+    "title": "Vaaste Song: Dhvani Bhanushali, Tanishk Bagchi | Nikhil D'Souza | Bhushan Kumar | Radhika R, Vinay S",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/BBAyRBTfsOU/hqdefault.jpg",
+    "duration": 267,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "YAQdrO3FCww",
+    "title": "Mere Naseeb Mein (Remix) - Baby H | Prem & Hardeep | Megha Chatterji",
+    "channel": "SonyMusicIndiaVEVO",
+    "thumbnail": "https://i.ytimg.com/vi/YAQdrO3FCww/hqdefault.jpg",
+    "duration": 260,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "G0Hx6uN2AJE",
+    "title": "Harrdy Sandhu - Kya Baat Ay | Jaani | B Praak | Arvindr Khaira | Official Music Video",
+    "channel": "Sony Music India",
+    "thumbnail": "https://i.ytimg.com/vi/G0Hx6uN2AJE/hqdefault.jpg",
+    "duration": 191,
+    "category": "indian_pop_music"
+  },
+  {
     "id": "kMyTKHEJ-6c",
     "title": "Pardesiya (From \"Param Sundari\")",
     "channel": "Sachin Jigar",
@@ -664,11 +728,43 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "k4yXQkG2s1E",
-    "title": "𝐊𝐚𝐥𝐚 𝐂𝐡𝐚𝐬𝐡𝐦𝐚 🕶️ | Baar Baar Dekho | Sidharth M & Katrina Kaif | Badshah, Neha Kakkar, Prem & Hardeep",
-    "channel": "Zee Music Company",
-    "thumbnail": "https://i.ytimg.com/vi/k4yXQkG2s1E/hqdefault.jpg",
-    "duration": 174,
+    "id": "LB_x98uDb6I",
+    "title": "Girls Night Mix | Video Jukebox | Hindi Bollywood Songs | Chhaliya, Lucky Boy & more",
+    "channel": "YRF",
+    "thumbnail": "https://i.ytimg.com/vi/LB_x98uDb6I/hqdefault.jpg",
+    "duration": 3538,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "VNs_cCtdbPc",
+    "title": "BROWN MUNDE - AP DHILLON | GURINDER GILL | SHINDA KAHLON (Official Music Video)",
+    "channel": "APDHILLON",
+    "thumbnail": "https://i.ytimg.com/vi/VNs_cCtdbPc/hqdefault.jpg",
+    "duration": 268,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "yDv0WSgXJVg",
+    "title": "\"Senorita Zindagi Na Milegi Dobara\" Full HD Video Song | Farhan Akhtar, Hrithik Roshan, Abhay Deol",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/yDv0WSgXJVg/hqdefault.jpg",
+    "duration": 232,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "ksY3wb4vtlA",
+    "title": "Badshah - Jugnu (Official Video) | Nikhita Gandhi | Akanksha Sharma",
+    "channel": "Badshah",
+    "thumbnail": "https://i.ytimg.com/vi/ksY3wb4vtlA/hqdefault.jpg",
+    "duration": 235,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "Uge-bLxlsxw",
+    "title": "90s Evergreen Hindi Pop Songs",
+    "channel": "DN",
+    "thumbnail": "https://i.ytimg.com/vi/Uge-bLxlsxw/hqdefault.jpg",
+    "duration": 9821,
     "category": "indian_pop_music"
   },
   {
@@ -688,14 +784,6 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "e_vl5aFXB4Q",
-    "title": "Full Video: Akh Lad Jaave | Loveyatri | Aayush S|Warina H |Badshah, Tanishk Bagchi,Jubin N, ,Asees K",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/e_vl5aFXB4Q/hqdefault.jpg",
-    "duration": 181,
-    "category": "indian_pop_music"
-  },
-  {
     "id": "YmXJp4RtBCM",
     "title": "Proper Patola - Official Video | Namaste England | Arjun | Parineeti | Badshah | Diljit | Aastha",
     "channel": "Sony Music India",
@@ -704,115 +792,11 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "SD4Z8dlZPd8",
-    "title": "Badshah – Genda Phool | Jacqueline Fernandez | Payal Dev | Hit Anthem of the Year 2021",
-    "channel": "Sony Music India",
-    "thumbnail": "https://i.ytimg.com/vi/SD4Z8dlZPd8/hqdefault.jpg",
-    "duration": 174,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "BBAyRBTfsOU",
-    "title": "Vaaste Song: Dhvani Bhanushali, Tanishk Bagchi | Nikhil D'Souza | Bhushan Kumar | Radhika R, Vinay S",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/BBAyRBTfsOU/hqdefault.jpg",
-    "duration": 267,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "yDv0WSgXJVg",
-    "title": "\"Senorita Zindagi Na Milegi Dobara\" Full HD Video Song | Farhan Akhtar, Hrithik Roshan, Abhay Deol",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/yDv0WSgXJVg/hqdefault.jpg",
-    "duration": 232,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "jFTOYcT1vEw",
-    "title": "W.i.S.H. - Boom Boom | Official Music Video",
-    "channel": "W.i.S.H.",
-    "thumbnail": "https://i.ytimg.com/vi/jFTOYcT1vEw/hqdefault.jpg",
-    "duration": 182,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "Ci0WbaUH3no",
-    "title": "She Move It Like - Official Video | Badshah | Warina Hussain | ONE Album",
-    "channel": "Sony Music India",
-    "thumbnail": "https://i.ytimg.com/vi/Ci0WbaUH3no/hqdefault.jpg",
-    "duration": 186,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "ksY3wb4vtlA",
-    "title": "Badshah - Jugnu (Official Video) | Nikhita Gandhi | Akanksha Sharma",
-    "channel": "Badshah",
-    "thumbnail": "https://i.ytimg.com/vi/ksY3wb4vtlA/hqdefault.jpg",
-    "duration": 235,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "uBaqgt5V0mU",
-    "title": "Official Video: Nikle Currant Song | Jassi Gill | Neha Kakkar | Sukh-E Muzical Doctorz | Jaani",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/uBaqgt5V0mU/hqdefault.jpg",
-    "duration": 214,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "zC3UbTf4qrM",
-    "title": "Afghan Jalebi (Ya Baba) FULL VIDEO Song | Phantom | Saif Ali Khan Katrina Kaif Pritam Asrar T-Series",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/zC3UbTf4qrM/hqdefault.jpg",
-    "duration": 206,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "GFljvZMZI0U",
-    "title": "Full Video: Soni De Nakhre | Partner | Govinda, Salman Khan, Katrina Kaif | Sajid - Wajid",
-    "channel": "T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/GFljvZMZI0U/hqdefault.jpg",
-    "duration": 238,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "YAQdrO3FCww",
-    "title": "Mere Naseeb Mein (Remix) - Baby H | Prem & Hardeep | Megha Chatterji",
-    "channel": "SonyMusicIndiaVEVO",
-    "thumbnail": "https://i.ytimg.com/vi/YAQdrO3FCww/hqdefault.jpg",
-    "duration": 260,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "XOUEOM-G4aI",
-    "title": "Indie Folk Compilation • Spring 2026 🌼 (best new music | 3-hour playlist)",
-    "channel": "alexrainbirdMusic",
-    "thumbnail": "https://i.ytimg.com/vi/XOUEOM-G4aI/hqdefault.jpg",
-    "duration": 9324,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "0nphl1Vp78g",
-    "title": "Indie Folk 2026 Instrumental Acoustic Music",
-    "channel": "Eternal Vibes",
-    "thumbnail": "https://i.ytimg.com/vi/0nphl1Vp78g/hqdefault.jpg",
-    "duration": 40315,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "ppT4BQZtxps",
-    "title": "Indie Folk Compilation • Summer 2026 ☀️ (best new music | 2.5-hour playlist)",
-    "channel": "alexrainbirdMusic",
-    "thumbnail": "https://i.ytimg.com/vi/ppT4BQZtxps/hqdefault.jpg",
-    "duration": 9564,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "0FxJjSjBPSw",
-    "title": "Unfiltered Truth About Indian Indie Music in 2026",
-    "channel": "Saransh Kharbanda",
-    "thumbnail": "https://i.ytimg.com/vi/0FxJjSjBPSw/hqdefault.jpg",
-    "duration": 558,
+    "id": "milVn3sJd90",
+    "title": "15 August Song | Indian Music Anthems - Independence Day Special 2026 Playlist | Patriotic Songs",
+    "channel": "T-Series Telugu",
+    "thumbnail": "https://i.ytimg.com/vi/milVn3sJd90/hqdefault.jpg",
+    "duration": 2422,
     "category": "indian_pop_music"
   },
   {
@@ -824,99 +808,11 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "6Fk7DXi9mYc",
-    "title": "Happy Independence Day 2026 🇮🇳 | Patriotic Instrumental Music for 15th August",
-    "channel": "NT Raaga",
-    "thumbnail": "https://i.ytimg.com/vi/6Fk7DXi9mYc/hqdefault.jpg",
-    "duration": 1531,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "HWTIdoBaNA8",
-    "title": "DASAGRIVA - Bandh Chesko (Music Video) | Think Indie",
-    "channel": "Think Music India and DASAGRIVA",
-    "thumbnail": "https://i.ytimg.com/vi/HWTIdoBaNA8/hqdefault.jpg",
-    "duration": 261,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "c6JAn-IGX6o",
-    "title": "Indie Folk 24/7 Live Radio (NO AI) ☕ Coffeehouse Music to Chill, Study & Work",
-    "channel": "Indie Folk Central 2026",
-    "thumbnail": "https://i.ytimg.com/vi/c6JAn-IGX6o/hqdefault.jpg",
-    "duration": 0,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "HMVjJYlwBBA",
-    "title": "Christian Indie Folk Playlist | Chill Road Trip Worship Music for Relaxing, Studying & Prayer",
-    "channel": "Ember and Altar",
-    "thumbnail": "https://i.ytimg.com/vi/HMVjJYlwBBA/hqdefault.jpg",
-    "duration": 3405,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "ema4OhKlRr4",
-    "title": "Live: Grand Garba Dance at Vibrant Navratri Festival 2026, Ahmedabad | Day 6",
-    "channel": "Doordarshan National",
-    "thumbnail": "https://i.ytimg.com/vi/ema4OhKlRr4/hqdefault.jpg",
-    "duration": 6980,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "wJUmqum8Ra0",
-    "title": "The Story of India's Independent Music Venues | Off The Menu | #11",
-    "channel": "Saransh Kharbanda",
-    "thumbnail": "https://i.ytimg.com/vi/wJUmqum8Ra0/hqdefault.jpg",
-    "duration": 337,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "mW23nK35j20",
-    "title": "Monali Thakur on Independent Music, Algorithm, Ownership & Concert Culture | June 2026 | MusiCulture",
-    "channel": "MusiCulture",
-    "thumbnail": "https://i.ytimg.com/vi/mW23nK35j20/hqdefault.jpg",
-    "duration": 1497,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "R8Qh9F77-Tg",
-    "title": "@pritsprakash - Suzhal (Music Video) | Amudhan Priyan | Think Indie",
-    "channel": "Think Music India",
-    "thumbnail": "https://i.ytimg.com/vi/R8Qh9F77-Tg/hqdefault.jpg",
-    "duration": 227,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "ZRy8G9WK0eg",
-    "title": "Devaloka Sundari - Official Music Video | Siri Xander | Arra Aria Khayal | Tamil Indie Pop",
-    "channel": "Sony Music South and Siri Xander",
-    "thumbnail": "https://i.ytimg.com/vi/ZRy8G9WK0eg/hqdefault.jpg",
-    "duration": 196,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "sw6XUtadCWc",
-    "title": "UDAAN (OFFICIAL MUSIC) | Indian Army War Anthem | Independence Day 2026",
-    "channel": "FORGOTTEN X MUSIC OFFICIAL",
-    "thumbnail": "https://i.ytimg.com/vi/sw6XUtadCWc/hqdefault.jpg",
-    "duration": 188,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "_xqOyeScZtc",
-    "title": "September 2026 🍂☀️ | 2h Indie Pop/Folk Music for Late Summer Days & Early Autumn Magic",
-    "channel": "Sophia Bellamy Music",
-    "thumbnail": "https://i.ytimg.com/vi/_xqOyeScZtc/hqdefault.jpg",
-    "duration": 7301,
-    "category": "indian_pop_music"
-  },
-  {
-    "id": "wPiD8kJcgyg",
-    "title": "@RudhPrakash - Kaadhal Yaathiriye (Music Video) | Vibha | Vishal Ravichandran | Thamizh |Think Indie",
-    "channel": "Think Music India and rudh",
-    "thumbnail": "https://i.ytimg.com/vi/wPiD8kJcgyg/hqdefault.jpg",
-    "duration": 190,
+    "id": "QVjc3iiLBpE",
+    "title": "Indian Independent Music | Romantic Pop, Fresh Sounds & Goldie Sohel Collection | 2026 HD Mix",
+    "channel": "Whistling Electric",
+    "thumbnail": "https://i.ytimg.com/vi/QVjc3iiLBpE/hqdefault.jpg",
+    "duration": 4644,
     "category": "indian_pop_music"
   },
   {
@@ -928,11 +824,123 @@
     "category": "indian_pop_music"
   },
   {
-    "id": "codH9kcM740",
-    "title": "Independent Music Career Ek Trap hai ( Correct This First )",
-    "channel": "Paarth Singh",
-    "thumbnail": "https://i.ytimg.com/vi/codH9kcM740/hqdefault.jpg",
-    "duration": 1082,
+    "id": "Xg4FddaeEtk",
+    "title": "August 2026 ☀️🌿 | 2h Indie Pop/Folk Music for Summer Days, Open Windows & Feel Good Vibes",
+    "channel": "Sophia Bellamy Music",
+    "thumbnail": "https://i.ytimg.com/vi/Xg4FddaeEtk/hqdefault.jpg",
+    "duration": 7097,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "tZbAPNjfFXw",
+    "title": "Sawan Barse | Official Music Video | Piyush Ambhore | DEVM | New Indie Song 2026 @songfestindia",
+    "channel": "Songfest India and Piyush Ambhore Official",
+    "thumbnail": "https://i.ytimg.com/vi/tZbAPNjfFXw/hqdefault.jpg",
+    "duration": 266,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "b68HETiNO98",
+    "title": "@SaiAbhyankkar - Pavazha Malli (Music Video) | Kayadu | Shruti Haasan | Vivek | Thejo | Think Indie",
+    "channel": "Think Music India",
+    "thumbnail": "https://i.ytimg.com/vi/b68HETiNO98/hqdefault.jpg",
+    "duration": 309,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "wPiD8kJcgyg",
+    "title": "@RudhPrakash - Kaadhal Yaathiriye (Music Video) | Vibha | Vishal Ravichandran | Thamizh |Think Indie",
+    "channel": "Think Music India and rudh",
+    "thumbnail": "https://i.ytimg.com/vi/wPiD8kJcgyg/hqdefault.jpg",
+    "duration": 190,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "yeEZdySbdSQ",
+    "title": "Top Anuv Jain Songs 2026 🎶 Best Indie Music Collection | Husn, Alag Aasmaan & More Songs",
+    "channel": "Monochrome Thresholds",
+    "thumbnail": "https://i.ytimg.com/vi/yeEZdySbdSQ/hqdefault.jpg",
+    "duration": 8074,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "-vLjH8pB0x8",
+    "title": "Jugnu Sa | Kyrek ft. Ainesh | New Indie Music 2026 | Pehchan Music",
+    "channel": "Pehchan Music",
+    "thumbnail": "https://i.ytimg.com/vi/-vLjH8pB0x8/hqdefault.jpg",
+    "duration": 255,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "R8Qh9F77-Tg",
+    "title": "@pritsprakash - Suzhal (Music Video) | Amudhan Priyan | Think Indie",
+    "channel": "Think Music India",
+    "thumbnail": "https://i.ytimg.com/vi/R8Qh9F77-Tg/hqdefault.jpg",
+    "duration": 227,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "0FxJjSjBPSw",
+    "title": "Unfiltered Truth About Indian Indie Music in 2026",
+    "channel": "Saransh Kharbanda",
+    "thumbnail": "https://i.ytimg.com/vi/0FxJjSjBPSw/hqdefault.jpg",
+    "duration": 558,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "fhwLwCUosns",
+    "title": "Thamizh - Rare Piece Vanjaram (Music Video)  | Dinesu | Think Indie",
+    "channel": "Think Music India and Tamizh ",
+    "thumbnail": "https://i.ytimg.com/vi/fhwLwCUosns/hqdefault.jpg",
+    "duration": 212,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "yDS8cOyYvN0",
+    "title": "Bharat Gaurav | Indian Independence Day Instrumental Music | Patriotic Orchestral BGM 🇮🇳",
+    "channel": "NT Raaga",
+    "thumbnail": "https://i.ytimg.com/vi/yDS8cOyYvN0/hqdefault.jpg",
+    "duration": 3710,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "dd4L6IM9_20",
+    "title": "PROUD TO BE INDIAN🇮🇳 | SALUTE TO INDIAN ARMY | INSPIRATIONAL PATRIOTIC VIDEO JUKEBOX | T-SERIES",
+    "channel": "T-Series",
+    "thumbnail": "https://i.ytimg.com/vi/dd4L6IM9_20/hqdefault.jpg",
+    "duration": 1859,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "jR3rWCBeO6M",
+    "title": "@SaiAbhyankkar - Radhimaa (Music Video) | Bhagyashri Borse | Vivek | Thejo Bharathwaj | Think Indie",
+    "channel": "Think Music India",
+    "thumbnail": "https://i.ytimg.com/vi/jR3rWCBeO6M/hqdefault.jpg",
+    "duration": 348,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "sw6XUtadCWc",
+    "title": "UDAAN (OFFICIAL MUSIC) | Indian Army War Anthem | Independence Day 2026",
+    "channel": "FORGOTTEN X MUSIC OFFICIAL",
+    "thumbnail": "https://i.ytimg.com/vi/sw6XUtadCWc/hqdefault.jpg",
+    "duration": 188,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "6Fk7DXi9mYc",
+    "title": "Happy Independence Day 2026 🇮🇳 | Patriotic Instrumental Music for 15th August",
+    "channel": "NT Raaga",
+    "thumbnail": "https://i.ytimg.com/vi/6Fk7DXi9mYc/hqdefault.jpg",
+    "duration": 1531,
+    "category": "indian_pop_music"
+  },
+  {
+    "id": "t56Z6UxcRDo",
+    "title": "Maa Tujhe Salaam - 8K/4K Music Video | A.R.Rahman | 80th Independence Day Song | Vande Mataram",
+    "channel": "Sony Music India",
+    "thumbnail": "https://i.ytimg.com/vi/t56Z6UxcRDo/hqdefault.jpg",
+    "duration": 290,
     "category": "indian_pop_music"
   }
 ]
