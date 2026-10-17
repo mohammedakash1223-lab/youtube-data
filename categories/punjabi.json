@@ -1,42 +1,34 @@
 [
   {
-    "id": "3_DP8RaOLEo",
-    "title": "Power  ( Official Video ) Himmat sandhu | Kahlon | Nav Dhiman | New punjabi Songs 2026",
-    "channel": "Himmat Sandhu",
-    "thumbnail": "https://i.ytimg.com/vi/3_DP8RaOLEo/hqdefault.jpg",
+    "id": "loo95X3Wjbs",
+    "title": "KNOWN UNKNOWNS ( FULL ALBUM  ) | GUR SIDHU | NawaMusic01 | Latest Punjabi songs 2026",
+    "channel": "NAWA MUSIC",
+    "thumbnail": "https://i.ytimg.com/vi/loo95X3Wjbs/hqdefault.jpg",
+    "duration": 1709,
+    "category": "punjabi"
+  },
+  {
+    "id": "qx5xwBW6n8M",
+    "title": "Benazeer - Arjan Dhillon | ਬੇਨਜ਼ੀਰ | بے نظیر | बेनज़ीर | New Punjabi Songs 2026",
+    "channel": "𝙰𝚁𝙹𝙰𝙽 𝙳𝙷𝙸𝙻𝙻𝙾𝙽 𝙵𝙰𝙽𝚂",
+    "thumbnail": "https://i.ytimg.com/vi/qx5xwBW6n8M/hqdefault.jpg",
+    "duration": 2065,
+    "category": "punjabi"
+  },
+  {
+    "id": "Sx91Hi7wNtM",
+    "title": "Hustle | Jordan Sandhu | Latest Punjabi Songs 2026 | New Punjabi Songs 2026",
+    "channel": "Speed Audio",
+    "thumbnail": "https://i.ytimg.com/vi/Sx91Hi7wNtM/hqdefault.jpg",
     "duration": 187,
     "category": "punjabi"
   },
   {
-    "id": "1rwq13M0zEw",
-    "title": "TAREEF (MUSIC VIDEO) Surjit Bhullar ft Sudesh Kumari | Latest punjabi songs 2026 | New punjabi songs",
-    "channel": "Motivate Music",
-    "thumbnail": "https://i.ytimg.com/vi/1rwq13M0zEw/hqdefault.jpg",
-    "duration": 189,
-    "category": "punjabi"
-  },
-  {
-    "id": "P9acqIy76Uw",
-    "title": "REAL BADMAN (Official Video) Karan Aujla",
-    "channel": "Karan Aujla",
-    "thumbnail": "https://i.ytimg.com/vi/P9acqIy76Uw/hqdefault.jpg",
-    "duration": 200,
-    "category": "punjabi"
-  },
-  {
-    "id": "pLGRaZpNO5Y",
-    "title": "BRABUS (Official Video) Parmish Verma - Harman Brar Ft. Kiran Bajwa | VICTORY LAP",
-    "channel": "Parmish Verma",
-    "thumbnail": "https://i.ytimg.com/vi/pLGRaZpNO5Y/hqdefault.jpg",
-    "duration": 260,
-    "category": "punjabi"
-  },
-  {
-    "id": "qdc1zBwULv8",
-    "title": "TOP BANDE (Official Video) | HUNAR SIDHU | Latest Punjabi Songs 2026 | T-Series",
-    "channel": "T-Series Apna Punjab",
-    "thumbnail": "https://i.ytimg.com/vi/qdc1zBwULv8/hqdefault.jpg",
-    "duration": 178,
+    "id": "vm92MBLZH4U",
+    "title": "Breezy (Official Music Video) Gur Sidhu | Kaptaan",
+    "channel": "Brown Town Music",
+    "thumbnail": "https://i.ytimg.com/vi/vm92MBLZH4U/hqdefault.jpg",
+    "duration": 159,
     "category": "punjabi"
   },
   {
@@ -48,27 +40,91 @@
     "category": "punjabi"
   },
   {
+    "id": "1rwq13M0zEw",
+    "title": "TAREEF (MUSIC VIDEO) Surjit Bhullar ft Sudesh Kumari | Latest punjabi songs 2026 | New punjabi songs",
+    "channel": "Motivate Music",
+    "thumbnail": "https://i.ytimg.com/vi/1rwq13M0zEw/hqdefault.jpg",
+    "duration": 189,
+    "category": "punjabi"
+  },
+  {
+    "id": "pLGRaZpNO5Y",
+    "title": "BRABUS (Official Video) Parmish Verma - Harman Brar Ft. Kiran Bajwa | VICTORY LAP",
+    "channel": "Parmish Verma",
+    "thumbnail": "https://i.ytimg.com/vi/pLGRaZpNO5Y/hqdefault.jpg",
+    "duration": 260,
+    "category": "punjabi"
+  },
+  {
+    "id": "NHdqpBLSOWY",
+    "title": "Ik Kudi ( Official Video ) Amar Sajaalpuria || New Punjabi Songs 2026",
+    "channel": "Amar Sajaalpuria",
+    "thumbnail": "https://i.ytimg.com/vi/NHdqpBLSOWY/hqdefault.jpg",
+    "duration": 188,
+    "category": "punjabi"
+  },
+  {
+    "id": "qdc1zBwULv8",
+    "title": "TOP BANDE (Official Video) | HUNAR SIDHU | Latest Punjabi Songs 2026 | T-Series",
+    "channel": "T-Series Apna Punjab",
+    "thumbnail": "https://i.ytimg.com/vi/qdc1zBwULv8/hqdefault.jpg",
+    "duration": 178,
+    "category": "punjabi"
+  },
+  {
+    "id": "P9acqIy76Uw",
+    "title": "REAL BADMAN (Official Video) Karan Aujla",
+    "channel": "Karan Aujla",
+    "thumbnail": "https://i.ytimg.com/vi/P9acqIy76Uw/hqdefault.jpg",
+    "duration": 200,
+    "category": "punjabi"
+  },
+  {
+    "id": "P11W7mpfGtc",
+    "title": "Kalli Khadi ( Music Video ) Watan Sahi - Dr Zeus - K Million Music - New Punjabi Song",
+    "channel": "K Million Music",
+    "thumbnail": "https://i.ytimg.com/vi/P11W7mpfGtc/hqdefault.jpg",
+    "duration": 165,
+    "category": "punjabi"
+  },
+  {
+    "id": "ZEkaBTa-FHc",
+    "title": "Zulf - Arjan Dhillon | ਜ਼ੁਲਫ | Mxrci | New Punjabi Songs 2026",
+    "channel": "𝙰𝚁𝙹𝙰𝙽 𝙳𝙷𝙸𝙻𝙻𝙾𝙽 𝙵𝙰𝙽𝚂",
+    "thumbnail": "https://i.ytimg.com/vi/ZEkaBTa-FHc/hqdefault.jpg",
+    "duration": 1820,
+    "category": "punjabi"
+  },
+  {
+    "id": "CcklmJeLtBA",
+    "title": "Punjab Bare : Hustinder | Parvinder Jhota | Latest Punjabi Song 2026",
+    "channel": "Vintage Records",
+    "thumbnail": "https://i.ytimg.com/vi/CcklmJeLtBA/hqdefault.jpg",
+    "duration": 333,
+    "category": "punjabi"
+  },
+  {
+    "id": "KX07BahYBj4",
+    "title": "BLIND BULLET (Visualiser ) - Veer Sandhu | NORTHSTAR | Latest Punjabi Song 2026",
+    "channel": "Veer Sandhu",
+    "thumbnail": "https://i.ytimg.com/vi/KX07BahYBj4/hqdefault.jpg",
+    "duration": 184,
+    "category": "punjabi"
+  },
+  {
+    "id": "3_DP8RaOLEo",
+    "title": "Power  ( Official Video ) Himmat sandhu | Kahlon | Nav Dhiman | New punjabi Songs 2026",
+    "channel": "Himmat Sandhu",
+    "thumbnail": "https://i.ytimg.com/vi/3_DP8RaOLEo/hqdefault.jpg",
+    "duration": 187,
+    "category": "punjabi"
+  },
+  {
     "id": "0tnbKiLiPt0",
     "title": "Banere Te - (Official Music Video) Amrinder Gill | Raj Ranjodh | Hazir",
     "channel": "Rhythm Boyz and Amrinder Gill",
     "thumbnail": "https://i.ytimg.com/vi/0tnbKiLiPt0/hqdefault.jpg",
     "duration": 162,
-    "category": "punjabi"
-  },
-  {
-    "id": "K58En_QOUOY",
-    "title": "JHUMKE (Official Video ) SIMAR DORRAHA || RAKA || PARINEET| NEW PUNJABI SONG 2026 || Empire Records",
-    "channel": "Empire Records and Anjaan Records Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/K58En_QOUOY/hqdefault.jpg",
-    "duration": 203,
-    "category": "punjabi"
-  },
-  {
-    "id": "C4XM2J7ha-8",
-    "title": "GASOLINA (Music Video) | Chani Nattan | Inderpal Moga | Chinna | Byg Byrd | New Punjabi Song 2026",
-    "channel": "Chani Nattan and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/C4XM2J7ha-8/hqdefault.jpg",
-    "duration": 156,
     "category": "punjabi"
   },
   {
@@ -80,11 +136,27 @@
     "category": "punjabi"
   },
   {
-    "id": "CcklmJeLtBA",
-    "title": "Punjab Bare : Hustinder | Parvinder Jhota | Latest Punjabi Song 2026",
-    "channel": "Vintage Records",
-    "thumbnail": "https://i.ytimg.com/vi/CcklmJeLtBA/hqdefault.jpg",
-    "duration": 333,
+    "id": "l3ZJ2yMZ-jM",
+    "title": "Big Statement | K.S Makhan | Hayer Records | New Punjabi Song 2026 | Tejwant Kittu",
+    "channel": "Hayer Records and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/l3ZJ2yMZ-jM/hqdefault.jpg",
+    "duration": 214,
+    "category": "punjabi"
+  },
+  {
+    "id": "C4XM2J7ha-8",
+    "title": "GASOLINA (Music Video) | Chani Nattan | Inderpal Moga | Chinna | Byg Byrd | New Punjabi Song 2026",
+    "channel": "Chani Nattan and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/C4XM2J7ha-8/hqdefault.jpg",
+    "duration": 156,
+    "category": "punjabi"
+  },
+  {
+    "id": "XkFZD52Epe8",
+    "title": "Koka Qehar - Shivjot | The Boss | AHSII | New Punjabi Songs 2026 | Punjabi Music Hit",
+    "channel": "Shivjot and Ignite Music",
+    "thumbnail": "https://i.ytimg.com/vi/XkFZD52Epe8/hqdefault.jpg",
+    "duration": 170,
     "category": "punjabi"
   },
   {
@@ -104,283 +176,11 @@
     "category": "punjabi"
   },
   {
-    "id": "gYmf-Eqkstw",
-    "title": "Refugee (Official Music Video) Jordan Sandhu | Latest Punjabi Songs 2026",
-    "channel": "Jordan Sandhu",
-    "thumbnail": "https://i.ytimg.com/vi/gYmf-Eqkstw/hqdefault.jpg",
-    "duration": 152,
-    "category": "punjabi"
-  },
-  {
-    "id": "wEP3oyfO6Gg",
-    "title": "Mehak Chandigarh Di (Official Video) Pardeep Sran |Jasmeen Akhtar |Gungun Bakshi|Arsh Sidhu| Gaiphy",
-    "channel": "Red Leaf Music",
-    "thumbnail": "https://i.ytimg.com/vi/wEP3oyfO6Gg/hqdefault.jpg",
-    "duration": 174,
-    "category": "punjabi"
-  },
-  {
-    "id": "9byPFP4sVjo",
-    "title": "Hisaab | Gulab Sidhu | Latest Punjabi Song 2026 | New Punjabi Songs 2026 | Speed Records",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/9byPFP4sVjo/hqdefault.jpg",
-    "duration": 220,
-    "category": "punjabi"
-  },
-  {
-    "id": "Pd1yGW_g2T8",
-    "title": "Ashke (Music Video) Karan Aujla  | Mxrci  | Aujla Szn 1",
-    "channel": "Karan Aujla",
-    "thumbnail": "https://i.ytimg.com/vi/Pd1yGW_g2T8/hqdefault.jpg",
-    "duration": 218,
-    "category": "punjabi"
-  },
-  {
-    "id": "vm92MBLZH4U",
-    "title": "Breezy (Official Music Video) Gur Sidhu | Kaptaan",
-    "channel": "Brown Town Music",
-    "thumbnail": "https://i.ytimg.com/vi/vm92MBLZH4U/hqdefault.jpg",
-    "duration": 159,
-    "category": "punjabi"
-  },
-  {
-    "id": "jXMbow9VLWI",
-    "title": "Sardaari ( Official Video ) Himmat sandhu | Kahlon | Bhindder Burj | New punjabi Songs 2026",
-    "channel": "Himmat Sandhu",
-    "thumbnail": "https://i.ytimg.com/vi/jXMbow9VLWI/hqdefault.jpg",
-    "duration": 256,
-    "category": "punjabi"
-  },
-  {
-    "id": "SjUrIDtLoUQ",
-    "title": "Khan Bhaini - Ki Jattiye (Official Video) | New Punjabi Songs 2026",
-    "channel": "Khan Bhaini",
-    "thumbnail": "https://i.ytimg.com/vi/SjUrIDtLoUQ/hqdefault.jpg",
-    "duration": 194,
-    "category": "punjabi"
-  },
-  {
-    "id": "iwddah0X-5c",
-    "title": "My Type (Official Music Video) Kulbir Jhinjer | Deep Jandu | Latest Punjabi Songs 2026",
-    "channel": "DXB RECORDS",
-    "thumbnail": "https://i.ytimg.com/vi/iwddah0X-5c/hqdefault.jpg",
-    "duration": 151,
-    "category": "punjabi"
-  },
-  {
-    "id": "qx5xwBW6n8M",
-    "title": "Benazeer - Arjan Dhillon | ਬੇਨਜ਼ੀਰ | بے نظیر | बेनज़ीर | New Punjabi Songs 2026",
-    "channel": "𝙰𝚁𝙹𝙰𝙽 𝙳𝙷𝙸𝙻𝙻𝙾𝙽 𝙵𝙰𝙽𝚂",
-    "thumbnail": "https://i.ytimg.com/vi/qx5xwBW6n8M/hqdefault.jpg",
-    "duration": 2065,
-    "category": "punjabi"
-  },
-  {
-    "id": "Z1n7eKDxkEA",
-    "title": "Zamana Badal Geya | Prabh Gill | Latest Punjabi Song 2026 | New Punjabi Songs 2026 | Speed Records",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/Z1n7eKDxkEA/hqdefault.jpg",
-    "duration": 258,
-    "category": "punjabi"
-  },
-  {
-    "id": "cuvy5snZ5ec",
-    "title": "Punjab Bare : Hustinder | Parvinder Jhota | Latest Punjabi Song 2026",
-    "channel": "Tdot Records",
-    "thumbnail": "https://i.ytimg.com/vi/cuvy5snZ5ec/hqdefault.jpg",
-    "duration": 305,
-    "category": "punjabi"
-  },
-  {
-    "id": "sEo3fL8OPoQ",
-    "title": "Opps (Official Video) Ammy Virk | Arjan Virk | Ary B | New Punjabi Songs 2026",
-    "channel": "Ammy Virk",
-    "thumbnail": "https://i.ytimg.com/vi/sEo3fL8OPoQ/hqdefault.jpg",
-    "duration": 134,
-    "category": "punjabi"
-  },
-  {
-    "id": "478GFvQ8MNk",
-    "title": "JUST YOU (OFFICIAL VIDEO) TARSEM JASSAR | PAV DHARIA | LATEST PUNJABI SONG 2026",
-    "channel": "Vehli Janta Films and VehliJantaRecords",
-    "thumbnail": "https://i.ytimg.com/vi/478GFvQ8MNk/hqdefault.jpg",
-    "duration": 164,
-    "category": "punjabi"
-  },
-  {
-    "id": "l3ZJ2yMZ-jM",
-    "title": "Big Statement | K.S Makhan | Hayer Records | New Punjabi Song 2026 | Tejwant Kittu",
-    "channel": "Hayer Records and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/l3ZJ2yMZ-jM/hqdefault.jpg",
-    "duration": 214,
-    "category": "punjabi"
-  },
-  {
-    "id": "NF3DPpo-EXw",
-    "title": "Varinder Brar- Big Poppa( Official music video) | Latest punjabi songs 2026 | New Punjabi song 2026",
-    "channel": "Varinder Brar",
-    "thumbnail": "https://i.ytimg.com/vi/NF3DPpo-EXw/hqdefault.jpg",
-    "duration": 156,
-    "category": "punjabi"
-  },
-  {
-    "id": "nA0h7RWxpCI",
-    "title": "Waah Waah (Official Video) - Ravinder Grewal | Jay K|New Punjabi Song 2026|Latest Punjabi Songs 2026",
-    "channel": "Tedi Pag Records",
-    "thumbnail": "https://i.ytimg.com/vi/nA0h7RWxpCI/hqdefault.jpg",
-    "duration": 214,
-    "category": "punjabi"
-  },
-  {
-    "id": "dGAJv50TEZU",
-    "title": "New Punjabi Songs 2026 | Doctor Saab (Official Video) Korala Maan ft Gurlez Akhtar",
-    "channel": "Korala Maan Music",
-    "thumbnail": "https://i.ytimg.com/vi/dGAJv50TEZU/hqdefault.jpg",
+    "id": "YduQkTKqbf4",
+    "title": "Tauheen : Manavgeet Gill | Kanji Porh | Ubhi | New Punjabi Songs 2026",
+    "channel": "Manavgeet Gill",
+    "thumbnail": "https://i.ytimg.com/vi/YduQkTKqbf4/hqdefault.jpg",
     "duration": 177,
-    "category": "punjabi"
-  },
-  {
-    "id": "Dol2IwugFds",
-    "title": "100% (Official Video) Lakhi Ghuman | Jang Dhillon | New Punjabi Songs | Latest Punjabi Songs 2026",
-    "channel": "Leaf Records",
-    "thumbnail": "https://i.ytimg.com/vi/Dol2IwugFds/hqdefault.jpg",
-    "duration": 178,
-    "category": "punjabi"
-  },
-  {
-    "id": "HW0_8GOuaVI",
-    "title": "VAIR (OFFICIAL VIDEO) AMRIT MAAN | THIARAJXTT | LATEST PUNJABI SONGS 2026 | NEW SONGS 2026",
-    "channel": "Amrit Maan",
-    "thumbnail": "https://i.ytimg.com/vi/HW0_8GOuaVI/hqdefault.jpg",
-    "duration": 210,
-    "category": "punjabi"
-  },
-  {
-    "id": "wHBn6aVHQkQ",
-    "title": "Built Different (Official Music Video) Saabi Bhinder | Cheetah | New Punjabi Songs 2026",
-    "channel": "Saabi Bhinder",
-    "thumbnail": "https://i.ytimg.com/vi/wHBn6aVHQkQ/hqdefault.jpg",
-    "duration": 196,
-    "category": "punjabi"
-  },
-  {
-    "id": "uq169Z4RLKM",
-    "title": "DEKHI JA - Parmish Verma - Harman Brar Ft. Kiran Bajwa | Victory Lap (Official Music Video)",
-    "channel": "Parmish Verma",
-    "thumbnail": "https://i.ytimg.com/vi/uq169Z4RLKM/hqdefault.jpg",
-    "duration": 183,
-    "category": "punjabi"
-  },
-  {
-    "id": "jksydmI7Z4w",
-    "title": "Charcha (Official Video) Pardeep Sran | Jashna | Gaiphy | New Punjabi Songs 2026 | Punjabi Songs",
-    "channel": "Red Leaf Music",
-    "thumbnail": "https://i.ytimg.com/vi/jksydmI7Z4w/hqdefault.jpg",
-    "duration": 163,
-    "category": "punjabi"
-  },
-  {
-    "id": "m8wmgqRIEpE",
-    "title": "Hood Ambience (Official Music Video) Navaan Sandhu | New Punjabi Songs 2026",
-    "channel": "Navaan Sandhu",
-    "thumbnail": "https://i.ytimg.com/vi/m8wmgqRIEpE/hqdefault.jpg",
-    "duration": 221,
-    "category": "punjabi"
-  },
-  {
-    "id": "KX07BahYBj4",
-    "title": "BLIND BULLET (Visualiser ) - Veer Sandhu | NORTHSTAR | Latest Punjabi Song 2026",
-    "channel": "Veer Sandhu",
-    "thumbnail": "https://i.ytimg.com/vi/KX07BahYBj4/hqdefault.jpg",
-    "duration": 184,
-    "category": "punjabi"
-  },
-  {
-    "id": "Tw5QQsSflYc",
-    "title": "God's Favorite (Official Video) Jordan Sandhu ft. Sultaan | New Music Punjabi 2026",
-    "channel": "Jordan Sandhu",
-    "thumbnail": "https://i.ytimg.com/vi/Tw5QQsSflYc/hqdefault.jpg",
-    "duration": 182,
-    "category": "punjabi"
-  },
-  {
-    "id": "E7fWa6dSsmQ",
-    "title": "NOTE (Official Music Video) | Kulbir Jhinjer | Punjabi Song 2026",
-    "channel": "Kulbir Jhinjer ",
-    "thumbnail": "https://i.ytimg.com/vi/E7fWa6dSsmQ/hqdefault.jpg",
-    "duration": 151,
-    "category": "punjabi"
-  },
-  {
-    "id": "P03rCJkFA2Q",
-    "title": "Jutti Talk :Official Video | Amrit Maan | Rass | Latest Punjabi Songs 2026 | New Songs 2026 ",
-    "channel": "Amrit Maan",
-    "thumbnail": "https://i.ytimg.com/vi/P03rCJkFA2Q/hqdefault.jpg",
-    "duration": 160,
-    "category": "punjabi"
-  },
-  {
-    "id": "rt32xvooETc",
-    "title": "Time (Official Music Video) NIJJAR | Autobiography | Latest Punjabi Song 2026",
-    "channel": "Saregama Punjabi and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/rt32xvooETc/hqdefault.jpg",
-    "duration": 177,
-    "category": "punjabi"
-  },
-  {
-    "id": "pmY2-uRHhEU",
-    "title": "CHEETAH (Official Music Video) | Chani Nattan | Inderpal Moga | Byg Byrd | New Punjabi Song 2026",
-    "channel": "Chani Nattan and Byg Byrd",
-    "thumbnail": "https://i.ytimg.com/vi/pmY2-uRHhEU/hqdefault.jpg",
-    "duration": 144,
-    "category": "punjabi"
-  },
-  {
-    "id": "bnu_Db3wCv8",
-    "title": "Ammiye (Official Music Video) NIJJAR | Dr Zeus | Autobiography | Latest Punjabi Song 2026",
-    "channel": "Saregama Punjabi and 2 more",
-    "thumbnail": "https://i.ytimg.com/vi/bnu_Db3wCv8/hqdefault.jpg",
-    "duration": 167,
-    "category": "punjabi"
-  },
-  {
-    "id": "5DA3dZ3WWjI",
-    "title": "Qismat Kaur (Official Video): Gulab Sidhu | Kulshan Sandhu | Upma Sharma | New Punjabi songs 2026",
-    "channel": "Top Notch Music",
-    "thumbnail": "https://i.ytimg.com/vi/5DA3dZ3WWjI/hqdefault.jpg",
-    "duration": 193,
-    "category": "punjabi"
-  },
-  {
-    "id": "sLueqNhgB3E",
-    "title": "Still In Love (Official Video) | Jassa Dhillon | New Punjabi Songs 2026",
-    "channel": "Jassa Dhillon",
-    "thumbnail": "https://i.ytimg.com/vi/sLueqNhgB3E/hqdefault.jpg",
-    "duration": 145,
-    "category": "punjabi"
-  },
-  {
-    "id": "qbA3KFXKwXY",
-    "title": "ROOH (Official Video) - Khan Bhaini | Guri Nimana | New Punjabi Songs 2026",
-    "channel": "Khan Bhaini",
-    "thumbnail": "https://i.ytimg.com/vi/qbA3KFXKwXY/hqdefault.jpg",
-    "duration": 206,
-    "category": "punjabi"
-  },
-  {
-    "id": "WmFm7-lNq9I",
-    "title": "Junoon (Official Video) - Khan Bhaini, Gurlez Akhtar, Raj Shoker, Guri N | New Punjabi Songs 2026",
-    "channel": "Khan Bhaini",
-    "thumbnail": "https://i.ytimg.com/vi/WmFm7-lNq9I/hqdefault.jpg",
-    "duration": 329,
-    "category": "punjabi"
-  },
-  {
-    "id": "yrFoTUpogdc",
-    "title": "Ludhiana (Official Video) Kulwinder Sohi | Kiran Bajwa | New Punjabi Songs 2026",
-    "channel": "Leaf Records",
-    "thumbnail": "https://i.ytimg.com/vi/yrFoTUpogdc/hqdefault.jpg",
-    "duration": 174,
     "category": "punjabi"
   },
   {
@@ -392,51 +192,243 @@
     "category": "punjabi"
   },
   {
-    "id": "49z1etm0wP0",
-    "title": "My Game (Official Video) - Ravinder Grewal | New Punjabi Songs 2026 | Latest Punjabi Songs 2026",
+    "id": "NF3DPpo-EXw",
+    "title": "Varinder Brar- Big Poppa( Official music video) | Latest punjabi songs 2026 | New Punjabi song 2026",
+    "channel": "Varinder Brar",
+    "thumbnail": "https://i.ytimg.com/vi/NF3DPpo-EXw/hqdefault.jpg",
+    "duration": 156,
+    "category": "punjabi"
+  },
+  {
+    "id": "wHh-6s-8UsM",
+    "title": "Mahol (Lyrical) Gulab Sidhu | Laddi Chhajla | New Punjabi Song 2026 | Latest Punjabi Song",
+    "channel": "Motivate Music",
+    "thumbnail": "https://i.ytimg.com/vi/wHh-6s-8UsM/hqdefault.jpg",
+    "duration": 155,
+    "category": "punjabi"
+  },
+  {
+    "id": "eI_s34ktN8A",
+    "title": "Zora Zori (Official Video) Honey Dhillon | Sandeep Aulakh | New Punjabi Song 2026 #newsong",
+    "channel": "White Hill Music",
+    "thumbnail": "https://i.ytimg.com/vi/eI_s34ktN8A/hqdefault.jpg",
+    "duration": 217,
+    "category": "punjabi"
+  },
+  {
+    "id": "M1-am0JueTM",
+    "title": "Sanjog - Title Track | Happy Raikoti | Jassie Gill | Neha Sharma | New Punjabi Love Song",
+    "channel": "Prime Records",
+    "thumbnail": "https://i.ytimg.com/vi/M1-am0JueTM/hqdefault.jpg",
+    "duration": 132,
+    "category": "punjabi"
+  },
+  {
+    "id": "2Qmn5QUz3D8",
+    "title": "Kaur B Non-Stop Hits (Audio Jukebox) | New Punjabi Songs 2026 | Latest Punjabi Songs 2026",
+    "channel": "Speed Classic Hitz",
+    "thumbnail": "https://i.ytimg.com/vi/2Qmn5QUz3D8/hqdefault.jpg",
+    "duration": 2628,
+    "category": "punjabi"
+  },
+  {
+    "id": "jXMbow9VLWI",
+    "title": "Sardaari ( Official Video ) Himmat sandhu | Kahlon | Bhindder Burj | New punjabi Songs 2026",
+    "channel": "Himmat Sandhu",
+    "thumbnail": "https://i.ytimg.com/vi/jXMbow9VLWI/hqdefault.jpg",
+    "duration": 256,
+    "category": "punjabi"
+  },
+  {
+    "id": "g0N-HXYB2Xc",
+    "title": "Bhabi | Surjit Bhullar & Sudesh Kumari | New Punjabi Song 2026 | Latest Punjabi Song",
+    "channel": "Punjabi Vibe",
+    "thumbnail": "https://i.ytimg.com/vi/g0N-HXYB2Xc/hqdefault.jpg",
+    "duration": 198,
+    "category": "punjabi"
+  },
+  {
+    "id": "uL2CvALQAmk",
+    "title": "Lemme Know  (Official Video) - Jaz Sandhu | Shanaya Khanna | Inder Chhajli  | New Punjabi Songs 2026",
+    "channel": "JATT BEAT MUSIC",
+    "thumbnail": "https://i.ytimg.com/vi/uL2CvALQAmk/hqdefault.jpg",
+    "duration": 160,
+    "category": "punjabi"
+  },
+  {
+    "id": "VsNSjUvaA-0",
+    "title": "Photo | B Praak | New Punjabi Song 2026 | B Praak New Punjabi Song 2026 New Sad Song 2026 #tranding ",
+    "channel": "Jazz Grik",
+    "thumbnail": "https://i.ytimg.com/vi/VsNSjUvaA-0/hqdefault.jpg",
+    "duration": 157,
+    "category": "punjabi"
+  },
+  {
+    "id": "nA0h7RWxpCI",
+    "title": "Waah Waah (Official Video) - Ravinder Grewal | Jay K|New Punjabi Song 2026|Latest Punjabi Songs 2026",
     "channel": "Tedi Pag Records",
-    "thumbnail": "https://i.ytimg.com/vi/49z1etm0wP0/hqdefault.jpg",
-    "duration": 228,
+    "thumbnail": "https://i.ytimg.com/vi/nA0h7RWxpCI/hqdefault.jpg",
+    "duration": 214,
     "category": "punjabi"
   },
   {
-    "id": "loo95X3Wjbs",
-    "title": "KNOWN UNKNOWNS ( FULL ALBUM  ) | GUR SIDHU | NawaMusic01 | Latest Punjabi songs 2026",
+    "id": "bnu_Db3wCv8",
+    "title": "Ammiye (Official Music Video) NIJJAR | Dr Zeus | Autobiography | Latest Punjabi Song 2026",
+    "channel": "Saregama Punjabi and 2 more",
+    "thumbnail": "https://i.ytimg.com/vi/bnu_Db3wCv8/hqdefault.jpg",
+    "duration": 167,
+    "category": "punjabi"
+  },
+  {
+    "id": "MZyrOO7QctQ",
+    "title": "HIMMAT SANDHU ( FULL ALBUM ) | NawaMusic01 | New Punjabi Songs 2026",
     "channel": "NAWA MUSIC",
-    "thumbnail": "https://i.ytimg.com/vi/loo95X3Wjbs/hqdefault.jpg",
-    "duration": 1709,
+    "thumbnail": "https://i.ytimg.com/vi/MZyrOO7QctQ/hqdefault.jpg",
+    "duration": 1541,
     "category": "punjabi"
   },
   {
-    "id": "Gy7nd_A9AIE",
-    "title": "COFFEE (Official Music Video) - Amrinder Gill | Jasmeen Akhtar | Navi Brar  | Raj Ranjodh",
-    "channel": "Rhythm Boyz and Amrinder Gill",
-    "thumbnail": "https://i.ytimg.com/vi/Gy7nd_A9AIE/hqdefault.jpg",
-    "duration": 164,
+    "id": "DRPT3rfdGec",
+    "title": "Peshi Patiala  :Baaghi Ft.Shiva Choudhary (Official Video) New Punjabi & Haryanvi Song 2026",
+    "channel": "OLDSKOOL RECORDS UK",
+    "thumbnail": "https://i.ytimg.com/vi/DRPT3rfdGec/hqdefault.jpg",
+    "duration": 170,
     "category": "punjabi"
   },
   {
-    "id": "wFT0bAraYdU",
-    "title": "100 Nonstop Punjabi Hits | New Punjabi Song 2026 | Latest Punjabi Song 2026",
+    "id": "FUi25Fp86kY",
+    "title": "Strawberry | Diljit Dosanjh | Latest Punjabi Song 2026 | New Punjabi Songs 2026 | Speed Records",
     "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/wFT0bAraYdU/hqdefault.jpg",
-    "duration": 17234,
+    "thumbnail": "https://i.ytimg.com/vi/FUi25Fp86kY/hqdefault.jpg",
+    "duration": 230,
     "category": "punjabi"
   },
   {
-    "id": "i9ZBe2jMj8E",
-    "title": "WANG - SUKHA | TANU GREWAL | MANNI SANDHU (OFFICIAL VIDEO)",
-    "channel": "Collab Creations and SUKHA",
-    "thumbnail": "https://i.ytimg.com/vi/i9ZBe2jMj8E/hqdefault.jpg",
-    "duration": 143,
+    "id": "9E9BH5Qu_4c",
+    "title": "VAILPUNA(OFFICIAL VIDEO) SATNAM JHAJJ ft.KARAM BRAR | NEW PUNJABI SONG 2026",
+    "channel": "Satnam Jhajj",
+    "thumbnail": "https://i.ytimg.com/vi/9E9BH5Qu_4c/hqdefault.jpg",
+    "duration": 215,
     "category": "punjabi"
   },
   {
-    "id": "r8lVDl85qyE",
-    "title": "One Call Away (Official Video) | Arjan Dhillon | Jazzy B | MXRCI | Latest Punjabi Songs 2026",
-    "channel": "Panj-aab Records",
-    "thumbnail": "https://i.ytimg.com/vi/r8lVDl85qyE/hqdefault.jpg",
-    "duration": 143,
+    "id": "iwddah0X-5c",
+    "title": "My Type (Official Music Video) Kulbir Jhinjer | Deep Jandu | Latest Punjabi Songs 2026",
+    "channel": "DXB RECORDS",
+    "thumbnail": "https://i.ytimg.com/vi/iwddah0X-5c/hqdefault.jpg",
+    "duration": 151,
+    "category": "punjabi"
+  },
+  {
+    "id": "IJkYQYoyJ2s",
+    "title": "BrotherHood (Full Album) Pardeep Sran | New Punjabi Songs 2026",
+    "channel": "Red Leaf Music",
+    "thumbnail": "https://i.ytimg.com/vi/IJkYQYoyJ2s/hqdefault.jpg",
+    "duration": 1206,
+    "category": "punjabi"
+  },
+  {
+    "id": "X2ZwUSo5LPc",
+    "title": "Dear Wifey | Sidhu Moose Wala | New Punjabi Song 2026 | Jot Music Presents",
+    "channel": "JoT MusiX",
+    "thumbnail": "https://i.ytimg.com/vi/X2ZwUSo5LPc/hqdefault.jpg",
+    "duration": 205,
+    "category": "punjabi"
+  },
+  {
+    "id": "12cr3nAGBEA",
+    "title": "MELA (Music Video) ZAFAR | GEET | LATEST PUNJABI SONG 2026 | NEW PUNJABI SONG 2026 | MOTIVATE MUSIC",
+    "channel": "Motivate Music",
+    "thumbnail": "https://i.ytimg.com/vi/12cr3nAGBEA/hqdefault.jpg",
+    "duration": 173,
+    "category": "punjabi"
+  },
+  {
+    "id": "RsMKLPaBhXw",
+    "title": "Wang Mashup | Sukha | Navaan Sandhu | Harshal Music | New Punjabi Song 2026",
+    "channel": "Harshal Music",
+    "thumbnail": "https://i.ytimg.com/vi/RsMKLPaBhXw/hqdefault.jpg",
+    "duration": 447,
+    "category": "punjabi"
+  },
+  {
+    "id": "XV1k_OYYtIg",
+    "title": "Bless | Arjan Dhillon | Jay Trak | Mxrci | New Punjabi Songs 2026",
+    "channel": "𝙰𝚁𝙹𝙰𝙽 𝙳𝙷𝙸𝙻𝙻𝙾𝙽 𝙵𝙰𝙽𝚂",
+    "thumbnail": "https://i.ytimg.com/vi/XV1k_OYYtIg/hqdefault.jpg",
+    "duration": 1681,
+    "category": "punjabi"
+  },
+  {
+    "id": "zFLJCjMJVds",
+    "title": "Arjan Dhillon New Album ( Hit Songs )New Punjabi Songs 2026#trending #punjabisong #arjandhillon",
+    "channel": "Arjan Clips",
+    "thumbnail": "https://i.ytimg.com/vi/zFLJCjMJVds/hqdefault.jpg",
+    "duration": 1393,
+    "category": "punjabi"
+  },
+  {
+    "id": "ToY7y71FuCk",
+    "title": "Chd Culture  (Official Video ) | Wilson Brar | BeatCop | New Punjabi Song 2026",
+    "channel": "Beatcop Music",
+    "thumbnail": "https://i.ytimg.com/vi/ToY7y71FuCk/hqdefault.jpg",
+    "duration": 136,
+    "category": "punjabi"
+  },
+  {
+    "id": "9byPFP4sVjo",
+    "title": "Hisaab | Gulab Sidhu | Latest Punjabi Song 2026 | New Punjabi Songs 2026 | Speed Records",
+    "channel": "Speed Records",
+    "thumbnail": "https://i.ytimg.com/vi/9byPFP4sVjo/hqdefault.jpg",
+    "duration": 220,
+    "category": "punjabi"
+  },
+  {
+    "id": "2W3AGnAD62I",
+    "title": "MUNDA KAALE RANG DA (Official Video) | JIGAR | Latest Punjabi Songs 2026 | T-Series",
+    "channel": "T-Series Apna Punjab",
+    "thumbnail": "https://i.ytimg.com/vi/2W3AGnAD62I/hqdefault.jpg",
+    "duration": 157,
+    "category": "punjabi"
+  },
+  {
+    "id": "E7fWa6dSsmQ",
+    "title": "NOTE (Official Music Video) | Kulbir Jhinjer | Punjabi Song 2026",
+    "channel": "Kulbir Jhinjer ",
+    "thumbnail": "https://i.ytimg.com/vi/E7fWa6dSsmQ/hqdefault.jpg",
+    "duration": 151,
+    "category": "punjabi"
+  },
+  {
+    "id": "GTzjxkIwjWs",
+    "title": "Best Songs Of Amrinder Gill (Audio Jukebox) | Latest Punjabi Song 2026 | Speed Records",
+    "channel": "Touchwood Productions",
+    "thumbnail": "https://i.ytimg.com/vi/GTzjxkIwjWs/hqdefault.jpg",
+    "duration": 2909,
+    "category": "punjabi"
+  },
+  {
+    "id": "I6T7xE3xpKU",
+    "title": "GOOD BOY (Official Video) Chani Nattan | Inderpal Moga |Jasmeen Akhtar Byg Byrd |  Punjabi Song 2026",
+    "channel": "Chani Nattan and Byg Byrd",
+    "thumbnail": "https://i.ytimg.com/vi/I6T7xE3xpKU/hqdefault.jpg",
+    "duration": 146,
+    "category": "punjabi"
+  },
+  {
+    "id": "4Bjop0ii9G0",
+    "title": "CHEEMA Y BEST EVER TOP HITS PUNJABI SONGS 2026 | CHEEMA Y SONGS | GUR SIDHU MUSIC | #cheemay ",
+    "channel": "Sherry ___",
+    "thumbnail": "https://i.ytimg.com/vi/4Bjop0ii9G0/hqdefault.jpg",
+    "duration": 2321,
+    "category": "punjabi"
+  },
+  {
+    "id": "-vbPTZT9hDM",
+    "title": "Satinder Sartaaj Latest Punjabi Songs 2026 ❤️ | Best Punjabi Hits Playlist | Jukebox Collection",
+    "channel": "Sidhu Yield",
+    "thumbnail": "https://i.ytimg.com/vi/-vbPTZT9hDM/hqdefault.jpg",
+    "duration": 1664,
     "category": "punjabi"
   },
   {
@@ -448,6 +440,22 @@
     "category": "punjabi"
   },
   {
+    "id": "uq169Z4RLKM",
+    "title": "DEKHI JA - Parmish Verma - Harman Brar Ft. Kiran Bajwa | Victory Lap (Official Music Video)",
+    "channel": "Parmish Verma",
+    "thumbnail": "https://i.ytimg.com/vi/uq169Z4RLKM/hqdefault.jpg",
+    "duration": 183,
+    "category": "punjabi"
+  },
+  {
+    "id": "sLueqNhgB3E",
+    "title": "Still In Love (Official Video) | Jassa Dhillon | New Punjabi Songs 2026",
+    "channel": "Jassa Dhillon",
+    "thumbnail": "https://i.ytimg.com/vi/sLueqNhgB3E/hqdefault.jpg",
+    "duration": 145,
+    "category": "punjabi"
+  },
+  {
     "id": "OOJdkq_Pepo",
     "title": "Brown Rang (4K Video) | Yo Yo Honey Singh | Latest Punjabi Song 2026 | New Punjabi Songs 2026",
     "channel": "Speed Classic Hitz",
@@ -456,59 +464,99 @@
     "category": "punjabi"
   },
   {
-    "id": "5nCpx0SxgGY",
-    "title": "Gidda (Animated Lyrical) | Diljit Dosanjh | Latest Punjabi Songs 2026 | New Punjabi Songs 2026",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/5nCpx0SxgGY/hqdefault.jpg",
-    "duration": 207,
-    "category": "punjabi"
-  },
-  {
-    "id": "cKciDGtVl18",
-    "title": "MidNight Thoughts : Gifty | Latest Punjabi Songs 2026 | New Punjabi Song 2026 @JattLifeStudios",
-    "channel": "Jatt Life Studios",
-    "thumbnail": "https://i.ytimg.com/vi/cKciDGtVl18/hqdefault.jpg",
-    "duration": 207,
-    "category": "punjabi"
-  },
-  {
-    "id": "YHD5bOmqKto",
-    "title": "\"KALI ACTIVA 2\" (Official Music Video): RUPINDER HANDA | Latest Punjabi Songs 2026",
-    "channel": "T-Series Apna Punjab and T-Series",
-    "thumbnail": "https://i.ytimg.com/vi/YHD5bOmqKto/hqdefault.jpg",
-    "duration": 216,
-    "category": "punjabi"
-  },
-  {
-    "id": "27tskZdgtAg",
-    "title": "AMMNA x Karam Brar - STUBBORN (Official Video) | Punjabi Songs 2026",
-    "channel": "AMMNA",
-    "thumbnail": "https://i.ytimg.com/vi/27tskZdgtAg/hqdefault.jpg",
-    "duration": 207,
-    "category": "punjabi"
-  },
-  {
-    "id": "-vINaZdBRRY",
-    "title": "Punjab Bleeding | Khamano Aala | Latest Punjabi Songs 2026",
-    "channel": "Khamano Aala ",
-    "thumbnail": "https://i.ytimg.com/vi/-vINaZdBRRY/hqdefault.jpg",
+    "id": "1Q5u6DTMVCQ",
+    "title": "Ishqa'n De Lekhe | Sajjan Adeeb | Gurnam Bhullar | Isha Malviya | New Punjabi Song 2026",
+    "channel": "Speed Records and Diamondstar Worldwide",
+    "thumbnail": "https://i.ytimg.com/vi/1Q5u6DTMVCQ/hqdefault.jpg",
     "duration": 190,
     "category": "punjabi"
   },
   {
-    "id": "Zop_i9Ur7JU",
-    "title": "Top Hits 2010-2026 (Mashup) New Punjabi Songs 2026 | Latest Punjabi Songs | Speed Records",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/Zop_i9Ur7JU/hqdefault.jpg",
-    "duration": 20688,
+    "id": "C9OmyNRyz4E",
+    "title": "295 (MUSIC VIDEO) SIDHU MOOSE WALA",
+    "channel": "Sidhu Moose Wala",
+    "thumbnail": "https://i.ytimg.com/vi/C9OmyNRyz4E/hqdefault.jpg",
+    "duration": 357,
     "category": "punjabi"
   },
   {
-    "id": "P9X39CPVO14",
-    "title": "Good Luck Charm (Official Song) Gulab Sidhu | Jasmeen Akhtar | Jang Dhillon | New Punjabi Songs 2026",
-    "channel": "Leaf Records",
-    "thumbnail": "https://i.ytimg.com/vi/P9X39CPVO14/hqdefault.jpg",
-    "duration": 234,
+    "id": "jzgjLA1kj58",
+    "title": "Chubby Girl - Arjan Dhillon, Mxrci | Latest Punjabi Songs 2026 | ArjanX",
+    "channel": "𝐀𝐫𝐣𝐚𝐧𝐗",
+    "thumbnail": "https://i.ytimg.com/vi/jzgjLA1kj58/hqdefault.jpg",
+    "duration": 1520,
+    "category": "punjabi"
+  },
+  {
+    "id": "Gcf_q4B3Crc",
+    "title": "Asla (Official Video) Mankirt Aulakh | Zehr Vibe | New Punjabi Song 2026",
+    "channel": "Mankirt Aulakh",
+    "thumbnail": "https://i.ytimg.com/vi/Gcf_q4B3Crc/hqdefault.jpg",
+    "duration": 197,
+    "category": "punjabi"
+  },
+  {
+    "id": "478GFvQ8MNk",
+    "title": "JUST YOU (OFFICIAL VIDEO) TARSEM JASSAR | PAV DHARIA | LATEST PUNJABI SONG 2026",
+    "channel": "Vehli Janta Films and VehliJantaRecords",
+    "thumbnail": "https://i.ytimg.com/vi/478GFvQ8MNk/hqdefault.jpg",
+    "duration": 164,
+    "category": "punjabi"
+  },
+  {
+    "id": "fxA7rFlmmf4",
+    "title": "Dreams - Amber [Official MV] ProdGK - K Million Music - Latest Punjabi Song",
+    "channel": "K Million Music",
+    "thumbnail": "https://i.ytimg.com/vi/fxA7rFlmmf4/hqdefault.jpg",
+    "duration": 165,
+    "category": "punjabi"
+  },
+  {
+    "id": "PLBqxgNge10",
+    "title": "Ashke (Punjabi Mashup) Karan Aujla | Cheema Y | Prod.By Dj Jit | Latest Punjabi Songs 2026",
+    "channel": "Dj Jit",
+    "thumbnail": "https://i.ytimg.com/vi/PLBqxgNge10/hqdefault.jpg",
+    "duration": 246,
+    "category": "punjabi"
+  },
+  {
+    "id": "HO9G-AKizy0",
+    "title": "Ak 47 (Official Music Video) Varinder Brar | Raman Romana | Latest Punjabi Songs 2026",
+    "channel": "Varinder Brar",
+    "thumbnail": "https://i.ytimg.com/vi/HO9G-AKizy0/hqdefault.jpg",
+    "duration": 223,
+    "category": "punjabi"
+  },
+  {
+    "id": "Si8GS8aLI1I",
+    "title": "Combination (Lyrical Video) - Amrit Maan - Punjabi Songs 2026",
+    "channel": "Humble Music",
+    "thumbnail": "https://i.ytimg.com/vi/Si8GS8aLI1I/hqdefault.jpg",
+    "duration": 239,
+    "category": "punjabi"
+  },
+  {
+    "id": "RaKIY3Vg-Vg",
+    "title": "Mausam (Official Video) Kulwant Khang | Love Sagar | Latest Punjabi Song 2026",
+    "channel": "White studio",
+    "thumbnail": "https://i.ytimg.com/vi/RaKIY3Vg-Vg/hqdefault.jpg",
+    "duration": 197,
+    "category": "punjabi"
+  },
+  {
+    "id": "SHZRK8iA4SI",
+    "title": "Do Or Die - Shree Brar (Official Video) | Khalnayak | Latest Punjabi Song 2026 | Devil Music ",
+    "channel": "D E V I L  M U S I C ",
+    "thumbnail": "https://i.ytimg.com/vi/SHZRK8iA4SI/hqdefault.jpg",
+    "duration": 151,
+    "category": "punjabi"
+  },
+  {
+    "id": "j3Nw01XiZ1E",
+    "title": "Itran Di Sheeshi (Audio) Satinder Sartaaj | Latest Punjabi Song 2026 | New Punjabi Song 2026",
+    "channel": "Touchwood Productions",
+    "thumbnail": "https://i.ytimg.com/vi/j3Nw01XiZ1E/hqdefault.jpg",
+    "duration": 281,
     "category": "punjabi"
   },
   {
@@ -517,14 +565,6 @@
     "channel": "Diljit Dosanjh",
     "thumbnail": "https://i.ytimg.com/vi/g-Ij0idc_dk/hqdefault.jpg",
     "duration": 136,
-    "category": "punjabi"
-  },
-  {
-    "id": "-oKAgd0gsHE",
-    "title": "Best of Bhangra | Video Jukebox | Latest Punjabi Songs 2020 | Speed Records",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/-oKAgd0gsHE/hqdefault.jpg",
-    "duration": 1915,
     "category": "punjabi"
   },
   {
@@ -544,19 +584,27 @@
     "category": "punjabi"
   },
   {
-    "id": "t7Orc_AP_s4",
-    "title": "PUNJABI BHANGRA OLD SCHOOL MIX | PUNJABI OLD SONGS | PUNJABI RETRO SONGS | PUNJABI OLD MASHUP",
-    "channel": "DJ RAV UK",
-    "thumbnail": "https://i.ytimg.com/vi/t7Orc_AP_s4/hqdefault.jpg",
-    "duration": 2381,
-    "category": "punjabi"
-  },
-  {
     "id": "UHv4snNgXeU",
     "title": "#nonstop PUNJABI BHANGRA 🔥🎵  |  Latest Bhangra Music Mashups | Sunix Thakor | Jukebox",
     "channel": "Sunix Thakor",
     "thumbnail": "https://i.ytimg.com/vi/UHv4snNgXeU/hqdefault.jpg",
     "duration": 1817,
+    "category": "punjabi"
+  },
+  {
+    "id": "i9ZBe2jMj8E",
+    "title": "WANG - SUKHA | TANU GREWAL | MANNI SANDHU (OFFICIAL VIDEO)",
+    "channel": "Collab Creations and SUKHA",
+    "thumbnail": "https://i.ytimg.com/vi/i9ZBe2jMj8E/hqdefault.jpg",
+    "duration": 143,
+    "category": "punjabi"
+  },
+  {
+    "id": "SBduEbOeRe4",
+    "title": "DJ EKYAM - Punjabi Bhangra Mix I Lohri Special I Bhangra Party Hits I Desi Jukebox I Nonstop Mashup",
+    "channel": "DJ EKYAM",
+    "thumbnail": "https://i.ytimg.com/vi/SBduEbOeRe4/hqdefault.jpg",
+    "duration": 2596,
     "category": "punjabi"
   },
   {
@@ -576,19 +624,11 @@
     "category": "punjabi"
   },
   {
-    "id": "pW4vJ91t84o",
-    "title": "2026 Nonstop Desi Mix | DJ Nick Dhillon, Diljit Dosanjh, Karan Aujla, Param, Shubh & More",
-    "channel": "Nick Dhillon",
-    "thumbnail": "https://i.ytimg.com/vi/pW4vJ91t84o/hqdefault.jpg",
-    "duration": 4792,
-    "category": "punjabi"
-  },
-  {
-    "id": "SBduEbOeRe4",
-    "title": "DJ EKYAM - Punjabi Bhangra Mix I Lohri Special I Bhangra Party Hits I Desi Jukebox I Nonstop Mashup",
-    "channel": "DJ EKYAM",
-    "thumbnail": "https://i.ytimg.com/vi/SBduEbOeRe4/hqdefault.jpg",
-    "duration": 2596,
+    "id": "cl0a3i2wFcc",
+    "title": "Diljit Dosanjh - G.O.A.T. (Official Music Video)",
+    "channel": "Diljit Dosanjh",
+    "thumbnail": "https://i.ytimg.com/vi/cl0a3i2wFcc/hqdefault.jpg",
+    "duration": 224,
     "category": "punjabi"
   },
   {
@@ -600,11 +640,11 @@
     "category": "punjabi"
   },
   {
-    "id": "f2Mu2nQmAt0",
-    "title": "DAS JA - DJ SANJ FT. LEHMBER HUSSAINPURI Official Video | Superhit Bhangra Song",
-    "channel": "DJ SANJ OFFICIAL CHANNEL",
-    "thumbnail": "https://i.ytimg.com/vi/f2Mu2nQmAt0/hqdefault.jpg",
-    "duration": 172,
+    "id": "UTYnBUaGTcU",
+    "title": "Gidha - R Nait (Official Video) | Himanshi Khurana | New Punjabi Bhangra Songs 2026",
+    "channel": "R Nait",
+    "thumbnail": "https://i.ytimg.com/vi/UTYnBUaGTcU/hqdefault.jpg",
+    "duration": 183,
     "category": "punjabi"
   },
   {
@@ -616,11 +656,11 @@
     "category": "punjabi"
   },
   {
-    "id": "UTYnBUaGTcU",
-    "title": "Gidha - R Nait (Official Video) | Himanshi Khurana | New Punjabi Bhangra Songs 2026",
-    "channel": "R Nait",
-    "thumbnail": "https://i.ytimg.com/vi/UTYnBUaGTcU/hqdefault.jpg",
-    "duration": 183,
+    "id": "t7Orc_AP_s4",
+    "title": "PUNJABI BHANGRA OLD SCHOOL MIX | PUNJABI OLD SONGS | PUNJABI RETRO SONGS | PUNJABI OLD MASHUP",
+    "channel": "DJ RAV UK",
+    "thumbnail": "https://i.ytimg.com/vi/t7Orc_AP_s4/hqdefault.jpg",
+    "duration": 2381,
     "category": "punjabi"
   },
   {
@@ -632,14 +672,6 @@
     "category": "punjabi"
   },
   {
-    "id": "p0eOkWEAheE",
-    "title": "PHATTE CHUK DI  - PBN | RAJ BAINS",
-    "channel": "Playback Records",
-    "thumbnail": "https://i.ytimg.com/vi/p0eOkWEAheE/hqdefault.jpg",
-    "duration": 258,
-    "category": "punjabi"
-  },
-  {
     "id": "CkRzt_Pyn18",
     "title": "Raf-Saperra - Morni (Official Lyric Video) | Ikky | Latest Punjabi Songs 2025",
     "channel": "RAF-SAPERRA",
@@ -648,27 +680,11 @@
     "category": "punjabi"
   },
   {
-    "id": "-99Z8E1pOrs",
-    "title": "OH Ho Ho Ho | ORIGINAL SONG | Ishq Tera Tadpave | Sukhbir | Original Video",
-    "channel": "Sukhbir",
-    "thumbnail": "https://i.ytimg.com/vi/-99Z8E1pOrs/hqdefault.jpg",
-    "duration": 236,
-    "category": "punjabi"
-  },
-  {
-    "id": "DHMZ-8sjdSM",
-    "title": "Kali Ainak - Malkit Singh | Official Video | Music Waves | Jay K | Latest Punjabi Songs 2022",
-    "channel": "Music Waves",
-    "thumbnail": "https://i.ytimg.com/vi/DHMZ-8sjdSM/hqdefault.jpg",
-    "duration": 216,
-    "category": "punjabi"
-  },
-  {
-    "id": "JSTj9ZPF1-w",
-    "title": "DAS JA MELNE || DJ Sanj FT. Lehmber Hussainpuri || BHANGRAlicious #DasJa #DasJaMelne #Bhangralicious",
-    "channel": "BHANGRAlicious",
-    "thumbnail": "https://i.ytimg.com/vi/JSTj9ZPF1-w/hqdefault.jpg",
-    "duration": 100,
+    "id": "f2Mu2nQmAt0",
+    "title": "DAS JA - DJ SANJ FT. LEHMBER HUSSAINPURI Official Video | Superhit Bhangra Song",
+    "channel": "DJ SANJ OFFICIAL CHANNEL",
+    "thumbnail": "https://i.ytimg.com/vi/f2Mu2nQmAt0/hqdefault.jpg",
+    "duration": 172,
     "category": "punjabi"
   },
   {
@@ -680,19 +696,51 @@
     "category": "punjabi"
   },
   {
-    "id": "hzTg4zPBtDU",
-    "title": "\"3 Peg Sharry Mann\" (Full Video) | Mista Baaz | Parmish Verma | Ravi Raj | Latest Punjabi Songs 2016",
-    "channel": "T-Series Apna Punjab",
-    "thumbnail": "https://i.ytimg.com/vi/hzTg4zPBtDU/hqdefault.jpg",
-    "duration": 280,
-    "category": "punjabi"
-  },
-  {
     "id": "qISQopa_0DA",
     "title": "Best Of giddha And Bhangra Mix/ Dj Diljit king Mix/Punjabi song...",
     "channel": "Dj Daljeet king 😈👑",
     "thumbnail": "https://i.ytimg.com/vi/qISQopa_0DA/hqdefault.jpg",
     "duration": 1548,
+    "category": "punjabi"
+  },
+  {
+    "id": "G8PU1HjZZj4",
+    "title": "LEHNGA : DILJIT DOSANJH | NEERU BAJWA | LATEST PUNJABI SONGS 2026 | NEW PUNJABI SONGS 2026",
+    "channel": "Speed Records",
+    "thumbnail": "https://i.ytimg.com/vi/G8PU1HjZZj4/hqdefault.jpg",
+    "duration": 168,
+    "category": "punjabi"
+  },
+  {
+    "id": "DHMZ-8sjdSM",
+    "title": "Kali Ainak - Malkit Singh | Official Video | Music Waves | Jay K | Latest Punjabi Songs 2022",
+    "channel": "Music Waves",
+    "thumbnail": "https://i.ytimg.com/vi/DHMZ-8sjdSM/hqdefault.jpg",
+    "duration": 216,
+    "category": "punjabi"
+  },
+  {
+    "id": "p0eOkWEAheE",
+    "title": "PHATTE CHUK DI  - PBN | RAJ BAINS",
+    "channel": "Playback Records",
+    "thumbnail": "https://i.ytimg.com/vi/p0eOkWEAheE/hqdefault.jpg",
+    "duration": 258,
+    "category": "punjabi"
+  },
+  {
+    "id": "JSTj9ZPF1-w",
+    "title": "DAS JA MELNE || DJ Sanj FT. Lehmber Hussainpuri || BHANGRAlicious #DasJa #DasJaMelne #Bhangralicious",
+    "channel": "BHANGRAlicious",
+    "thumbnail": "https://i.ytimg.com/vi/JSTj9ZPF1-w/hqdefault.jpg",
+    "duration": 100,
+    "category": "punjabi"
+  },
+  {
+    "id": "-99Z8E1pOrs",
+    "title": "OH Ho Ho Ho | ORIGINAL SONG | Ishq Tera Tadpave | Sukhbir | Original Video",
+    "channel": "Sukhbir",
+    "thumbnail": "https://i.ytimg.com/vi/-99Z8E1pOrs/hqdefault.jpg",
+    "duration": 236,
     "category": "punjabi"
   },
   {
@@ -704,6 +752,22 @@
     "category": "punjabi"
   },
   {
+    "id": "hzTg4zPBtDU",
+    "title": "\"3 Peg Sharry Mann\" (Full Video) | Mista Baaz | Parmish Verma | Ravi Raj | Latest Punjabi Songs 2016",
+    "channel": "T-Series Apna Punjab",
+    "thumbnail": "https://i.ytimg.com/vi/hzTg4zPBtDU/hqdefault.jpg",
+    "duration": 280,
+    "category": "punjabi"
+  },
+  {
+    "id": "-xQyp1w7pbM",
+    "title": "Punjabi Wedding Nonstop DJ Mix 2026 🔥 Part-2 | Full Bhangra Dance | Shaadi Special | DJ SIAN",
+    "channel": "DJ SIAN Official",
+    "thumbnail": "https://i.ytimg.com/vi/-xQyp1w7pbM/hqdefault.jpg",
+    "duration": 1546,
+    "category": "punjabi"
+  },
+  {
     "id": "JwSB9gbA2fw",
     "title": "DHOL JAGEERO DA (OLD CUT) - PANJABI MC FT. MASTER SALEEM (2003)",
     "channel": "Moviebox Record Label",
@@ -712,19 +776,11 @@
     "category": "punjabi"
   },
   {
-    "id": "oe_vBsDbYeY",
-    "title": "Aashiq - PBN ft. Miss Pooja - [OFFICIAL MUSIC VIDEO]",
-    "channel": "LIMITLESSRECORDS",
-    "thumbnail": "https://i.ytimg.com/vi/oe_vBsDbYeY/hqdefault.jpg",
-    "duration": 260,
-    "category": "punjabi"
-  },
-  {
-    "id": "uK4oTnLcIV4",
-    "title": "Back To Back Hits 2024 | Latest Punjabi Songs 2024 | New Punjabi Songs 2024 | Speed Records",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/uK4oTnLcIV4/hqdefault.jpg",
-    "duration": 14503,
+    "id": "b5MTaF0ub4M",
+    "title": "Kids' Bhangra || Song Top Notch Gabru || Singer Vicky || Jassar Creations Artistry Academy Kurali",
+    "channel": "Jassar Creations",
+    "thumbnail": "https://i.ytimg.com/vi/b5MTaF0ub4M/hqdefault.jpg",
+    "duration": 93,
     "category": "punjabi"
   },
   {
@@ -744,11 +800,11 @@
     "category": "punjabi"
   },
   {
-    "id": "RaKIY3Vg-Vg",
-    "title": "Mausam (Official Video) Kulwant Khang | Love Sagar | Latest Punjabi Song 2026",
-    "channel": "White studio",
-    "thumbnail": "https://i.ytimg.com/vi/RaKIY3Vg-Vg/hqdefault.jpg",
-    "duration": 197,
+    "id": "lL9P6vWEy0I",
+    "title": "Punjabi Romantic Songs | Punjabi Love Songs | Valentine's Day Special",
+    "channel": "Tips Punjabi",
+    "thumbnail": "https://i.ytimg.com/vi/lL9P6vWEy0I/hqdefault.jpg",
+    "duration": 1559,
     "category": "punjabi"
   },
   {
@@ -760,11 +816,11 @@
     "category": "punjabi"
   },
   {
-    "id": "TuCTTCu0Rvg",
-    "title": "Together - Nirvair Pannu (Official Video) Deol Harman | Juke Dock",
-    "channel": "Juke Dock",
-    "thumbnail": "https://i.ytimg.com/vi/TuCTTCu0Rvg/hqdefault.jpg",
-    "duration": 161,
+    "id": "j18MRhEfmPk",
+    "title": "Ishqa Ve - Zeeshan Ali | Yuvraj Tung | Seerat Mast | Sandeep Aulakh | Latest Punjabi Songs 2025",
+    "channel": "OpenMic Studios",
+    "thumbnail": "https://i.ytimg.com/vi/j18MRhEfmPk/hqdefault.jpg",
+    "duration": 230,
     "category": "punjabi"
   },
   {
@@ -776,6 +832,14 @@
     "category": "punjabi"
   },
   {
+    "id": "TuCTTCu0Rvg",
+    "title": "Together - Nirvair Pannu (Official Video) Deol Harman | Juke Dock",
+    "channel": "Juke Dock",
+    "thumbnail": "https://i.ytimg.com/vi/TuCTTCu0Rvg/hqdefault.jpg",
+    "duration": 161,
+    "category": "punjabi"
+  },
+  {
     "id": "1eBfTNOWv8k",
     "title": "First Love (Official Music Video) Garry Sandhu Ft Manpreet Toor | Punjabi Song 2025",
     "channel": "Fresh Media Records",
@@ -784,11 +848,11 @@
     "category": "punjabi"
   },
   {
-    "id": "j18MRhEfmPk",
-    "title": "Ishqa Ve - Zeeshan Ali | Yuvraj Tung | Seerat Mast | Sandeep Aulakh | Latest Punjabi Songs 2025",
-    "channel": "OpenMic Studios",
-    "thumbnail": "https://i.ytimg.com/vi/j18MRhEfmPk/hqdefault.jpg",
-    "duration": 230,
+    "id": "NCbucQti7Dg",
+    "title": "YOURS - MANI LONGIA | SYNC (OFFICIAL VIDEO)",
+    "channel": "Mani Longia Music",
+    "thumbnail": "https://i.ytimg.com/vi/NCbucQti7Dg/hqdefault.jpg",
+    "duration": 158,
     "category": "punjabi"
   },
   {
@@ -816,19 +880,11 @@
     "category": "punjabi"
   },
   {
-    "id": "NCbucQti7Dg",
-    "title": "YOURS - MANI LONGIA | SYNC (OFFICIAL VIDEO)",
-    "channel": "Mani Longia Music",
-    "thumbnail": "https://i.ytimg.com/vi/NCbucQti7Dg/hqdefault.jpg",
-    "duration": 158,
-    "category": "punjabi"
-  },
-  {
-    "id": "fxA7rFlmmf4",
-    "title": "Dreams - Amber [Official MV] ProdGK - K Million Music - Latest Punjabi Song",
-    "channel": "K Million Music",
-    "thumbnail": "https://i.ytimg.com/vi/fxA7rFlmmf4/hqdefault.jpg",
-    "duration": 165,
+    "id": "kR2Tlxzi5Is",
+    "title": "Tu Jo Mileya | Official Video | Juss x MixSingh | New Punjabi Love Song 2026 | Latest Punjabi Song",
+    "channel": "Times Music",
+    "thumbnail": "https://i.ytimg.com/vi/kR2Tlxzi5Is/hqdefault.jpg",
+    "duration": 179,
     "category": "punjabi"
   },
   {
@@ -848,27 +904,11 @@
     "category": "punjabi"
   },
   {
-    "id": "kR2Tlxzi5Is",
-    "title": "Tu Jo Mileya | Official Video | Juss x MixSingh | New Punjabi Love Song 2026 | Latest Punjabi Song",
-    "channel": "Times Music",
-    "thumbnail": "https://i.ytimg.com/vi/kR2Tlxzi5Is/hqdefault.jpg",
-    "duration": 179,
-    "category": "punjabi"
-  },
-  {
     "id": "S115R8T0zRE",
     "title": "Mera A Ve Tu | Official Video | Prabh Gill | New Punjabi Songs 2026",
     "channel": "Prabh Gill Music",
     "thumbnail": "https://i.ytimg.com/vi/S115R8T0zRE/hqdefault.jpg",
     "duration": 211,
-    "category": "punjabi"
-  },
-  {
-    "id": "iItgUTMl3Gw",
-    "title": "Arjan Dhillon - Kuz Saal",
-    "channel": "Brown Studios",
-    "thumbnail": "https://i.ytimg.com/vi/iItgUTMl3Gw/hqdefault.jpg",
-    "duration": 214,
     "category": "punjabi"
   },
   {
@@ -880,19 +920,27 @@
     "category": "punjabi"
   },
   {
+    "id": "ZF47bKTCuiQ",
+    "title": "Deep Chahal - Stand By (Official Video) | New Punjabi Songs 2026 | Latest Punjabi Songs 2026",
+    "channel": "Deep Chahal",
+    "thumbnail": "https://i.ytimg.com/vi/ZF47bKTCuiQ/hqdefault.jpg",
+    "duration": 144,
+    "category": "punjabi"
+  },
+  {
+    "id": "iItgUTMl3Gw",
+    "title": "Arjan Dhillon - Kuz Saal",
+    "channel": "Brown Studios",
+    "thumbnail": "https://i.ytimg.com/vi/iItgUTMl3Gw/hqdefault.jpg",
+    "duration": 214,
+    "category": "punjabi"
+  },
+  {
     "id": "-YlmnPh-6rE",
     "title": "For A Reason (Official Video) Karan Aujla | Tania  | Ikky | Latest Punjabi Songs 2025",
     "channel": "Rehaan Records",
     "thumbnail": "https://i.ytimg.com/vi/-YlmnPh-6rE/hqdefault.jpg",
     "duration": 189,
-    "category": "punjabi"
-  },
-  {
-    "id": "aq3rBOmR6Pw",
-    "title": "Sukoon (Official Song) Rajvir Jawanda | Singhjeet | G Guri | New Punjabi Song 2023",
-    "channel": "Rajvir Jawanda",
-    "thumbnail": "https://i.ytimg.com/vi/aq3rBOmR6Pw/hqdefault.jpg",
-    "duration": 233,
     "category": "punjabi"
   },
   {
@@ -904,14 +952,6 @@
     "category": "punjabi"
   },
   {
-    "id": "UJ8ZV7Q8uC0",
-    "title": "Pyar Hoya (Official Video) Hustinder | Vintage Records | Latest Punjabi Songs",
-    "channel": "Vintage Records",
-    "thumbnail": "https://i.ytimg.com/vi/UJ8ZV7Q8uC0/hqdefault.jpg",
-    "duration": 171,
-    "category": "punjabi"
-  },
-  {
     "id": "Df2r-zrVj5U",
     "title": "DIL DARIAN (Official Video) | Kambi Rajpuria | Latest Punjabi Songs 2024",
     "channel": "T-Series Apna Punjab",
@@ -920,27 +960,11 @@
     "category": "punjabi"
   },
   {
-    "id": "ngp3r6ozgPg",
-    "title": "Romantic Punjabi Songs 2024 (Mashup) | New Punjabi Songs 2024 | Latest Punjabi Songs 2024",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/ngp3r6ozgPg/hqdefault.jpg",
-    "duration": 7755,
-    "category": "punjabi"
-  },
-  {
-    "id": "_RywJ_FJ_3U",
-    "title": "Got You | G Khan | Jasmeen Akhtar | Rukhsar | Fateh Shergill | Kulshan Sandhu | New Punjabi Song",
-    "channel": "Organised Rhyme",
-    "thumbnail": "https://i.ytimg.com/vi/_RywJ_FJ_3U/hqdefault.jpg",
-    "duration": 228,
-    "category": "punjabi"
-  },
-  {
-    "id": "US8JUdfxyBg",
-    "title": "Amrinder Gill Romantic Hits (Audio Jukebox) | New Punjabi Song 2026 | Latest Punjabi Songs 2026",
-    "channel": "Touchwood Productions",
-    "thumbnail": "https://i.ytimg.com/vi/US8JUdfxyBg/hqdefault.jpg",
-    "duration": 2387,
+    "id": "ktf4y-sYboE",
+    "title": "Duji Vaar Pyar | Sunanda Sharma | Sukh-E | Jaani | Arvindr K | Official Video | Mad 4 Music",
+    "channel": "Mad 4 Music",
+    "thumbnail": "https://i.ytimg.com/vi/ktf4y-sYboE/hqdefault.jpg",
+    "duration": 231,
     "category": "punjabi"
   },
   {
@@ -952,51 +976,35 @@
     "category": "punjabi"
   },
   {
-    "id": "aq6uraECrc0",
-    "title": "IN LOVE (Official Video) Kulwinder Sohi | Messy Beats | DropBeats Studio | New Punjabi Song 2024",
-    "channel": "DropBeats Studio",
-    "thumbnail": "https://i.ytimg.com/vi/aq6uraECrc0/hqdefault.jpg",
-    "duration": 173,
+    "id": "nBBWEV40PGs",
+    "title": "Ikko Rang (Official Video) Bir Singh | Janjot Singh | New Punjabi song 2024 | Simbalz Entertainment",
+    "channel": "Simbalz Entertainment",
+    "thumbnail": "https://i.ytimg.com/vi/nBBWEV40PGs/hqdefault.jpg",
+    "duration": 259,
     "category": "punjabi"
   },
   {
-    "id": "lly6El7iMKs",
-    "title": "Sukoon (Official Video) Aden Ft.Geet Goraaya | Dilshad | Latest Punjabi Songs 2024 | Jagy Music",
-    "channel": "JAGY MUSIC",
-    "thumbnail": "https://i.ytimg.com/vi/lly6El7iMKs/hqdefault.jpg",
-    "duration": 170,
+    "id": "aq3rBOmR6Pw",
+    "title": "Sukoon (Official Song) Rajvir Jawanda | Singhjeet | G Guri | New Punjabi Song 2023",
+    "channel": "Rajvir Jawanda",
+    "thumbnail": "https://i.ytimg.com/vi/aq3rBOmR6Pw/hqdefault.jpg",
+    "duration": 233,
     "category": "punjabi"
   },
   {
-    "id": "aGunjhMR2y8",
-    "title": "Vichora ne sanu ada ada karta song | Amrinder Gill Songs | New Punjabi Songs | Punjabi Sad Song",
-    "channel": "SagaHits",
-    "thumbnail": "https://i.ytimg.com/vi/aGunjhMR2y8/hqdefault.jpg",
-    "duration": 137,
+    "id": "X1xub3f7ubY",
+    "title": "Rangeen (Official Music Video) Gurnam Bhullar | Gill Raunta | Master Mind | Diamondstar Worldwide",
+    "channel": "Diamondstar Worldwide",
+    "thumbnail": "https://i.ytimg.com/vi/X1xub3f7ubY/hqdefault.jpg",
+    "duration": 186,
     "category": "punjabi"
   },
   {
-    "id": "rmpaItFnKfE",
-    "title": "Bhulya Ki Ae (Official Video) Hustinder | Black Virus | Vintage Records | Punjabi songs",
-    "channel": "Vintage Records",
-    "thumbnail": "https://i.ytimg.com/vi/rmpaItFnKfE/hqdefault.jpg",
-    "duration": 218,
-    "category": "punjabi"
-  },
-  {
-    "id": "rCOWo_CTYtc",
-    "title": "Ishqan De Lekhe (Full Song) | Sajjan Adeeb | Latest Punjabi Song 2016 | Speed Records",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/rCOWo_CTYtc/hqdefault.jpg",
-    "duration": 226,
-    "category": "punjabi"
-  },
-  {
-    "id": "rqmUUbWn40c",
-    "title": "Sajjna Je Sambhal Gaya - Prabh Gill | Sad Punjabi Songs",
-    "channel": "Lokdhun Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/rqmUUbWn40c/hqdefault.jpg",
-    "duration": 191,
+    "id": "SR9Ly4IpIdQ",
+    "title": "Main Teri Ho Gayi\" Lyrical Lyrics – Millind Gaba Ft Aditi Budhathoki || Latest Punjabi Hit",
+    "channel": "Kalakaar",
+    "thumbnail": "https://i.ytimg.com/vi/SR9Ly4IpIdQ/hqdefault.jpg",
+    "duration": 290,
     "category": "punjabi"
   },
   {
@@ -1008,19 +1016,67 @@
     "category": "punjabi"
   },
   {
-    "id": "Z6OJ2CrPsnY",
-    "title": "Gal Hor Honi Si (Lyrical Video) | Kulbir Jhinjer | Rakhwan Kota | Punjabi Songs 2022",
-    "channel": "VehliJantaRecords",
-    "thumbnail": "https://i.ytimg.com/vi/Z6OJ2CrPsnY/hqdefault.jpg",
-    "duration": 363,
+    "id": "rCOWo_CTYtc",
+    "title": "Ishqan De Lekhe (Full Song) | Sajjan Adeeb | Latest Punjabi Song 2016 | Speed Records",
+    "channel": "Speed Records",
+    "thumbnail": "https://i.ytimg.com/vi/rCOWo_CTYtc/hqdefault.jpg",
+    "duration": 226,
     "category": "punjabi"
   },
   {
-    "id": "i33gqSrwjak",
-    "title": "Khair - Nirvair Pannu (Official Song) Jassi X | Juke Dock",
-    "channel": "Juke Dock",
-    "thumbnail": "https://i.ytimg.com/vi/i33gqSrwjak/hqdefault.jpg",
-    "duration": 180,
+    "id": "2pAVtinJOfM",
+    "title": "Koshish (Full Song) Prem Dhillon | Armaan Bedil | TanuGrewal |  Munda Southall Da Releasing On 4 Aug",
+    "channel": "Prem Dhillon",
+    "thumbnail": "https://i.ytimg.com/vi/2pAVtinJOfM/hqdefault.jpg",
+    "duration": 198,
+    "category": "punjabi"
+  },
+  {
+    "id": "UW-q1y9AG44",
+    "title": "Kamal Khan Sad Songs | Hearttouching Punjabi Sad Songs | Kamal Khan Nonstop Sad Songs",
+    "channel": "Xyzaestheticeditor",
+    "thumbnail": "https://i.ytimg.com/vi/UW-q1y9AG44/hqdefault.jpg",
+    "duration": 1521,
+    "category": "punjabi"
+  },
+  {
+    "id": "0IOwfbUSPDo",
+    "title": "Regrets - Arjan Dhillon ( Official EP )  | Latest Arjan Dhillon EP 2026 | Latest Punjabi EP 2026",
+    "channel": "Arjan Beats",
+    "thumbnail": "https://i.ytimg.com/vi/0IOwfbUSPDo/hqdefault.jpg",
+    "duration": 1270,
+    "category": "punjabi"
+  },
+  {
+    "id": "rmpaItFnKfE",
+    "title": "Bhulya Ki Ae (Official Video) Hustinder | Black Virus | Vintage Records | Punjabi songs",
+    "channel": "Vintage Records",
+    "thumbnail": "https://i.ytimg.com/vi/rmpaItFnKfE/hqdefault.jpg",
+    "duration": 218,
+    "category": "punjabi"
+  },
+  {
+    "id": "rqmUUbWn40c",
+    "title": "Sajjna Je Sambhal Gaya - Prabh Gill | Sad Punjabi Songs",
+    "channel": "Lokdhun Punjabi",
+    "thumbnail": "https://i.ytimg.com/vi/rqmUUbWn40c/hqdefault.jpg",
+    "duration": 191,
+    "category": "punjabi"
+  },
+  {
+    "id": "lmz2mhNwalo",
+    "title": "Durga Rangila & Manjeet Rupowalia | Top Punjabi Sad Songs | Audio Jukebox | Sadabahar Geet",
+    "channel": "Vital Golden Classic Song and Vital Records",
+    "thumbnail": "https://i.ytimg.com/vi/lmz2mhNwalo/hqdefault.jpg",
+    "duration": 3381,
+    "category": "punjabi"
+  },
+  {
+    "id": "BzagNYboAjc",
+    "title": "Tere Layi",
+    "channel": "Nirvair Pannu",
+    "thumbnail": "https://i.ytimg.com/vi/BzagNYboAjc/hqdefault.jpg",
+    "duration": 401,
     "category": "punjabi"
   },
   {
@@ -1032,19 +1088,11 @@
     "category": "punjabi"
   },
   {
-    "id": "pSZ85cz5Sjo",
-    "title": "Dila Ve (HD Video) Gur Sidhu Ft Jassa Dhillon | Punjabi Song",
-    "channel": "Brown Town Music",
-    "thumbnail": "https://i.ytimg.com/vi/pSZ85cz5Sjo/hqdefault.jpg",
-    "duration": 266,
-    "category": "punjabi"
-  },
-  {
-    "id": "enQuoRciccM",
-    "title": "AADAT (English Subtitles) Ninja | Parmish Verma | Goldboy | Nirmaan | Romantic Songs | Malwa Records",
-    "channel": "Malwa Records",
-    "thumbnail": "https://i.ytimg.com/vi/enQuoRciccM/hqdefault.jpg",
-    "duration": 241,
+    "id": "aGunjhMR2y8",
+    "title": "Vichora ne sanu ada ada karta song | Amrinder Gill Songs | New Punjabi Songs | Punjabi Sad Song",
+    "channel": "SagaHits",
+    "thumbnail": "https://i.ytimg.com/vi/aGunjhMR2y8/hqdefault.jpg",
+    "duration": 137,
     "category": "punjabi"
   },
   {
@@ -1056,19 +1104,51 @@
     "category": "punjabi"
   },
   {
-    "id": "1NkhjcBnHfM",
-    "title": "DOORIYAN (Official Video) - Guri - Tania - Latest Hit Punjabi Sad Song - Geet MP3",
-    "channel": "Geet MP3 Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/1NkhjcBnHfM/hqdefault.jpg",
-    "duration": 239,
+    "id": "Wrlyv7N_SXE",
+    "title": "MUKH - PRODBYBRXWNBOY",
+    "channel": "ProdbyBrxwnboy",
+    "thumbnail": "https://i.ytimg.com/vi/Wrlyv7N_SXE/hqdefault.jpg",
+    "duration": 285,
     "category": "punjabi"
   },
   {
-    "id": "jynMDYYFB9I",
-    "title": "Hauli Hauli Bhul Javange Tainu Sohneya Yaara Ve  | Sanam Parowal - Sad Love Story - Punjabi Songs",
-    "channel": "Lokdhun Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/jynMDYYFB9I/hqdefault.jpg",
-    "duration": 249,
+    "id": "i33gqSrwjak",
+    "title": "Khair - Nirvair Pannu (Official Song) Jassi X | Juke Dock",
+    "channel": "Juke Dock",
+    "thumbnail": "https://i.ytimg.com/vi/i33gqSrwjak/hqdefault.jpg",
+    "duration": 180,
+    "category": "punjabi"
+  },
+  {
+    "id": "enQuoRciccM",
+    "title": "AADAT (English Subtitles) Ninja | Parmish Verma | Goldboy | Nirmaan | Romantic Songs | Malwa Records",
+    "channel": "Malwa Records",
+    "thumbnail": "https://i.ytimg.com/vi/enQuoRciccM/hqdefault.jpg",
+    "duration": 241,
+    "category": "punjabi"
+  },
+  {
+    "id": "Eu-CJl1bsIU",
+    "title": "EVERYBODY HURTS : Sidhu Moose Wala | Jayb | Official Visual Video | New Song 2022",
+    "channel": "Sidhu Moose Wala",
+    "thumbnail": "https://i.ytimg.com/vi/Eu-CJl1bsIU/hqdefault.jpg",
+    "duration": 171,
+    "category": "punjabi"
+  },
+  {
+    "id": "Zgt8ogWWu1Q",
+    "title": "Raah (Official Video) Navaan Sandhu | Jay B Singh l | New Punjabi Song 2022",
+    "channel": "Navaan Sandhu",
+    "thumbnail": "https://i.ytimg.com/vi/Zgt8ogWWu1Q/hqdefault.jpg",
+    "duration": 221,
+    "category": "punjabi"
+  },
+  {
+    "id": "KyK3Pn4JaSI",
+    "title": "Ranjit Bawa - Kami Mehsoos Meri - Phulkari (Official Video) | Romantic Punjabi Songs | Saga Music",
+    "channel": "SagaHits",
+    "thumbnail": "https://i.ytimg.com/vi/KyK3Pn4JaSI/hqdefault.jpg",
+    "duration": 259,
     "category": "punjabi"
   },
   {
@@ -1080,51 +1160,11 @@
     "category": "punjabi"
   },
   {
-    "id": "CNQ7g378j5g",
-    "title": "Punjabi Sad Song | Akhian (Official Video) Happy Raikoti ft. Navpreet Banga | GoldBoy | Ishtar Music",
-    "channel": "Ishtar Punjabi",
-    "thumbnail": "https://i.ytimg.com/vi/CNQ7g378j5g/hqdefault.jpg",
-    "duration": 240,
-    "category": "punjabi"
-  },
-  {
-    "id": "2VlRiehUhzY",
-    "title": "Mano Lath Na Jayi ( Full Song) Navjeet | Goldboy | Latest Punjabi Songs 2019",
-    "channel": "T-Series Apna Punjab",
-    "thumbnail": "https://i.ytimg.com/vi/2VlRiehUhzY/hqdefault.jpg",
-    "duration": 318,
-    "category": "punjabi"
-  },
-  {
-    "id": "85oG7qptPPA",
-    "title": "Bhulliye Kive’n (Official Video) - Satinder Sartaaj | Neeru Bajwa | Shayar | New Punjabi Songs 2024",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/85oG7qptPPA/hqdefault.jpg",
-    "duration": 256,
-    "category": "punjabi"
-  },
-  {
-    "id": "YrUqw7uspKg",
-    "title": "Mann Bharrya (Full Song) | B Praak | Jaani | Himanshi Khurana | Arvindr Khaira | Punjabi Songs",
-    "channel": "Speed Records",
-    "thumbnail": "https://i.ytimg.com/vi/YrUqw7uspKg/hqdefault.jpg",
-    "duration": 277,
-    "category": "punjabi"
-  },
-  {
-    "id": "RXftkuWKal4",
-    "title": "Dila Himmat Kar (Full Song) Gur Chahal, Afsana Khan | Goldboy | Happy Kotbhai | Latest Punjabi Songs",
-    "channel": "T-Series Apna Punjab",
-    "thumbnail": "https://i.ytimg.com/vi/RXftkuWKal4/hqdefault.jpg",
-    "duration": 236,
-    "category": "punjabi"
-  },
-  {
-    "id": "I2vK5LC4jPI",
-    "title": "Ikko Dil : Ashar Ft. Rumman Shahrukh | Hitesh Arora | Latest Punjabi Songs 2025 | New Punjabi Song",
-    "channel": "Leaf Records",
-    "thumbnail": "https://i.ytimg.com/vi/I2vK5LC4jPI/hqdefault.jpg",
-    "duration": 191,
+    "id": "jynMDYYFB9I",
+    "title": "Hauli Hauli Bhul Javange Tainu Sohneya Yaara Ve  | Sanam Parowal - Sad Love Story - Punjabi Songs",
+    "channel": "Lokdhun Punjabi",
+    "thumbnail": "https://i.ytimg.com/vi/jynMDYYFB9I/hqdefault.jpg",
+    "duration": 249,
     "category": "punjabi"
   }
 ]
