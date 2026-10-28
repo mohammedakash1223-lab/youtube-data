@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-27T21:47:43.560629+00:00",
+  "generated_at": "2026-10-28T03:46:02.306566+00:00",
   "categories": [
     {
       "name": "home",
       "type": "song",
       "file": "home.json",
-      "count": 218
+      "count": 220
     },
     {
       "name": "recently_uploaded",
       "type": "song",
       "file": "recently_uploaded.json",
-      "count": 123
+      "count": 131
     },
     {
       "name": "indian_pop_music",
       "type": "song",
       "file": "indian_pop_music.json",
-      "count": 128
+      "count": 125
     },
     {
       "name": "haryanvi",
@@ -29,67 +29,67 @@
       "name": "punjabi",
       "type": "song",
       "file": "punjabi.json",
-      "count": 144
+      "count": 140
     },
     {
       "name": "storytelling",
       "type": "song",
       "file": "storytelling.json",
-      "count": 123
+      "count": 120
     },
     {
       "name": "music",
       "type": "song",
       "file": "music.json",
-      "count": 138
+      "count": 131
     },
     {
       "name": "gaming",
       "type": "song",
       "file": "gaming.json",
-      "count": 187
+      "count": 183
     },
     {
       "name": "news",
       "type": "song",
       "file": "news.json",
-      "count": 153
+      "count": 155
     },
     {
       "name": "sports",
       "type": "song",
       "file": "sports.json",
-      "count": 150
+      "count": 153
     },
     {
       "name": "fashion",
       "type": "song",
       "file": "fashion.json",
-      "count": 129
+      "count": 126
     },
     {
       "name": "bollywood_movies",
       "type": "movie",
       "file": "bollywood_movies.json",
-      "count": 75
+      "count": 74
     },
     {
       "name": "hollywood_movies",
       "type": "movie",
       "file": "hollywood_movies.json",
-      "count": 69
+      "count": 68
     },
     {
       "name": "south_indian_movies",
       "type": "movie",
       "file": "south_indian_movies.json",
-      "count": 61
+      "count": 59
     },
     {
       "name": "punjabi_movies",
       "type": "movie",
       "file": "punjabi_movies.json",
-      "count": 46
+      "count": 47
     }
   ]
 }
