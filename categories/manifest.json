@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-11T04:27:02.541163+00:00",
+  "generated_at": "2026-11-11T13:30:06.524552+00:00",
   "categories": [
     {
       "name": "home",
       "type": "song",
       "file": "home.json",
-      "count": 219
+      "count": 217
     },
     {
       "name": "recently_uploaded",
       "type": "song",
       "file": "recently_uploaded.json",
-      "count": 131
+      "count": 129
     },
     {
       "name": "indian_pop_music",
       "type": "song",
       "file": "indian_pop_music.json",
-      "count": 118
+      "count": 120
     },
     {
       "name": "haryanvi",
       "type": "song",
       "file": "haryanvi.json",
-      "count": 113
+      "count": 106
     },
     {
       "name": "punjabi",
       "type": "song",
       "file": "punjabi.json",
-      "count": 137
+      "count": 138
     },
     {
       "name": "storytelling",
       "type": "song",
       "file": "storytelling.json",
-      "count": 120
+      "count": 121
     },
     {
       "name": "music",
       "type": "song",
       "file": "music.json",
-      "count": 147
+      "count": 131
     },
     {
       "name": "gaming",
       "type": "song",
       "file": "gaming.json",
-      "count": 187
+      "count": 179
     },
     {
       "name": "news",
       "type": "song",
       "file": "news.json",
-      "count": 159
+      "count": 158
     },
     {
       "name": "sports",
       "type": "song",
       "file": "sports.json",
-      "count": 148
+      "count": 146
     },
     {
       "name": "fashion",
@@ -71,19 +71,19 @@
       "name": "bollywood_movies",
       "type": "movie",
       "file": "bollywood_movies.json",
-      "count": 75
+      "count": 72
     },
     {
       "name": "hollywood_movies",
       "type": "movie",
       "file": "hollywood_movies.json",
-      "count": 68
+      "count": 69
     },
     {
       "name": "south_indian_movies",
       "type": "movie",
       "file": "south_indian_movies.json",
-      "count": 62
+      "count": 61
     },
     {
       "name": "punjabi_movies",
